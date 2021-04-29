@@ -1,0 +1,18 @@
+sudo: false
+language: go
+go:
+    - 1.15.8
+    - master
+
+go_import_path: golang.org/x/lint
+
+install:
+  - go get -t -v ./...
+
+script:
+  - go test -v -race ./...
+
+matrix:
+  allow_failures:
+    - go: master
+  fast_finish: true
