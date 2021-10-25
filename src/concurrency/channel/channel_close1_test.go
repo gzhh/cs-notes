@@ -11,7 +11,7 @@ func dataProducer(ch chan int, wg *sync.WaitGroup) {
 		for i := 0; i < 10; i++ {
 			ch <- i
 		}
-		close(ch)
+		close(ch) // broadcast
 
 		wg.Done()
 	}()
