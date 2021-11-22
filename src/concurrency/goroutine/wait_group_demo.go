@@ -1,63 +1,24 @@
 package main
 
-import (
-	"fmt"
-	"sync"
-)
+import "sync"
 
-/*
-// 输出结果为：over!
-// 因为 goroutine 以非阻塞的方式执行，它们会随着程序(主线程)的结束而消亡，所以程序输出字符串 "over!" 就退出了。
-func main()  {
-	names := []string{
-		"Zhao",
-		"Qian",
-		"Sun",
-		"Li",
-	}
+/**
+sync.WaitGroup 是 Golang 中常用的并发措施，我们可以用它来等待一批 Goroutine 结束。
 
-	for _, name := range names {
-		go helloHandler(name)
-	}
-	fmt.Println("over!")
-}
+WaitGroup 的用法非常简单：
+使用 Add 添加需要等待的个数，使用 Done 来通知 WaitGroup 任务已完成，使用 Wait 来等待所有 goroutine 结束。
 
-func helloHandler(name string) {
-	time.Sleep(time.Second)
-	fmt.Println("Hello, ", name)
-}
- */
-
-
-// To wait for multiple goroutines to finish, we can use a wait group.
-// Ref:
-// https://golang.org/pkg/sync/#example_WaitGroup
-// https://gobyexample.com/waitgroups
-func main()  {
-	names := []string{
-		"Zhao",
-		"Qian",
-		"Sun",
-		"Li",
-	}
-
+Ref: https://mp.weixin.qq.com/s/CkSd2aldYaoLbd-IKhkpWg
+*/
+func main() {
 	var wg sync.WaitGroup
-	for _, name := range names {
-		// Add adds delta, which may be negative, to the WaitGroup counter.
+	for i := 1; i <= 5; i++ {
 		wg.Add(1)
-		go helloHandler(name, &wg)
+		go func() {
+			defer wg.Done()
+			println("hello")
+		}()
 	}
-	// Wait blocks until the WaitGroup counter is zero.
+
 	wg.Wait()
-
-	fmt.Println("over!")
-}
-
-// This is the function we’ll run in every goroutine. Note that a WaitGroup must be passed to functions by pointer.
-func helloHandler(name string, wg *sync.WaitGroup) {
-	// Done decrements the WaitGroup counter by one.
-	defer wg.Done()
-
-	//time.Sleep(time.Second)
-	fmt.Println("Hello, ", name)
 }
