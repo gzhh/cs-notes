@@ -1,7 +1,0 @@
-# 抽象工厂
-
-抽象工厂模式提供了一种方式，可以将一组具有同一主题的单独的工厂封装起来。
-
-抽象工厂模式将一组对象的实现细节与他们的一般使用分离开来。
-
-wiki: https://en.wikipedia.org/wiki/Abstract_factory_pattern
