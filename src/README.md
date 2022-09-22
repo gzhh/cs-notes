@@ -21,8 +21,28 @@
 
 
 ### 内存相关
+内存模型
+- Memory Models: https://research.swtch.com/mm
+
 常见内存节省技巧
 - 预先给切片分配容量
 - 按类型调整结构体中字段顺序
 - 使用 map[string]struct{} 代替 map[string]bool
+
+
+### time 相关
+最佳实践：
+- https://gobyexample.com/time
+- https://gobyexample.com/time-formatting-parsing
+- https://gobyexample.com/timeouts
+- https://gobyexample.com/timers
+- https://gobyexample.com/tickers
+
+参考：
+- https://pkg.go.dev/runtime
+- https://pkg.go.dev/time
+- https://cs.opensource.google/go/go/+/refs/tags/go1.18:src/runtime/time.go
+- https://cs.opensource.google/go/go/+/refs/tags/go1.18:src/time/time.go
+- https://cs.opensource.google/go/go/+/refs/tags/go1.18:src/time/sleep.go
+- https://cs.opensource.google/go/go/+/refs/tags/go1.18:src/time/tick.go
 

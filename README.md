@@ -71,5 +71,30 @@
 - [Unique ID Generator 唯一ID生成器](https://github.com/gzhh/golang-notes/tree/main/system-design/unique-id-generator.md)
 - [URL SHORTENER URL短链](https://github.com/gzhh/golang-notes/tree/main/system-design/url-shortener.md)
 
+偏场景
+- [秒杀系统](https://github.com/gzhh/golang-notes/tree/main/system-design/spike-system.md)
+- 抢红包
+- 排行榜
+- 点赞功能
+- Key-Value Store 键值存储 
+- Notification System 通知系统
+- News Feed System 新闻流系统
+- Chat System 聊天系统
+- Search Auto-Complete System 搜索自动补全系统
+
+TODO 偏技术
+- 设计 Web Framework
+- 设计 ORM
+- 设计 RPC
+- 设计 Web Crawler
+
+参考
+- [System Design Interview – An Insider's Guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
+- [System Design Interview – An Insider's Guide: Volume 2](https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide)
+- [ByteByteGo System Design](https://blog.bytebytego.com)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [极客兔兔：七天用Go从零实现系列](https://geektutu.com/post/gee.html)
+- [李智慧 · 高并发架构实战课](https://time.geekbang.org/column/intro/100105701)
+
 ## Distributed System
 
