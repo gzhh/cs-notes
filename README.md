@@ -70,13 +70,15 @@
 - [Consistent Hashing 一致性哈希](https://github.com/gzhh/golang-notes/tree/main/system-design/consistent-hashing.md)
 - [Unique ID Generator 唯一ID生成器](https://github.com/gzhh/golang-notes/tree/main/system-design/unique-id-generator.md)
 - [URL SHORTENER URL短链](https://github.com/gzhh/golang-notes/tree/main/system-design/url-shortener.md)
+- [Key-Value Store 键值存储](system-design/key-value-store.md)
 
 偏场景
-- [秒杀系统](https://github.com/gzhh/golang-notes/tree/main/system-design/spike-system.md)
+- [秒杀系统](system-design/spike-system.md)
+- 权限系统
+- 任务调度系统
 - 抢红包
 - 排行榜
 - 点赞功能
-- Key-Value Store 键值存储 
 - Notification System 通知系统
 - News Feed System 新闻流系统
 - Chat System 聊天系统
@@ -97,4 +99,7 @@ TODO 偏技术
 - [李智慧 · 高并发架构实战课](https://time.geekbang.org/column/intro/100105701)
 
 ## Distributed System
-
+CAP 理论
+- [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [一文看懂｜分布式系统之CAP理论](https://cloud.tencent.com/developer/article/1860632)
+- [一文吃透分布式理论【CAP,BASE深入解析】](https://juejin.cn/post/7021717177220726798)
