@@ -74,15 +74,19 @@
 
 偏场景
 - [秒杀系统](system-design/spike-system.md)
+- Web 爬虫
 - 权限系统
 - 任务调度系统
 - 抢红包
 - 排行榜
 - 点赞功能
-- Notification System 通知系统
+- [Notification System 通知系统](system-design/notification-system.md)
 - News Feed System 新闻流系统
 - Chat System 聊天系统
 - Search Auto-Complete System 搜索自动补全系统
+
+偏海量数据处理
+- 查找两个大文件中的相同记录 [ref1](https://blog.csdn.net/Fly_as_tadpole/article/details/88375809) [ref2](https://www.zhihu.com/question/21827402)
 
 TODO 偏技术
 - 设计 Web Framework

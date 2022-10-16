@@ -55,3 +55,4 @@
 ## 参考
 - [秒杀系统的艺术](https://juejin.cn/post/6844903949632274445)
 - https://v2ex.com/t/703857
+- [库存扣减](https://maimai.cn/web/gossip_detail?encode_id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiODA1NjQ4NWM1YTI3NDQ5N2EwZDMzMDY2OTNlNjA2NDEiLCJpZCI6MzEwNzUzNDUsInUiOjE5NDEzNTc0MH0.hDGQ5O6BEIZyUwF-mi5YOOrcssMxDTPOTWc-TMEs8Ng)

@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Golang notes](#golang-notes)
+  - [标准库](#%E6%A0%87%E5%87%86%E5%BA%93)
+  - [builtin 相关](#builtin-%E7%9B%B8%E5%85%B3)
+  - [错误处理](#%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86)
+  - [内存相关](#%E5%86%85%E5%AD%98%E7%9B%B8%E5%85%B3)
+  - [time 相关](#time-%E7%9B%B8%E5%85%B3)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Golang notes
 ### 标准库
 - https://pkg.go.dev/std
@@ -18,6 +31,14 @@
 - https://pkg.go.dev/builtin
 - https://pkg.go.dev/unsafe#Sizeof
 - https://pkg.go.dev/unsafe#Pointer
+
+
+### 错误处理
+参考
+- https://pkg.go.dev/errors
+- https://go.dev/blog/error-handling-and-go
+- https://go.dev/blog/defer-panic-and-recover
+- https://earthly.dev/blog/golang-errors/
 
 
 ### 内存相关
