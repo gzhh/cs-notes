@@ -74,14 +74,14 @@
 
 偏场景
 - [秒杀系统](system-design/spike-system.md)
-- Web 爬虫
+- [Web 爬虫](system-design/web-crawler.md)
 - 权限系统
 - 任务调度系统
 - 抢红包
 - 排行榜
 - 点赞功能
 - [Notification System 通知系统](system-design/notification-system.md)
-- News Feed System 新闻流系统
+- [News Feed System 新闻流系统](system-design/news-feed-system.md)
 - Chat System 聊天系统
 - Search Auto-Complete System 搜索自动补全系统
 
