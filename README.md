@@ -82,7 +82,7 @@
 - 点赞功能
 - [Notification System 通知系统](system-design/notification-system.md)
 - [News Feed System 新闻流系统](system-design/news-feed-system.md)
-- Chat System 聊天系统
+- [Chat System 聊天系统](system-design/chat-system.md)
 - Search Auto-Complete System 搜索自动补全系统
 
 偏海量数据处理
