@@ -117,13 +117,13 @@ WebSocket
 ![chat-system-design-deep-dive-1vs1-chat](images/chat-system-design-deep-dive-1vs1-chat.png)
 
 一对一消息流
-- 1. 用户 A 发送聊天消息给聊天服务器 1
-- 2. 聊天服务器 1 根据 ID 生成器生成消息 ID
-- 3. 聊天服务器 1 发送消息给消息同步队列
-- 4. 消息被存储到 key-value 存储
+- 1.用户 A 发送聊天消息给聊天服务器 1
+- 2.聊天服务器 1 根据 ID 生成器生成消息 ID
+- 3.聊天服务器 1 发送消息给消息同步队列
+- 4.消息被存储到 key-value 存储
 - 5.a 如果用户 B 在线，那么消息会被发送到聊天服务器 2，其已与用户 B 连接
 - 5.b 如果用户 B 不在线，那么发送一个提醒到提醒服务器
-- 6. 聊天服务器 2 将消息发给用户 B，用户 B 和聊天服务器 2 之间有 Websocket 长连接
+- 6.聊天服务器 2 将消息发给用户 B，用户 B 和聊天服务器 2 之间有 Websocket 长连接
 
 ![chat-system-design-deep-dive-message-synchronazation-across-mutiple-devices](images/chat-system-design-deep-dive-mutiple-devices.png)
 
