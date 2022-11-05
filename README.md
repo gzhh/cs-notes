@@ -80,10 +80,13 @@
 - 抢红包
 - 排行榜
 - 点赞功能
+- 在线文档系统
 - [Notification System 通知系统](system-design/notification-system.md)
 - [News Feed System 新闻流系统](system-design/news-feed-system.md)
 - [Chat System 聊天系统](system-design/chat-system.md)
 - [Search Auto-Complete System 搜索自动补全系统](system-design/search-autocomplete-system.md)
+- [Youtube](system-design/youtube.md)
+- [Google Drive](system-design/google-drive.md)
 
 偏海量数据处理
 - 查找两个大文件中的相同记录 [ref1](https://blog.csdn.net/Fly_as_tadpole/article/details/88375809) [ref2](https://www.zhihu.com/question/21827402)
