@@ -118,14 +118,14 @@ database 用来记录一些元数据信息
 - block
 
 ### upload flow 上传流程
-![Google Drive deep dive upload flow](images/google-drive-deep-dive-upload-flow.png.png)
+![Google Drive deep dive upload flow](images/google-drive-deep-dive-upload-flow.png)
 
 上传流程分为两个步骤，可并发执行
 - 添加文件元数据信息
 - 上传文件到云存储
 
 ### download flow 下载流程
-![Google Drive deep dive download flow](images/google-drive-deep-dive-download-flow.png.png)
+![Google Drive deep dive download flow](images/google-drive-deep-dive-download-flow.png)
 
 下载流程可以分为两种情况
 - 当前其他客户端修改文件时，当前客户端在线
