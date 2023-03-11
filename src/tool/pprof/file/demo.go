@@ -4,6 +4,7 @@ import (
 	"log"
 	"math/rand"
 	"os"
+
 	// "runtime"
 	"runtime/pprof"
 	"time"
@@ -34,7 +35,7 @@ func calculate(m *[row][col]int) {
 }
 
 func main() {
-	//创建输出文件
+	// 创建输出文件
 	f, err := os.Create("cpu.prof")
 	if err != nil {
 		log.Fatal("could not create CPU profile: ", err)
