@@ -42,3 +42,44 @@ func main() {
 	number <- true
 	wg.Wait()
 }
+
+// 解法2
+func answer2() {
+	chars := "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+	ch1 := make(chan interface{})
+	ch2 := make(chan interface{})
+	quit := make(chan interface{})
+
+	i := 0
+
+	// print num
+	go func() {
+		for {
+			<-ch1
+
+			fmt.Printf("%d%d", i+1, i+2)
+
+			ch2 <- struct{}{}
+		}
+	}()
+
+	// print alphabet
+	go func() {
+		for {
+			<-ch2
+
+			if i >= len(chars) {
+				quit <- struct{}{}
+				return
+			}
+			fmt.Printf("%c%c", chars[i], chars[i+1])
+			i += 2
+
+			ch1 <- struct{}{}
+		}
+	}()
+
+	ch1 <- struct{}{}
+
+	<-quit
+}

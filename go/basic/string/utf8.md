@@ -75,6 +75,6 @@ func main() {
 ```
 
 ## 参考
-[UTF-8](https://en.wikipedia.org/wiki/UTF-8)
-[Strings, bytes, runes and characters in Go](https://go.dev/blog/strings)
-[utf8 package](https://pkg.go.dev/unicode/utf8)
+- [UTF-8](https://en.wikipedia.org/wiki/UTF-8)
+- [Strings, bytes, runes and characters in Go](https://go.dev/blog/strings)
+- [utf8 package](https://pkg.go.dev/unicode/utf8)
