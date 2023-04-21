@@ -14,6 +14,16 @@
 Channels are the pipes that connect concurrent goroutines.
 Go's concurrency primitives - goroutines and channels - provide an elegant and distinct means of structuring concurrent software.
 
+### Channel 之间比较
+```
+c1 := make(chan int, 2)
+c2 := make(chan int, 2)
+c3 := c1
+fmt.Println(c1 == c2) // false
+fmt.Println(c1 == c3) // true
+```
+
+
 ### 注意点
 1. 往已关闭的channel中发送消息，会发生panic
 2. 从已读完消息的channel中读取消息，如果不判断，会读channel指定类型的零值
