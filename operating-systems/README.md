@@ -1,5 +1,19 @@
 ## Operating Systems 笔记
 
+[https://zh.wikipedia.org/zh-cn/操作系统](https://zh.wikipedia.org/zh-cn/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+[GNU](https://www.gnu.org/software/software.html)
+
+### 功能
+
+操作系统位于底层硬件与用户之间，是两者沟通的桥梁。用户可以通过操作系统的用户界面，输入命令。操作系统则对命令进行解释，驱动硬件设备，实现用户要求。以现代标准而言，一个标准PC的操作系统应该提供以下的功能：
+- 进程管理（提供操作系统调整多个进程的功能）
+- 内存管理（管理进程对应的存储器空间，虚拟内存管理技术）
+- 文件系统（管理磁盘的系统）
+- 网络系统（提供计算机系统之间通讯的功能）
+- 安全机制
+- 用户界面
+- 驱动程序
+
 ### 计算机功能结构
 https://en.wikipedia.org/wiki/Computer_architecture
 https://en.wikipedia.org/wiki/64-bit_computing#32-bit_vs_64-bit
