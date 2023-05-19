@@ -83,4 +83,6 @@ git push
 git flow feature finish target-board
 
 
+### git cherry-pick
 
+https://www.youtube.com/watch?v=bM4k9nuhv54

@@ -1,5 +1,13 @@
 ## interface 类型
+### interface 的设计
+interface 的使用
+1. 尽可能的在 client 端定义 interface，在 service 端实现具体的方法，而不是直接在 service 端定义接口并实现所有的方法（类型 Java 的 OOP）。因为这样可以按 client 的需要进行依赖设计，减少无关方法的依赖。
+2. 方法尽可能的接收 interface 参数，返回 struct，而不是返回 interface，因为这可能导致更复杂的抽象。除了在一些特殊场景，例如一些方法返回 io.Reader。
+
+
 ### interface 类型变量之间是否可比较分析
+Compare whether two interfaces have identical dynamic types and equal dynamic values or if both are nil.
+
 ```
 // only one empty interface type
 type inf interface{}
@@ -85,3 +93,4 @@ Ref
 ### Ref
 - https://github.com/golang/go/blob/go1.18/src/runtime/runtime2.go
 - https://halfrost.com/go_interface/
+- https://en.wikipedia.org/wiki/SOLID
