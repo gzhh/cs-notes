@@ -43,6 +43,7 @@
 - Redis
 
 ### Message Queue
+- Kafka
 
 ### Design Pattern
 - [创建型](https://github.com/gzhh/golang-notes/tree/main/design-patterns/creational)
