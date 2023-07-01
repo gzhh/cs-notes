@@ -18,7 +18,7 @@
 - 权限系统
 - 任务调度系统
 - 抢红包
-- 排行榜
+- [排行榜](leaderboard.md)
 - 点赞功能
 - 在线文档系统
 - [Notification System 通知系统](notification-system.md)
