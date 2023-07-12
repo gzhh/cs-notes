@@ -49,13 +49,17 @@
 ### [System Design](system-design/system-design.md)
 
 ### [DevOps](devops/DevOps.md)
+- [Git](devops/git.md)
+- [Linux](devops/linux/linux.md)
+- [Nginx](devops/nginx/nginx.md)
 - [Automation]()
 - [CI/CD]()
 - [Docker](devops/docker/docker.md)
 - [Kubernetes](devops/kubernetes/kubernetes.md)
+- [Cloud Native](devops/cloud-native.md)
 
 ### [Distributed Systems](distributed-systems/distributed-systems.md)
-- [CAP 理论](distribute-systems/cap.md)
+- [CAP 理论](distributed-systems/cap.md)
 
-### [Microservices](microservices/microservices.md)
+### [Microservices](distributed-systems/microservices.md)
 
