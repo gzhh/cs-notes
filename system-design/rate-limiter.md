@@ -22,6 +22,21 @@
 - 桶大小：即队列的大小，队列会持有将要被处理的请求
 - 漏出速率：表示单位时间内（通常是秒）有多少请求能被处理
 
+### 滑动窗口
+工作原理
+- 使用 Redis 的 ZSet，以当前时间到当前时间的前一个固定时间为一个窗口，窗口内给定一个固定正整数 limit，每次请求前检查这个数是否大于limit，如果大于则请求正常并zadd 1，否则放弃处理本次请求。
+- 具体操作
+  ```
+  v = ZCOUNT key timeNow-conf.window timeNow
+  if v > conf.limit
+    return false
+  else
+    ZREMRANGEBYSCORE key timeNow-7200, timeNow-3600
+    ZADD key timeNow, timeNow, token
+    EXPIRE key 3600
+    return true
+  ```
+
 ## 限流整体架构
 除了限流算法外，我们还需要计数器来追踪有多少个请求来自相同的用户、IP 等。
 
