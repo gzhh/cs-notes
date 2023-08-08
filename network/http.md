@@ -64,6 +64,12 @@
 - 修复HTTP/1.0版本以来未修复的 [队头阻塞](https://zh.wikipedia.org/wiki/%E9%98%9F%E5%A4%B4%E9%98%BB%E5%A1%9E) 问题；[https://zhuanlan.zhihu.com/p/330300133](https://zhuanlan.zhihu.com/p/330300133)
 - 对数据传输采用[多路复用](https://zh.wikipedia.org/wiki/%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8)，让多个请求合并在同一 [TCP](https://zh.wikipedia.org/wiki/TCP) 连接内。
 
+### Q&A
+- 浏览器的基本工作原理
+  - https://zhuanlan.zhihu.com/p/47407398
+- What happens behind the scenes when we type www.google.com in a browser?
+  - https://github.com/vasanthk/how-web-works
+
 ### Ref
 
 [https://zh.wikipedia.org/wiki/超文本传输协议](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
