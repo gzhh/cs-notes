@@ -11,6 +11,13 @@ nG      移到这个文件的第n行
 gg      移到这个文件的第一行
 n+Enter 向下移动n行
 
+按单词移动
+w       移动到下一个单词的词首
+b       移动到上一个单词的词首
+e       移动到下一个单词的词尾
+ge      移动到上一个单词的词尾
+
+
 查找
 /word   向下寻找一个名称为word的字符串
 ?word   向上寻找一个名称为word的字符串
@@ -115,10 +122,10 @@ r,R     替换光标所在字符
 - [Vundle 插件管理-老](https://github.com/VundleVim/Vundle.vim)
 - [nerdtree](https://github.com/preservim/nerdtree)
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
-    
-    ### **深入 vim**
-    
-    - [Vim实用技巧](https://book.douban.com/subject/26967597/)
+
+### **深入 vim**
+
+- [Vim实用技巧](https://book.douban.com/subject/26967597/)
 
 
 
