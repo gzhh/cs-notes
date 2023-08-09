@@ -6,6 +6,9 @@ wget
 
 curl
 
+tree
+- http://mama.indstate.edu/users/ice/tree
+
 jq
 - Command-line JSON processor
 - https://github.com/jqlang/jq
