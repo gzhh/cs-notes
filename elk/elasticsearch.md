@@ -18,25 +18,15 @@
 
 ## 基本使用
 
-### 安装配置
+### Docker 安装
+docker 节点集群
+- https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
+- https://gist.github.com/markheath/f246ec3aa5a3e7493991904e241a416a
 
-启动 Elasticsearch
+docker 单节点
+- https://medium.com/@TimvanBaarsen/how-to-run-an-elasticsearch-7-x-single-node-cluster-for-local-development-using-docker-compose-2b7ab73d8b82
 
-`elasticsearch`
-
-查看
-
-[http://localhost:9200/](http://localhost:9200/)
-
-查看插件
-
-`elasticsearch-plugin list`
-
-安装插件
-
-`elasticsearch-plugin install analysis-icu`
-
-### 集群
+### 本地集群
 
 在开发机上运行多个 Elasticsearch 实例
 
@@ -52,16 +42,43 @@
 
 [http://localhost:9200/_cat/nodes](http://localhost:9200/_cat/nodes)
 
-### Kibana
+## 命令行工具
 
-启动 Kibana
+启动 Elasticsearch
 
-`kibana`
+`elasticsearch`
 
 查看
 
-[http://localhost:5601/](http://localhost:5601/)
+http://localhost:9200/
 
-es 管理工具 cerebro
+查看插件
 
-[http://localhost:9000/](http://localhost:5601/)
+`elasticsearch-plugin list`
+
+安装插件
+
+`elasticsearch-plugin install analysis-icu`
+
+
+## GUI 工具
+### cerebro
+Github
+- https://github.com/lmenezes/cerebro
+
+介绍
+- web admin 管理工具
+
+入口
+- http://localhost:9000/
+
+Ref
+- https://www.redhat.com/sysadmin/cerebro-webui-elk-cluster
+
+
+### dejavu
+Github
+- https://github.com/appbaseio/dejavu/
+
+介绍
+- web ui 工具
