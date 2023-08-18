@@ -39,6 +39,8 @@ without proto file
 - ui tool: https://deprotobuf.com
 
 with proto file
+- `protoc --decode=packageName.messageName your.proto < pbbin`
+- example `protoc --decode=api.Hello hello.proto < pbbin`
 - `protoc --decode=MESSAGE_TYPE --proto_path=your_proto_dir your.proto < pbbin`
 - example `protoc --decode=api.Hello --proto_path=. hello.proto < pbbin`
 
