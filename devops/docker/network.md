@@ -38,5 +38,12 @@ host 总结
 - 不能联网
 
 
+### 总结
+- 容器间通信一般用 bridge 模式
+
+问题
+1. From inside of a Docker container, how do I connect to the localhost of the machine?
+  - https://stackoverflow.com/questions/24319662/from-inside-of-a-docker-container-how-do-i-connect-to-the-localhost-of-the-mach
+
 ### 参考
 - https://www.bilibili.com/video/BV1Aj411r71b
