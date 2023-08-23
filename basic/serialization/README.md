@@ -24,7 +24,7 @@ IDL
 - https://github.com/apache/thrift
 
 
-## [Protocol Buffers](protobuf/)
+## [Protocol Buffers](protobuf)
 - https://en.wikipedia.org/wiki/Protocol_Buffers
 - https://github.com/protocolbuffers/protobuf
 - https://protobuf.dev
