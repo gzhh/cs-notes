@@ -25,12 +25,29 @@ message Person {
 ## Protocol Buffer Compiler
 The protocol buffer compiler is used to compile .proto files, which contain service and message definitions.
 
+### Install protoc
+Mac
+- brew
+  - `brew install protobuf`
+- install package
+    ```
+    PROTOC_ZIP=protoc-3.14.0-osx-x86_64.zip
+    curl -OL https://github.com/protocolbuffers/protobuf/releases/download/v3.14.0/$PROTOC_ZIP
+    sudo unzip -o $PROTOC_ZIP -d /usr/local bin/protoc
+    ```
+
 ### Code generator
 Python
 - `protoc --proto_path=your_src_path --python_out=your_dest_path your.proto`
 
 Golang
 - `protoc --go_out=paths=source_relative:. your.proto`
+
+Trouble
+- Go
+  - protoc 编译生成 .pb.go 文件后，可能会出现 Import cycle not allowed，此时需要注意 .proto 文件中不应有相互引用的情况。
+- protoc version
+  - 不同版本的 protoc 生成的目标语言文件可能不兼容
 
 
 ### Decode
@@ -48,3 +65,7 @@ with proto file
 ### Buf cli
 The buf CLI is a tool for working with Protocol Buffers.
 - https://github.com/bufbuild/buf
+
+
+## 使用参考
+- 李文周的博客 - protocol buffers使用指南 https://www.liwenzhou.com/posts/Go/protobuf/
