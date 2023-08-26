@@ -1,6 +1,9 @@
 # Basic
-# Character encoding
-Ref
+
+- [Serialization](serialization)
+- [Configuration file](configuration-file)
+
+## Character encoding
 - https://en.wikipedia.org/wiki/Character_encoding
 - https://zh.wikipedia.org/wiki/字符编码
 - https://en.wikipedia.org/wiki/UTF-8
