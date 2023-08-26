@@ -1,15 +1,16 @@
 # Dev Tool
 
-### Config backup tool
-mackup
-- github: https://github.com/lra/mackup/
-
+## CLI
 ### Command line tool
 The Art of Command Line
 - https://github.com/jlevy/the-art-of-command-line
 
 brew
 - github: https://github.com/Homebrew/brew
+
+Mackup - Config backup tool
+- github: https://github.com/lra/mackup/
+
 
 ### Terminal tool
 iterm2
