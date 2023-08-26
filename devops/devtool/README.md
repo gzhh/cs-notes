@@ -1,4 +1,4 @@
-## Dev Tool
+# Dev Tool
 
 ### Config backup tool
 mackup
@@ -25,8 +25,19 @@ Neovim
 ### Shell
 ohmyzsh
 - github: https://github.com/ohmyzsh/ohmyzsh
-- config
-  - autocomplete: https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
+- custom plugins
+  - https://github.com/ohmyzsh/ohmyzsh/wiki/Customization
+  - plugins position `~/.oh-my-zsh/custom/plugins/`
+  - config plugins load `~/.zshrc`
+- plugins
+  - zsh-autocomplete: https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
   - kubectl-autocomplete: https://gist.github.com/GusAntoniassi/2f58e716b67f648d13f91c1d780b05bf
   - fig autocomplete: https://github.com/withfig/autocomplete
- 
+  - git
+  - git-flow
+  - docker
+  - docker-compose
+
+fig
+- https://github.com/withfig/autocomplete
+

@@ -48,3 +48,13 @@ with proto file
 ### Buf cli
 The buf CLI is a tool for working with Protocol Buffers.
 - https://github.com/bufbuild/buf
+
+
+## HTTP & Protobuf
+### HTTP Content-Type
+- `application/x-protobuf` preferred choice
+- `application/vnd.google.protobuf`
+
+Ref
+- https://stackoverflow.com/questions/30505408/what-is-the-correct-protobuf-content-type
+- https://groups.google.com/g/protobuf/c/VAoJ-HtgpAI

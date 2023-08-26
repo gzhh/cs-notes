@@ -1,50 +1,68 @@
 ## Iterm2
 
 ### 文档
+- https://iterm2.com/documentation.html
+- https://iterm2.com/documentation-one-page.html
 
-[https://iterm2.com/documentation.html](https://iterm2.com/documentation.html)
 
-[https://iterm2.com/documentation-one-page.html](https://iterm2.com/documentation-one-page.html)
+### Profiles
+- https://learnku.com/articles/42451
+- https://iterm2.com/documentation-preferences-profiles-general.html
+- https://iterm2.com/documentation-dynamic-profiles.html
+- https://iterm2.com/documentation-preferences-profiles.html
+- https://iterm2.com/documentation-automatic-profile-switching.html
 
-### 标签
 
-新建标签：command + t
+### Iterm2 + tmux
+tmux Integration
+- https://iterm2.com/documentation-tmux-integration.html
 
-关闭标签：command + w
+Usage
+- https://toutiao.io/posts/q86tnu/preview
+- https://blog.twofei.com/883/
+- https://juejin.cn/post/6844904014505574408
 
-切换标签：command + 数字, command + arrow
+### 快捷键
+标签
+- 新建标签：command + t
+- 关闭标签：command + w
+- 切换标签：command + 数字 或者 command + 左右方向键
+- 切换全屏：command + enter
+- 查找：command + f
 
-切换全屏：command + enter
+分屏
+- 垂直分屏：command + d
+- 水平分屏：command + shift + d
+- 切换屏幕：command + option + 方向键 或者 command + `[` `]`
+- 查看历史命令：command + ;
+- 查看剪贴板历史：command + shift + h
 
-查找：command + f
 
-### 分屏 pane
 
-垂直分屏：command + d
 
-水平分屏：command + shift + d
+命令
+- 查看剪贴板历史：command + shift + h
+- 上一条命令：ctrl + p
+- 搜索命令历史：ctrl + r
 
-切换屏幕：command + option + arrow
+行内
+- 清除当前行：ctrl + u
+- 到行首：ctrl + a
+- 到行尾：ctrl + e
+- 前进后退：ctrl + f/b (相当于左右方向键)
+- 删除当前光标的字符：ctrl + d
+- 删除光标之前的字符：ctrl + h
+- 删除光标之前的单词：ctrl + w
+- 删除到文本末尾：ctrl + k
+- 交换光标处文本：ctrl + t
 
-查看历史命令：command + ;
+清屏
+- 清屏1：command + r
+- 清屏2：ctrl + l
+- 清屏3：clear
 
-查看剪贴板历史：command + shift + h
 
-### 巧用
-
-可以拖拽选中的字符串；
-
-点击 url：调用默认浏览器访问该网址；
-
-点击文件：调用默认程序打开文件；
-
-如果文件名是filename:42，且默认文本编辑器是 Macvim、Textmate或BBEdit，将会直接打开到这一行；
-
-点击文件夹：在 finder 中打开该文件夹；
-
-同时按住option键，可以以矩形选中，类似于vim中的ctrl v操作。
-
-### 其他
+### 其他快捷键
 
 清除当前行：ctrl + u
 
@@ -68,9 +86,21 @@
 
 交换光标处文本：ctrl + t
 
-清屏1：command + r
 
-清屏2：ctrl + l
+### 巧用命令行
+
+可以拖拽选中的字符串；
+
+点击 url：调用默认浏览器访问该网址；
+
+点击文件：调用默认程序打开文件；
+
+如果文件名是filename:42，且默认文本编辑器是 Macvim、Textmate或BBEdit，将会直接打开到这一行；
+
+点击文件夹：在 finder 中打开该文件夹；
+
+同时按住option键，可以以矩形选中，类似于vim中的ctrl v操作。
+
 
 ### 自带有哪些很实用的功能/快捷键
 

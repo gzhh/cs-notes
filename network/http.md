@@ -1,4 +1,9 @@
 # HTTP
+- https://en.wikipedia.org/wiki/HTTP
+- https://developer.mozilla.org/en-US/docs/Web/HTTP
+
+## Content-Type
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
 
 ### 请求报文
 
