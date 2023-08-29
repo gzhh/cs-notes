@@ -18,6 +18,15 @@ ripgrep
 - line-oriented search tool
 - https://github.com/BurntSushi/ripgrep
 
+fzf
+- command-line fuzzy finder
+- https://github.com/junegunn/fzf
+
+autojump
+- a faster way to navigate your filesystem
+- https://github.com/wting/autojump
+
+
 
 ### date time
 - Convert Unix timestamp to a date string
