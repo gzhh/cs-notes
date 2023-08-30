@@ -20,7 +20,8 @@ ripgrep
 
 fzf
 - command-line fuzzy finder
-- https://github.com/junegunn/fzf
+- github: https://github.com/junegunn/fzf
+- usage: https://oskernellab.com/2021/02/15/2021/0215-0001-Using_FZF_to_Improve_Productivity/
 
 autojump
 - a faster way to navigate your filesystem

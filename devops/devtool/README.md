@@ -39,6 +39,10 @@ ohmyzsh
   - docker
   - docker-compose
 
-fig
+fig (autocomplete)
 - https://github.com/withfig/autocomplete
+
+atuin (shell history)
+- github: https://github.com/atuinsh/atuin
+- usage：use `ctrl-r` or `up` start search ui
 
