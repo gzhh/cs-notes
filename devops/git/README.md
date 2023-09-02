@@ -94,3 +94,15 @@ git reflog
 ## Git submodule
 - https://git-scm.com/book/en/v2/Git-Tools-Submodules
 - https://zhuanlan.zhihu.com/p/87053283
+
+### Usage
+创建 submodule
+```
+git submodule add <submodule_url>
+```
+
+获取 submodule
+```
+git submodule init
+git submodule update
+```

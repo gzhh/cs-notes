@@ -1,5 +1,21 @@
 # 函数和方法
 
+## 函数返回
+函数返回的顺序
+- 计算函数的返回值
+- 执行 defer 语句
+- 执行 return 语句
+
+例子
+```
+// 注意这里被 defer 函数内变量 i 的作用域
+func c() (i int) {
+    defer func() { i++ }()
+    return 1
+}
+// return 2
+```
+
 ## receiver type
 ### value and pointer receivers 是适用场景
 
