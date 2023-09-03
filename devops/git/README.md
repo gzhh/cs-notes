@@ -1,8 +1,19 @@
 # Git
+- https://en.wikipedia.org/wiki/Git
+- https://git.kernel.org/pub/scm/git/git.git
 - https://git-scm.com
 - https://git-scm.com/doc
 - https://git-scm.com/docs
 - https://git-scm.com/book/en/v2
+
+
+Codebase
+- https://en.wikipedia.org/wiki/Codebase
+
+
+Version control
+- https://en.wikipedia.org/wiki/Version_control
+
 
 
 ## Git internals
@@ -106,3 +117,8 @@ git submodule add <submodule_url>
 git submodule init
 git submodule update
 ```
+
+
+## gitignore
+How to fix ".gitignore not working" issue?
+- https://gist.github.com/pavankjadda/2bb6fbdd8786e1f57fd7bcbcc666b51d
