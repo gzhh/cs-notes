@@ -66,3 +66,21 @@
 > docker context use {CONTEXT_NAME}
 
 
+### 磁盘及清除相关
+查看磁盘使用
+> docker system df
+
+清除所有 hang <none> 镜像
+> docker image prune
+
+清除未使用的容器
+> docker container prune
+
+清除所有无用的数据卷
+> docker volume prune
+
+清除未使用的构建缓存
+> docker builder prune
+
+清除未使用数据
+> docker system prune

@@ -35,3 +35,14 @@ A receiver should be a value
 - If the receiver is a small array or struct that is naturally a value type without mutable fields, such as time.Time.
 - If the receiver is a basic type such as int, float64, or string.
 
+
+## Method expressions & Method values
+- https://go.dev/ref/spec#Method_expressions
+- https://go.dev/ref/spec#Method_values
+
+map with callback function
+- [demo](map_with_callback_function.go)
+
+Ref
+- https://stackoverflow.com/questions/39936099/syntax-for-map-with-callback-to-functions-which-have-a-receiver
+- 
