@@ -1,4 +1,8 @@
 ## Shell
+
+### Login shell vs Non-Login shell
+- https://unix.stackexchange.com/questions/38175/difference-between-login-shell-and-non-login-shell
+
 ### 常用 Job
 日期遍历
 
