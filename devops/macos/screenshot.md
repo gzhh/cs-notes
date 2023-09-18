@@ -1,5 +1,6 @@
 ## MacOS 截屏
 在 Mac 上截屏或录制屏幕
+- https://support.apple.com/zh-cn/HT201361
 - https://support.apple.com/zh-cn/guide/mac-help/mh26782/mac
 
 ### 基础快捷键（+表示同时操作、-表示分步操作）
