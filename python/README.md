@@ -14,7 +14,7 @@ Ref
 
 
 ## pyenv (Python version management)
-- https://github.com/pyenv/pyenva
+- https://github.com/pyenv/pyenv
 
 ### Usage
 List all Python versions available to pyenv
