@@ -25,6 +25,23 @@ message Person {
 ## Protocol Buffer Compiler
 The protocol buffer compiler is used to compile .proto files, which contain service and message definitions.
 
+### protoc version and language runtime version
+Version Support
+- https://protobuf.dev/support/version-support/
+- 2022 年之前 protoc 和 language runtime 共用一个版本号，带有大版本例如 3.7.1。
+- 现在将 protoc 和 language runtime 的版本发型拆开，让各个语言都能单独发布自己的版本更新。
+
+protoc version
+- 不带大版本号，例如 24.3
+
+language runtime version
+- 带有大版本号，例如 3.24.3
+
+PS:
+1. 一般来说 protoc 和 language runtime 的版本需要有一定的兼容，否则会出问题，兼容的例子如下：
+    - protoc version 为 libprotoc 23.3，go 的 package version 为 v1.31.0
+    - protoc version 为 libprotoc 3.7.1，python 的 protobuf package version 为 3.19.4
+
 ### Install protoc
 Mac
 - brew
