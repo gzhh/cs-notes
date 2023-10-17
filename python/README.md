@@ -12,6 +12,13 @@
 # Python
 ## pyenv (Python version management)
 - https://github.com/pyenv/pyenv
+- see also
+  - https://github.com/pyenv/pyenv-virtualenv
+  - https://docs.python.org/3/library/venv.html
+  - https://twitter.com/river_leaves/status/1710489478924783778
+  - https://github.com/pypa/pipenv
+  - https://github.com/python-poetry/poetry
+  - https://github.com/pdm-project/pdm
 
 ### Usage
 List all Python versions available to pyenv
