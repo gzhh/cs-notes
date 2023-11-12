@@ -1,3 +1,9 @@
+"""
+A barrier is a simple synchronization primitive that allows to block until parties number of tasks are waiting on it.
+Tasks can wait on the wait() method and would be blocked until the specified number of tasks end up waiting on wait().
+At that point all of the waiting tasks would unblock simultaneously.
+"""
+
 import asyncio
 
 async def example_barrier():
