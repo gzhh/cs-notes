@@ -71,6 +71,7 @@ git cherry-pick
 - https://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean
 - https://github.com/airuikun/front-core/issues/5
 - https://www.youtube.com/watch?v=bM4k9nuhv54
+- https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/
 
 
 ## Git conventional

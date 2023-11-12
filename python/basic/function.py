@@ -11,6 +11,10 @@ describe_pet(animal_type='hamster', pet_name='harry')
 def describe_pet(pet_name, animal_type='dog'):
 4. 三种方式混合使用
 
+可变参数
+1. *args
+2. **kwargs
+
 返回值
 
 """
@@ -65,4 +69,32 @@ make_pizza('mushrooms', 'green peppers', 'extra cheese')
 命名：应给函数指定描述性名称，且只在其中使用小写字母和下划线。给模块命名时同理。
 注释：注释应紧跟在函数定义后面，并采用文档字符串格式。
 参数：给形参指定默认值时，等号两边不要有空格；对于函数调用中的关键字实参，也应遵循这种约定；
+"""
+
+
+# 可变参数
+"""
+# *args: https://kodango.com/variable-arguments-in-python
+# **kwargs: https://stackoverflow.com/questions/1769403/what-is-the-purpose-and-use-of-kwargs
+# https://docs.python.org/3/glossary.html#term-keyword-argument
+
+def print_keyword_args(arg1, arg2, *args, **kwargs):
+    print('------------------arg1, arg2')
+    print('arg1, arg2:', arg1, arg2)
+
+    print('------------------args')
+    for value in args:
+        print("%s" % (value))
+
+    # Unpacking dictionaries
+    # kwargs is a dict of the keyword args passed to the function
+    print('------------------kwargs')
+    for key, value in kwargs.items():
+        print("%s = %s" % (key, value))
+
+print_keyword_args('val1', 'val2', 'arg3', 'arg4', first_name="John", last_name="Doe")
+
+# Packing parameters of a function
+kwargs = {'first_name': 'Bobby', 'last_name': 'Smith'}
+print_keyword_args(arg1='val1', arg2='val2', **kwargs)
 """
