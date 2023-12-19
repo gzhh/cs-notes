@@ -10,6 +10,8 @@ Catching panics can make sense to prevent unknown bugs from crashing a productio
 blog
 - [Defer, Panic, and Recover](https://go.dev/blog/defer-panic-and-recover)
 - [Error handling and Go](https://go.dev/blog/error-handling-and-go)
+- [Errors are values](https://go.dev/blog/errors-are-values)
+- [Working with Errors in Go 1.13](https://go.dev/blog/go1.13-errors)
 
 
 ### Error
@@ -89,3 +91,5 @@ Package errgroup
   - [你对 Go 错误处理的 4 个误解！- 脑子进煎鱼了](https://mp.weixin.qq.com/s/Ey-yqIq__wpaLTlBAOHjxg)
   - [Go 业务开发中 Error & Context - 毛剑](https://github.com/gopherchina/conference/blob/master/2019/1.5%20Go%20%E4%B8%9A%E5%8A%A1%E5%BC%80%E5%8F%91%E4%B8%AD%20Error%20%26%20Context%20-%20%E6%AF%9B%E5%89%91.pdf)
   - [Go 错误处理总结与实践](https://www.pseudoyu.com/zh/2021/08/29/go_error_handling/)
+  - [Use %w instead of %v or %s](https://stackoverflow.com/questions/61283248/format-errors-in-go-s-v-or-w)
+  - [卷起来，老程序员也得了解errors包的新变化 - 鸟窝](https://colobu.com/2023/12/13/learn-more-about-errors/)
