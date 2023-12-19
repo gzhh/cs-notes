@@ -2,6 +2,7 @@ import asyncio
 import time
 
 async def say_after(delay, what):
+    print(delay)
     await asyncio.sleep(delay)
     print(what)
 

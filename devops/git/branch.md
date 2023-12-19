@@ -23,6 +23,7 @@ git branch -a
 - https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 - http://jartto.wang/2018/12/11/git-rebase/
 - https://www.jianshu.com/p/f7ed3dd0d2d8
+- https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/
 
 
 ### Trouble shooting

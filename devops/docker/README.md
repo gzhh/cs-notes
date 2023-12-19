@@ -12,6 +12,7 @@
 2. Linux cgroup
 > 资源限制：限制一个进程组能够使用的资源上限（CPU、内存、磁盘、网络带宽等）
 - /proc 文件系统对容器做了 cgroup 资源限制不清楚，所以会影响到容器内执行 top 命令
+- https://cizixs.com/2017/08/04/docker-resources-limit/
 
 3. 容器镜像，也叫 rootfs（根文件系统）
 > Change Root 切换进程的根目录
