@@ -34,6 +34,11 @@ umount {device} 或者 umount {mountpoint}
 - [https://forum.ubuntu.org.cn/viewtopic.php?t=257333](https://forum.ubuntu.org.cn/viewtopic.php?t=257333)
 - [https://juejin.cn/post/6864862445954039821](https://juejin.cn/post/6864862445954039821)
 
+
+### Net client telnet and netcat
+telnet 和 netcat 区别
+- https://superuser.com/questions/1461609/what-is-the-difference-between-telnet-and-netcat
+
 ### lsof
 
 常见的用法是查找应用程序打开的文件的名称和数目

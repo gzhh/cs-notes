@@ -121,5 +121,10 @@ git submodule update
 
 
 ## gitignore
+gitignore templates
+- https://github.com/github/gitignore
+- https://github.com/github/gitignore/blob/main/Go.gitignore
+- https://github.com/github/gitignore/blob/main/Python.gitignore
+
 How to fix ".gitignore not working" issue?
 - https://gist.github.com/pavankjadda/2bb6fbdd8786e1f57fd7bcbcc666b51d
