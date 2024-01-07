@@ -99,6 +99,7 @@ git reflog
 
 
 ## Git hooks
+- https://git-scm.com/docs/githooks
 - https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 - https://www.atlassian.com/git/tutorials/git-hooks
 
