@@ -8,6 +8,10 @@ DB-ENGINES: Knowledge Base of Relational and NoSQL Database Management Systems
 - https://db-engines.com/en/ranking
 
 ## 重要概念
+- Database schema: https://en.wikipedia.org/wiki/Database_schema
+  - https://database.guide/what-is-a-database-schema/
+  - https://stackoverflow.com/questions/298739/what-is-the-difference-between-a-schema-and-a-table-and-a-database
+  - https://www.huaweicloud.com/zhishi/smart-18531930.html
 - Write-ahead logging: https://en.wikipedia.org/wiki/Write-ahead_logging
 
 ## Relational database
