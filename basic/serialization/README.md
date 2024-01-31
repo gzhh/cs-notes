@@ -17,6 +17,7 @@ IDL
 
 ## JSON
 - https://en.wikipedia.org/wiki/JSON
+- https://www.json.org
 
 
 ## Apache Thrift
@@ -34,6 +35,7 @@ IDL
 - https://en.wikipedia.org/wiki/MessagePack
 - https://github.com/msgpack/msgpack
 - https://msgpack.org
+
 
 Lib
 - https://github.com/vmihailenco/msgpack
