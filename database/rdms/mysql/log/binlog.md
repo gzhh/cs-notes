@@ -13,3 +13,8 @@
 使用问题
 - https://github.com/docker-library/mysql/issues/959
 
+### binlog 第三方管理工具
+- [canal](https://github.com/alibaba/canal)
+- [go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql)
+- [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)
+  - https://pypi.org/project/mysql-replication/
