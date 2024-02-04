@@ -1,7 +1,8 @@
 ## Operating Systems 笔记
 
-[https://zh.wikipedia.org/zh-cn/操作系统](https://zh.wikipedia.org/zh-cn/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-[GNU](https://www.gnu.org/software/software.html)
+- https://zh.wikipedia.org/wiki/操作系统
+- https://en.wikipedia.org/wiki/Operating_system
+- [GNU](https://www.gnu.org/software/software.html)
 
 ### 功能
 

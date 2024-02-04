@@ -1,4 +1,11 @@
 # Kafka
+- https://kafka.apache.org/
+
+参考
+- [Kafka 高可靠高性能原理探究](https://mp.weixin.qq.com/s/_g11mmmQse6KrkUE8x4abQ)
+- [Kafka 分级存储在腾讯云的实践与演进](https://mp.weixin.qq.com/s/bjXStdwAb5BRwKfquOHT_w)
+- [B站KAFKA探索与实践](https://mp.weixin.qq.com/s/IQ2h_iwg8esXuH_jG1St_w)
+
 ## 原理
 ### 一、基本概念
 

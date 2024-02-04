@@ -1,4 +1,9 @@
 ## 进程
+
+- https://en.wikipedia.org/wiki/Process_(computing)
+- https://en.wikipedia.org/wiki/Inter-process_communication
+
+### 概念
 关键几个函数
 - fork
 - exec系列
