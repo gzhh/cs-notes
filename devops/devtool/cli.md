@@ -13,6 +13,7 @@ tree
 jq
 - Command-line JSON processor
 - https://github.com/jqlang/jq
+- https://github.com/antonmedv/fx
 
 ripgrep
 - line-oriented search tool
@@ -44,3 +45,5 @@ autojump
     - echo -n 'aGVsbG8=' | base64 --decode
 
 
+### Count code
+- https://github.com/XAMPPRocky/tokei

@@ -57,6 +57,7 @@ Version control
 - https://git-scm.com/docs/git-stash
 - https://git-scm.com/docs/git-stage
 - https://stackoverflow.com/questions/31596869/difference-between-stash-vs-stage-files-in-git
+- https://stackoverflow.com/questions/34175799/differencies-between-git-add-and-git-stage-command
 
 
 ## Git commit management
