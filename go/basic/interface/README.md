@@ -7,6 +7,27 @@
 - https://golang.design/go-questions/interface/duck-typing/
 - https://v2ex.com/t/1023324
 
+```
+package main
+
+import "fmt"
+
+type Greeting func(name string) string
+
+func (g Greeting) say(n string) {
+	fmt.Println(g(n))
+}
+
+func english(name string) string {
+	return "Hello, " + name
+}
+
+func main() {
+	greet := Greeting(english)
+	greet.say("World")
+}
+```
+
 ### interface 的设计
 interface 的使用
 1. 尽可能的在 client 端定义 interface，在 service 端实现具体的方法，而不是直接在 service 端定义接口并实现所有的方法（类型 Java 的 OOP）。因为这样可以按 client 的需要进行依赖设计，减少无关方法的依赖。
