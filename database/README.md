@@ -13,6 +13,9 @@ DB-ENGINES: Knowledge Base of Relational and NoSQL Database Management Systems
   - https://stackoverflow.com/questions/298739/what-is-the-difference-between-a-schema-and-a-table-and-a-database
   - https://www.huaweicloud.com/zhishi/smart-18531930.html
 - Write-ahead logging: https://en.wikipedia.org/wiki/Write-ahead_logging
+- Lock
+  - File locking: https://en.wikipedia.org/wiki/File_locking
+  - Record Locking: https://en.wikipedia.org/wiki/Record_locking
 
 ## Relational database
 - https://en.wikipedia.org/wiki/Relational_database

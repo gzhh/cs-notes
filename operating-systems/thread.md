@@ -25,3 +25,6 @@ apue P335
 ### 线程和fork
 
 apue P367
+
+### Work stealing
+- https://en.wikipedia.org/wiki/Work_stealing

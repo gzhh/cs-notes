@@ -4,6 +4,24 @@
 - https://en.wikipedia.org/wiki/Operating_system
 - [GNU](https://www.gnu.org/software/software.html)
 
+### 核心概念
+- Process:
+  - https://blog.gzhh.tech/posts/operating-system-1.process/
+  - https://en.wikipedia.org/wiki/Process_management_(computing)
+    - https://en.wikipedia.org/wiki/Computer_multitasking
+      - https://en.wikipedia.org/wiki/Cooperative_multitasking
+      - https://en.wikipedia.org/wiki/Preemption_(computing)
+    - Context switch: https://en.wikipedia.org/wiki/Context_switch
+    - Interrupt: https://en.wikipedia.org/wiki/Interrupt
+    - IPC: https://en.wikipedia.org/wiki/Inter-process_communication
+      - Signal: https://en.wikipedia.org/wiki/Signal_(IPC)
+- Scheduling:
+  - https://blog.gzhh.tech/posts/operating-system-2.scheduling/
+  - https://en.wikipedia.org/wiki/Scheduling_(computing)
+- Memory:
+  - https://blog.gzhh.tech/posts/operating-system-3.memory/
+  - https://en.wikipedia.org/wiki/Memory_management
+
 ### 功能
 
 操作系统位于底层硬件与用户之间，是两者沟通的桥梁。用户可以通过操作系统的用户界面，输入命令。操作系统则对命令进行解释，驱动硬件设备，实现用户要求。以现代标准而言，一个标准PC的操作系统应该提供以下的功能：
