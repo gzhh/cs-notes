@@ -11,8 +11,17 @@
 
 # Channel
 ### 介绍
-Channels are the pipes that connect concurrent goroutines.
-Go's concurrency primitives - goroutines and channels - provide an elegant and distinct means of structuring concurrent software.
+- Go's concurrency primitives - goroutines and channels - provide an elegant and distinct means of structuring concurrent software.
+- Channels are a typed conduit through which you can send and receive values with the channel operator, <-.
+- Like maps and slices, channels must be created before use: ch := make(chan int)
+- Channels are the pipes that connect concurrent goroutines.
+
+### 原理
+- https://go.dev/src/runtime/chan.go
+- https://www.pursuitking.com/go_2/1-13.html
+- https://halfrost.com/go_channel/
+- https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/
+- https://clavinjune.dev/blog/buffered-vs-unbuffered-channel-in-golang-dc97bf/
 
 ### Channel 之间比较
 ```
@@ -29,6 +38,14 @@ fmt.Println(c1 == c3) // true
 2. 从已读完消息的channel中读取消息，如果不判断，会读channel指定类型的零值
 
 ### 参考
-https://blog.golang.org/codelab-share
-https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/
-https://clavinjune.dev/blog/buffered-vs-unbuffered-channel-in-golang-dc97bf/
+- https://go.dev/tour/concurrency/2
+- https://go.dev/tour/concurrency/3
+- https://go.dev/tour/concurrency/4
+- https://gobyexample.com/channels
+- https://gobyexample.com/channel-buffering
+- https://gobyexample.com/channel-synchronization
+- https://gobyexample.com/channel-directions
+- https://gobyexample.com/timeouts
+- https://gobyexample.com/non-blocking-channel-operations
+- https://gobyexample.com/closing-channels
+- https://gobyexample.com/range-over-channels

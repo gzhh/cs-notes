@@ -1,4 +1,5 @@
 ## Mutex
+- https://go.dev/tour/concurrency/9
 - https://pkg.go.dev/sync#Mutex
 - https://go.dev/src/sync/mutex.go
 

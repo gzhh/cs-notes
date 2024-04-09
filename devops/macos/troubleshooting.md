@@ -24,6 +24,21 @@ Mac OS 睡眠唤醒之后，外接显示器再也无法点亮，只能重启
 Type-C 接口无反应，充电无反应或一直在充电解决方案
 - https://zhuanlan.zhihu.com/p/71055741
 
+MAC PRO type-c接口无反应，充电无反应或一直在充电解决方案
+- https://zhuanlan.zhihu.com/p/71055741
+
+2018款Macbook pro 15'恢复USB-C的雷电接口功能的坎坷经历
+- https://zhuanlan.zhihu.com/p/495012405
+
+Macbook pro 15' 充电充不进去问题，个人总结
+- 1.电源适配器
+  - 换电源适配器接口
+  - 换电源插座接口
+  - 换电源适配器或电源适配器或电源线
+- 1.关机重试
+  - 普通关机
+  - 长按电源按钮10秒，然后再开机
+- 2.重置 SMC
 
 ### Shell
 zsh process taking 100% of CPU

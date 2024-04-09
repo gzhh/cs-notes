@@ -6,6 +6,20 @@
 - https://www.freedesktop.org/software/systemd/man/latest/systemd.exec.html
 - https://www.freedesktop.org/software/systemd/man/latest/systemd.path.html
 
+### Systemctl
+systemctl log
+```
+systemctl status <service>：查看服务的状态和活动日志。
+
+journalctl -u <service>：查看服务的所有日志，包括活动日志和错误日志。
+
+journalctl -u <service> -f：实时查看服务的日志。
+
+journalctl --since "YYYY-MM-DD HH:MM:SS" --until "YYYY-MM-DD HH:MM:SS"：查看指定时间范围内的所有日志。
+
+journalctl -p <priority>：查看指定优先级的日志。优先级可以是debug、info、notice、warning、err、crit、alert或emerg之一。
+```
+
 ### Example
 - https://learnku.com/articles/34025
 
