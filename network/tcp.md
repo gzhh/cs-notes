@@ -1,6 +1,10 @@
 # TCP
-### TCP状态码
+### TCP三次握手和四次挥手
+- 参考：https://www.xiaolincoding.com/network/3_tcp/tcp_interview.html
 
+![tcp三次握手](images/tcp_handshake.png)
+
+### TCP状态码
 ![tcp状态转换](images/tcp_status.png)
 
 [https://zh.wikipedia.org/wiki/传输控制协议#状态编码](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE#%E7%8A%B6%E6%80%81%E7%BC%96%E7%A0%81)
