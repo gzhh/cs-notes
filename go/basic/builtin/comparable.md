@@ -1,4 +1,5 @@
 ## 类型是否可比较
+- All your comparable types: https://go.dev/blog/comparable
 
 ### 可比较类型
 - Booleans—Compare whether two Booleans are equal.

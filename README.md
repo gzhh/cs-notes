@@ -22,43 +22,43 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-### [Golang](go/go.md)
-- [Trouble Shooting](go/debug/debug.md)
+### [Golang](go/README.md)
+- [Trouble Shooting](go/debug/README.md)
 
-### [Operating System](operating-systems/operating-systems.md)
+### [Operating System](operating-systems/README.md)
 
-### [Network](network/network.md)
+### [Network](network/README.md)
 
-### [Database](database/database.md)
+### [Database](database/README.md)
 - RDMS
-  - [MySQL](database/rdms/mysql/mysql.md)
+  - [MySQL](database/rdms/mysql/README.md)
 - NoSQL
-  - [Redis](database/nosql/redis/redis.md)
+  - [Redis](database/nosql/redis/README.md)
 
-### [Cache](cache/cache.md)
+### [Cache](cache/README.md)
 
-### [Message Queue](mq/mq.md)
+### [Message Queue](mq/README.md)
 - Kafka
 - RabbitMQ
 
-### [Design Pattern](design-patterns/design-patterns.md)
+### [Design Pattern](design-patterns/README.md)
 - [创建型](design-patterns/creational)
 - [行为型](design-patterns/behavioral)
 - [结构型](design-patterns/structural)
 
-### [System Design](system-design/system-design.md)
+### [System Design](system-design/README.md)
 
-### [DevOps](devops/DevOps.md)
-- [Git](devops/git.md)
-- [Linux](devops/linux/linux.md)
-- [Nginx](devops/nginx/nginx.md)
+### [DevOps](devops/README.md)
+- [Git](devops/git/README.md)
+- [Linux](devops/linux/README.md)
+- [Nginx](devops/nginx/README.md)
 - [Automation]()
 - [CI/CD]()
-- [Docker](devops/docker/docker.md)
-- [Kubernetes](devops/kubernetes/kubernetes.md)
+- [Docker](devops/docker/README.md)
+- [Kubernetes](devops/kubernetes/README.md)
 - [Cloud Native](devops/cloud-native.md)
 
-### [Distributed Systems](distributed-systems/distributed-systems.md)
+### [Distributed Systems](distributed-systems/README.md)
 - [CAP 理论](distributed-systems/cap.md)
 
 ### [Microservices](distributed-systems/microservices.md)

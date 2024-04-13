@@ -1,9 +1,31 @@
 # Generic
+范型编程介绍
+- https://en.wikipedia.org/wiki/Generic_programming
+- https://zh.wikipedia.org/wiki/范型编程
 
-https://go.dev/blog/intro-generics
+## Go 中的范型编程
+### 示例
+- https://go.dev/doc/tutorial/generics
+- https://gobyexample.com/generics
 
-https://go.dev/doc/tutorial/generics
+### 设计
+- https://go.dev/blog/why-generics
+- https://go.dev/blog/generics-next-step
+- https://go.dev/blog/intro-generics
+- https://go.dev/blog/when-generics
 
+### 原理
+- Golang 泛型初识 https://juejin.cn/post/7116815890343493646
+- 简单易懂的 Go 泛型使用和实现原理介绍 https://zhuanlan.zhihu.com/p/509290914
+- Go泛型是怎么实现的? https://colobu.com/2021/08/30/how-is-go-generic-implemented/
+- Go泛型编程: interface 不再是那个interface https://colobu.com/2022/01/08/the-interface-is-not-that-interface-in-go-1-18/
+- 泛型设计 https://golang3.eddycjy.com/posts/generics/
+- Generics Are the Generics of Go https://www.capitalone.com/tech/software-engineering/generics-in-go/
+
+### 第三方库
+- https://github.com/samber/lo (lo - Iterate over slices, maps, channels...)
+
+## Go 范型最佳实践
 范型使用格式样例
 ```
 // T is a type parameter.
