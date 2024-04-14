@@ -5,7 +5,21 @@ docs
 - https://go.dev/doc/tutorial/add-a-test
 - https://gobyexample.com/testing
 
+
+测试框架
+- https://github.com/stretchr/testify
+- https://github.com/onsi/ginkgo
+- https://github.com/smartystreets/goconvey
+- https://github.com/dvyukov/go-fuzz
+
+
 ## Go 单元测试
+最佳实践
+- 单元测试有必要吗？https://www.v2ex.com/t/821608
+- 如何编写可测试的代码：两个核心三个思路 https://mp.weixin.qq.com/s/rkIqAElMQ68sLWm927ru6w
+- Golang 编写易于单元测试的代码 https://blog.hackerpie.com/posts/testing/golang-write-testable-codes/
+- GoLang快速上手单元测试（思想、框架、实践）https://learnku.com/articles/52896
+
 李文周-Go单测从零到溜系列
 - 单元测试基础 https://www.liwenzhou.com/posts/Go/unit-test-0/
 - 网络测试 https://www.liwenzhou.com/posts/Go/unit-test-1/
@@ -14,9 +28,6 @@ docs
 - 使用monkey打桩 https://www.liwenzhou.com/posts/Go/unit-test-4/
 - goconvey的使用 https://www.liwenzhou.com/posts/Go/unit-test-5/
 - 编写可测试的代码 https://www.liwenzhou.com/posts/Go/unit-test-6/
-
-单元测试框架
-- https://github.com/stretchr/testify
 
 ## Go 单元测试 Mock
 Mock 框架
@@ -29,6 +40,7 @@ Mock 框架
 - Go单元测试 Mock 方案总结: https://taoshu.in/go/mock.html
   - https://taoshu.in/go/monkey/monkey.html
   - Go语言实现猴子补丁
+    - https://en.wikipedia.org/wiki/Monkey_patch
     - https://taoshu.in/go/monkey/monkey.html
     - https://taoshu.in/go/monkey/monkey-2.html
     - https://taoshu.in/go/monkey/monkey-3.html
