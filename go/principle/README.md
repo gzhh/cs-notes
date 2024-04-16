@@ -1,33 +1,16 @@
 # 底层原理
 
-## Memory model and Race condition
+如何阅读 Go 源码
+- https://mp.weixin.qq.com/s/l9UMrJagzrqymxEFjBnqfw
+- https://research.swtch.com
 
-**Memory model**
+包
+- https://pkg.go.dev/std
+- https://pkg.go.dev/golang.org/x
+- https://pkg.go.dev/runtime
 
-Ref: 
-- [Memory model (programming)](https://en.wikipedia.org/wiki/Memory_model_(programming))
-- [The Go Memory Model](https://go.dev/ref/mem)
-- [Memory Models](https://research.swtch.com/mm)
+源码
+- https://go.dev/src/
+- https://go.dev/src/runtime
+- https://go.dev/src/runtime/HACKING
 
-
-**Race condition**
-
-Ref:
-- [Race condition](https://en.wikipedia.org/wiki/Race_condition)
-- [Introducing the Go Race Detector](https://go.dev/blog/race-detector)
-- [Data Race Detector](https://go.dev/doc/articles/race_detector)
-
-
-**Malloc profilling**
-- runtime/mprof.go
-  - get goroutine id
-    ```
-    func getGid() uint {
-        b := make([]byte, 64)
-        b = b[:runtime.Stack(b, false)]
-        b = bytes.TrimPrefix(b, []byte("goroutine "))
-        b = b[:bytes.IndexByte(b, ' ')]
-        n, _ := strconv.ParseUint(string(b), 10, 64)
-        return uint(n)
-    }
-    ```
