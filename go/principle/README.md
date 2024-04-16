@@ -14,3 +14,5 @@
 - https://go.dev/src/runtime
 - https://go.dev/src/runtime/HACKING
 
+资源
+- https://github.com/emluque/golang-internals-resources
