@@ -9,6 +9,7 @@
 
 ## Assembler
 汇编语言入门
+- 汇编语言 https://book.douban.com/subject/35038473
 - x86-64 Assembly Language Programming with Ubuntu http://www.egr.unlv.edu/~ed/x86.html
 
 Go's Assembler

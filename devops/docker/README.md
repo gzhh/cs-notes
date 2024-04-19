@@ -1,5 +1,23 @@
 # Docker
+- https://www.docker.com/
+- https://github.com/moby/moby
+
+最佳实践
+- Guides https://docs.docker.com/get-started/overview/
+- Manuals https://docs.docker.com/manuals/
+- Reference https://docs.docker.com/reference/
+- Samples https://docs.docker.com/samples/
+
+工具
+- https://www.docker.com/products/docker-desktop/
+- https://docs.docker.com/desktop/
+- https://orbstack.dev/
+- https://github.com/abiosoft/colima
+
 ## 一、概念
+What's the difference between Docker Compose and Kubernetes?
+- https://stackoverflow.com/questions/47536536/whats-the-difference-between-docker-compose-and-kubernetes
+
 ### 主要原理
 1. Linux namespace
 > 隔离机制：使每个进程只看得到它自己的系统视图（文件、进程、网络接口、主机名等）
