@@ -9,7 +9,9 @@
 
 Ref
 - 如何系统的学习 Memory Model? https://www.zhihu.com/question/23572082
+- 聊聊内存模型与内存序 https://mp.weixin.qq.com/s/t5_Up2YZEZt1NLbvgYz9FQ
 - 并发理论基础：指令重排序问题 https://zhuanlan.zhihu.com/p/298448987
+- A Primer on Memory Consistency and Cache Coherence https://pages.cs.wisc.edu/~markhill/papers/primer2020_2nd_edition.pdf
 
 ### Go Memory Model
 - Memory Models https://research.swtch.com/mm

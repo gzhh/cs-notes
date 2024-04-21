@@ -13,6 +13,12 @@ Mac OS 睡眠唤醒之后，外接显示器再也无法点亮，只能重启
 - https://www.v2ex.com/t/492109
 
 
+### CPU 占用能耗
+邮件占用大量CPU
+- https://discussionschinese.apple.com/thread/253757543?sortBy=best
+- https://zhuanlan.zhihu.com/p/571030440
+
+
 ### 中文输入法卡顿
 - https://medium.com/@tobemaster/%E8%A7%A3%E5%86%B3-mac-%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95%E5%8D%A1%E9%A1%BF-4a8ab8a30415
 

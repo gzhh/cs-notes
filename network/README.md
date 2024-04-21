@@ -1,5 +1,25 @@
 # 计算机网络
-[https://zh.wikipedia.org/wiki/计算机网络](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- https://zh.wikipedia.org/wiki/计算机网络
+- https://zh.wikipedia.org/wiki/OSI模型
+- https://zh.wikipedia.org/wiki/TCP/IP协议族
+- Internet https://zh.wikipedia.org/wiki/互联网
+- Ethernet https://zh.wikipedia.org/wiki/以太网
+- Internet of things https://zh.wikipedia.org/wiki/物联网
+- World Wide Web https://zh.wikipedia.org/wiki/万维网
+
+IETF & RFC
+- IETF https://zh.wikipedia.org/wiki/互联网工程任务组
+- https://www.ietf.org/
+- IETF Datatracker https://datatracker.ietf.org/
+- RFC
+  - https://zh.wikipedia.org/wiki/RFC
+  - https://www.ietf.org/process/rfcs/
+  - https://www.rfc-editor.org/
+  - https://www.rfc-editor.org/rfc-index.html
+  - How to Read an RFC
+    - https://www.ietf.org/blog/how-read-rfc/
+    - https://www.mnot.net/blog/2018/07/31/read_rfc
+    - https://juejin.cn/post/6844903716051484679
 
 ## 网络组成
 
@@ -87,13 +107,11 @@
 **链路层**
 - [ARP](https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%9D%80%E8%A7%A3%E6%9E%90%E5%8D%8F%E8%AE%AE)（Address Resolution Protocol，地址解析协议），用于动态解析以太网硬件的地址。
 
-### TCP/UDP端口列表
 
-[https://zh.wikipedia.org/wiki/TCP/UDP端口列表](https://zh.wikipedia.org/wiki/TCP/UDP%E7%AB%AF%E5%8F%A3%E5%88%97%E8%A1%A8)
 
-# 常见端口
+### 常见端口
 
-### 一、常见端口号
+- https://zh.wikipedia.org/wiki/TCP/UDP端口列表
 
 熟知：0 - 1023
 
