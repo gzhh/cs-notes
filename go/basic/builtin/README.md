@@ -1,6 +1,10 @@
 ## builtin 包类型分析
 ### 各类型大小分析
 ```
+// 空结构体 struct{}
+var s struct{}
+fmt.Printf("sizeof(struct{}) = %d\n", unsafe.Sizeof(s))
+
 // boolean
 fmt.Printf("sizeof(bool) = %d\n", unsafe.Sizeof(true))
 

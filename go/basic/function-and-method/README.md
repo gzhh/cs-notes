@@ -18,6 +18,7 @@ func c() (i int) {
 
 ## receiver type
 ### value and pointer receivers 是适用场景
+- https://go.dev/doc/faq#methods_on_values_or_pointers
 
 A receiver must be a pointer
 - If the method needs to mutate the receiver. This rule is also valid if the receiver
