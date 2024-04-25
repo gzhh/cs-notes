@@ -2,21 +2,30 @@
 - Assembler https://en.wikipedia.org/wiki/Assembly_language#Assembler
 - Compiler https://en.wikipedia.org/wiki/Compiler
 - Interpreter https://en.wikipedia.org/wiki/Interpreter_(computing)
+- https://zh.wikipedia.org/wiki/机器语言
 
 介绍
 - 浅谈汇编器、编译器和解释器 https://zhuanlan.zhihu.com/p/70949843
 - https://juejin.cn/s/编译器和汇编器的区别
 
 ## Assembler
+- Assembler https://en.wikipedia.org/wiki/Assembly_language#Assembler
+- x86 https://en.wikipedia.org/wiki/X86
+- x86 assembly language https://en.wikipedia.org/wiki/X86_assembly_language
+- x86 instruction listings https://en.wikipedia.org/wiki/X86_instruction_listings
+
 汇编语言入门
 - 汇编语言 https://book.douban.com/subject/35038473
 - x86-64 Assembly Language Programming with Ubuntu http://www.egr.unlv.edu/~ed/x86.html
 
 Go's Assembler
 - A Quick Guide to Go's Assembler https://go.dev/doc/asm
+- Go语言汇编快速指南 https://www.51cto.com/article/704916.html
 - Golang 汇编入门知识总结 https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA
+- Go汇编优化入门 https://mzh.io/2018/05/Go汇编优化入门.pdf
 - 肝了一上午的Golang之Plan9入门 https://mp.weixin.qq.com/s/8wnMvROFQkVTKZ-qe4_eqw
 - 得到Go程序的汇编代码的方法 https://colobu.com/2018/12/29/get-assembly-output-for-go-programs/
+- Go 语言汇编入门 —— 从输出 HelloWorld 说起 https://juejin.cn/post/6844903929713524744
 
 
 ## Compiler

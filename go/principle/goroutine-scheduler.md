@@ -13,7 +13,9 @@ src/runtime 源码
 - https://go.dev/src/runtime/runtime2.go
 
 原理总结
-- 详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？https://eddycjy.com/posts/go/go-bootstrap0/
+- 详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？https://mp.weixin.qq.com/s/YK-TD3bZGEgqC0j-8U6VkQ
+- g0 特殊的goroutine https://blog.haohtml.com/archives/22353/
+- 深入golang runtime的调度 https://zboya.github.io/post/go_scheduler/
 - 调度器 https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-goroutine/
 - 6.8 协作与抢占 | Go 语言原本 https://golang.design/under-the-hood/zh-cn/part2runtime/ch06sched/preemption/
 - Go 是协作式调度，还是抢占式调度？ https://v2ex.com/t/927783
@@ -21,7 +23,6 @@ src/runtime 源码
 - 深入了解 Go 语言与并发编程 https://mp.weixin.qq.com/s/obFUsRnppgEsGkoo08nWeQ
 - goroutine 调度器原理 https://mp.weixin.qq.com/s/eX32jJMQBXov-HS8vRxo0Q
 - Go Scheduler 的 GMP 模型 https://mp.weixin.qq.com/s/1CY3E5daJ5U42orVwzCpaw
-- 详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？https://mp.weixin.qq.com/s/YK-TD3bZGEgqC0j-8U6VkQ
 - goroutine调度器揭秘 https://colobu.com/2024/03/19/goroutine-scheduler-revealed/
 - goroutine调度器揭秘 2 https://colobu.com/2024/03/24/goroutine-scheduler-2/
 - Go语言的CSP模型 https://zhuanlan.zhihu.com/p/313763247
