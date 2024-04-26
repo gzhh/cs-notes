@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+// channel + sync 控制并发数量
 // 发送1000个请求，并控制10个并发
 // sync.WaitGroup + channel
 func main() {

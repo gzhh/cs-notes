@@ -1,4 +1,19 @@
 ## Time
+- https://pkg.go.dev/time
+
+最佳实践：
+- https://gobyexample.com/time
+- https://gobyexample.com/time-formatting-parsing
+- https://gobyexample.com/timeouts
+- https://gobyexample.com/timers
+- https://gobyexample.com/tickers
+
+参考：
+- https://cs.opensource.google/go/go/+/refs/tags/go1.18:src/runtime/time.go
+- https://cs.opensource.google/go/go/+/refs/tags/go1.18:src/time/time.go
+- https://cs.opensource.google/go/go/+/refs/tags/go1.18:src/time/sleep.go
+- https://cs.opensource.google/go/go/+/refs/tags/go1.18:src/time/tick.go
+
 
 ### time.Parse and time.Format
 时区相关

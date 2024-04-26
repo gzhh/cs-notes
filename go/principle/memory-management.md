@@ -26,6 +26,11 @@ Go Race Detector
 - Introducing the Go Race Detector https://go.dev/blog/race-detector
 - Data Race Detector https://go.dev/doc/articles/race_detector
 
+## 常见内存节省技巧
+- 预先给切片分配容量
+- 按类型调整结构体中字段顺序-内存对齐
+- 使用空结构体 struct{}
+
 ## 内存对齐
 Data structure alignment
 - https://en.wikipedia.org/wiki/Data_structure_alignment

@@ -1,5 +1,7 @@
-## builtin 包类型分析
-### 各类型大小分析
+# builtin 包
+- https://pkg.go.dev/builtin
+
+## 各类型大小分析
 ```
 // 空结构体 struct{}
 var s struct{}
@@ -47,6 +49,16 @@ fmt.Printf("\nsizeof(string) = %d\n", unsafe.Sizeof(s)) // string 底层实现�
 var a any = [0]byte{}
 fmt.Printf("sizeof(any) = %d\n", unsafe.Sizeof(a)) // interface 底层实现为包含两个指针的结构体
 ```
+
+常量
+- [iota](https://github.com/gzhh/golang-notes/tree/main/src/basic/builtin/iota.md)
+
+## 基础数据类型
+- Go 指针和内存分配详解：https://segmentfault.com/a/1190000017473672
+- Go 类型占用内存大小探究：https://chende.ren/2020/11/25172308-002-type-memory-size.html
+- Go 的 []rune 和 []byte 区别：https://learnku.com/articles/23411/the-difference-between-rune-and-byte-of-go
+- Go string、bytes、rune的区别：https://juejin.cn/post/6844903743524175879
+
 
 ### Ref
 - https://github.com/golang/go/blob/go1.18/src/builtin/builtin.go

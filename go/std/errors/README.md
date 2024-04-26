@@ -1,4 +1,5 @@
-## Error handling
+## errors
+- https://pkg.go.dev/errors
 
 In Go, if an application panics, there is a bug — not an error.
 
@@ -6,12 +7,13 @@ Many developers new to Go confuse a panic with a runtime error in other language
 
 Catching panics can make sense to prevent unknown bugs from crashing a production server. Such a bug needs to be fixed though and using recover to catch it should only be a measure to prevent disaster in high-stake scenarios — never to be used as a way to do “alternative logic” as you put it.
 
-
 blog
 - [Defer, Panic, and Recover](https://go.dev/blog/defer-panic-and-recover)
 - [Error handling and Go](https://go.dev/blog/error-handling-and-go)
 - [Errors are values](https://go.dev/blog/errors-are-values)
 - [Working with Errors in Go 1.13](https://go.dev/blog/go1.13-errors)
+- https://earthly.dev/blog/golang-errors/
+
 
 
 ### Error
