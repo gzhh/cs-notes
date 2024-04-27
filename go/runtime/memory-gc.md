@@ -13,6 +13,7 @@
 - Go 语言垃圾收集器的实现原理 | Go 语言设计与实现 https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-garbage-collector/
 - 万字长文图解 Go 内存管理分析：工具、分配和回收原理 https://mp.weixin.qq.com/s/rydO2JK-r8JjG9v_Uy7gXg
 - 图解Golang垃圾回收机制！https://mp.weixin.qq.com/s/KXxJpT8D3qFhgiaU6OoYnw
+- Golang GC核心要点和度量方法 https://mp.weixin.qq.com/s/0EjrQ-MtQtHdKVCsibYYaA
 - Go 垃圾回收器指南 https://mp.weixin.qq.com/s/hbh9drP9pPBcOY7hLNeIAQ
 - Go 语言的垃圾回收 https://mp.weixin.qq.com/s/0CXU2jxqiDTOFuk_7AxPCA
 - 如何在Go中进行内存优化和垃圾收集器管理(GC)？https://mp.weixin.qq.com/s/eAlQexyK72uXOLlzH4qLAw

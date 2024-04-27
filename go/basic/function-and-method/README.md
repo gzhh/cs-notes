@@ -1,5 +1,25 @@
 # 函数和方法
 
+## 函数传参
+- https://go.dev/doc/faq#pass_by_value
+
+As in all languages in the C family, everything in Go is passed by value. That is, a function always gets a copy of the thing being passed.
+
+- 向一个函数传递一个 int 值，就会得到 int 的副本。
+- 而传递一个指针值就会得到指针的副本，但不会得到它所指向的数据。
+- map 和 slice 的行为类似于指针：它们是包含指向底层 map 或 slice 数据的指针的描述符。
+  - 复制一个 map 或 slice 值并不会复制它所指向的数据。
+  - 复制一个接口值会复制存储在接口值中的东西。
+  - 如果接口值持有一个结构，复制接口值就会复制该结构。如果接口值持有一个指针，复制接口值会复制该指针，但同样不会复制它所指向的数据。
+
+值传递，引用类型
+- map
+- slice
+- chan
+
+深入理解
+- 又吵起来了，Go 是传值还是传引用？https://mp.weixin.qq.com/s/qsxvfiyZfRCtgTymO9LBZQ
+
 ## 函数返回
 函数返回的顺序
 - 计算函数的返回值
@@ -15,6 +35,9 @@ func c() (i int) {
 }
 // return 2
 ```
+
+参考
+- Go 中 defer 和 return 执行的先后顺序 https://www.cnblogs.com/saryli/p/11371912.html
 
 ## receiver type
 ### value and pointer receivers 是适用场景
