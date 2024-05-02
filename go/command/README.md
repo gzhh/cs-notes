@@ -1,5 +1,8 @@
-## Go command
-### Compile and run go program
+# Go command
+- https://go.dev/doc/cmd
+- https://pkg.go.dev/cmd/go
+
+## Compile and run go program
 运行指定文件
 - `go run main.go`
 

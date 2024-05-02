@@ -13,7 +13,11 @@
 - zap https://github.com/uber-go/zap
   - 在Go语言项目中使用Zap日志库 https://www.liwenzhou.com/posts/Go/zap/
 - Logrus https://github.com/sirupsen/logrus
+- Zerolog https://github.com/rs/zerolog
 - lumberjack https://github.com/natefinch/lumberjack
+
+对比
+- https://dev.to/sumuduliyanage/insights-into-go-logging-2egh
 
 
 ## Library
