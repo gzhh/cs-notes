@@ -20,16 +20,20 @@
 
 Go's Assembler
 - A Quick Guide to Go's Assembler https://go.dev/doc/asm
+- plan9 assembly 完全解析 https://github.com/cch123/golang-notes/blob/master/assembly.md
 - 肝了一上午的Golang之Plan9入门 https://mp.weixin.qq.com/s/8wnMvROFQkVTKZ-qe4_eqw
 - 从hello world谈起 https://zhuanlan.zhihu.com/p/630298292
 - Go语言高级编程 第3章 Go 汇编语言 https://chai2010.cn/advanced-go-programming-book/ch3-asm/index.html
 - 得到Go程序的汇编代码的方法 https://colobu.com/2018/12/29/get-assembly-output-for-go-programs/
 - Go语言汇编快速指南 https://www.51cto.com/article/704916.html
 - Golang 汇编入门知识总结 https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA
-- Go 语言汇编入门 —— 从输出 HelloWorld 说起 https://juejin.cn/post/6844903929713524744
 - Go汇编优化入门 https://mzh.io/2018/05/Go汇编优化入门.pdf
 
 ### 从 hello world 谈起，定位 Go 程序真正的入口
+参考
+- Go 启动流程 https://github.com/cch123/golang-notes/blob/master/bootstrap.md
+- Go 语言汇编入门 —— 从输出 HelloWorld 说起 https://juejin.cn/post/6844903929713524744
+
 现有一段打印 Hello World 的 Go 代码，我们可以通过 gdb 来定位 Go 程序真正的入口。
 
 ```
