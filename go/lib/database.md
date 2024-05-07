@@ -52,6 +52,7 @@ GORM Gen
 
 
 ## SQL migration
+- migrate https://github.com/golang-migrate/migrate
 - sql-migrate https://github.com/rubenv/sql-migrate
 
 

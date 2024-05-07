@@ -111,7 +111,28 @@ V2 Version
 - https://github.com/GoogleCloudPlatform/go-templates
 - https://github.com/ServiceWeaver/template
 
+### Best Practice
+- Go Style Best Practices https://github.com/google/styleguide/blob/gh-pages/go/best-practices.md
+- Go 语言实战: 编写可维护 Go 语言代码建议 https://github.com/llitfkitfk/go-best-practice
+- Teh Zen of Go https://dave.cheney.net/2020/02/23/the-zen-of-go
+  - Go语言之禅 https://mp.weixin.qq.com/s/mKe0w3urHJEe9iYJ7svCuA
+
 ### Standard
+Style
+- Go Style | styleguide https://google.github.io/styleguide/go/index
+- https://github.com/google/styleguide/tree/gh-pages/go
+- The Uber Go Style Guide https://github.com/uber-go/guide
+- Uber Go Style Guide https://github.com/uber-go/guide/blob/master/style.md
+
+Lint
+- golangci-lint https://github.com/golangci/golangci-lint
+- Staticcheck - The advanced Go linter https://github.com/dominikh/go-tools
+- https://github.com/golang/lint
+
+Deadcode
+- Finding unreachable functions with deadcode https://go.dev/blog/deadcode
+- deadcode command https://pkg.go.dev/golang.org/x/tools/cmd/deadcode
+
 安全
 - 腾讯-Go安全指南 https://github.com/Tencent/secguide/blob/main/Go安全指南.md
 
