@@ -63,3 +63,16 @@ Delve: 类似于 GDB 的 Debugger，但是只针对 Go 程序，功能比 GDB �
 介绍
 - Go Wiki: CoreDumpDebugging https://go.dev/wiki/CoreDumpDebugging
 - 如何保留 Go 程序崩溃现场 https://mp.weixin.qq.com/s/_0uatR-rrM7REhGndIbpOg
+- 让golang程序生成coredump文件并进行调试 https://www.cnblogs.com/apocelipes/p/17536722.html
+
+Segmentation fault
+- https://en.wikipedia.org/wiki/Segmentation_fault
+- What is a segmentation fault? https://stackoverflow.com/questions/2346806/what-is-a-segmentation-fault
+
+### objdump
+- https://en.wikipedia.org/wiki/Objdump
+
+Objdump disassembles executable files.
+- https://pkg.go.dev/cmd/objdump
+
+

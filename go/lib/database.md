@@ -25,6 +25,8 @@
 
 Gen Tool
 - https://gorm.io/gen/gen_tool.html
+- 表结构转为 struct
+  - `gentool -dsn "root:123456@tcp(localhost:3306)/database?charset=utf8mb4&parseTime=True&loc=Local" -tables "goods,test" --onlyModel=true -outPath "./modelDir"`
 
 GORM Gen
 - https://github.com/go-gorm/gen
@@ -37,6 +39,9 @@ GORM Gen
 ### XORM
 - https://github.com/go-xorm/xorm
 - XORM 操作指南 https://books.studygolang.com/xorm/
+- 表结构转为 struct
+  - `xorm reverse mysql "user:password@(host:port)/dbname?charset=utf8" templates/goxorm your_model_path`
+  - `xorm reverse mysql "user:password@(host:port)/dbname?charset=utf8" $GOPATH/src/github.com/go-xorm/cmd/xorm/templates/goxorm your_model_path`
 
 ### ent
 - https://github.com/ent/ent

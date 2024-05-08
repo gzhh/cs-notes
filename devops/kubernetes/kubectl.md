@@ -1,4 +1,7 @@
 ## kubectl
+- https://kubernetes.io/docs/reference/kubectl/
+- https://kubernetes.io/docs/reference/kubectl/quick-reference/
+
 
 ![kubectl命令运行原理](images/kubectl-run-logic.png)
 

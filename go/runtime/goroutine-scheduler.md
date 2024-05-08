@@ -15,6 +15,7 @@ src/runtime 源码
 原理总结
 - 详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？https://mp.weixin.qq.com/s/YK-TD3bZGEgqC0j-8U6VkQ
 - g0 特殊的goroutine https://blog.haohtml.com/archives/22353/
+- Go 调度模型 GPM https://segmentfault.com/a/1190000022871460
 - 深入golang runtime的调度 https://zboya.github.io/post/go_scheduler/
 - 调度器 https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-goroutine/
 - 6.8 协作与抢占 | Go 语言原本 https://golang.design/under-the-hood/zh-cn/part2runtime/ch06sched/preemption/

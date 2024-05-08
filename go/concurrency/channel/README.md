@@ -29,6 +29,7 @@ Channels are the pipes that connect concurrent goroutines.
 - https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/
 - https://i6448038.github.io/2019/04/11/go-channel/
 - https://kingjcy.github.io/post/golang/go-channel/
+- 深度解密Go语言之channel https://zhuanlan.zhihu.com/p/74613114
 - 【Golang】channel 数据结构 阻塞、非阻塞操作 多路select https://www.bilibili.com/video/BV1kh411n79h
 
 深入理解 channel 特性
@@ -53,6 +54,8 @@ fmt.Println(c1 == c3) // true
 
 ## 最佳实践
 - 从Go channel中批量读取数据 https://colobu.com/2023/12/23/batch-read-from-channels/
+- 总结了才知道，原来channel有这么多用法！https://segmentfault.com/a/1190000017958702
+- golang channel 使用总结 https://www.cnblogs.com/ExMan/p/11710017.html
 
 
 ## 参考

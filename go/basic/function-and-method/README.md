@@ -1,4 +1,6 @@
 # 函数和方法
+- define methods on types
+- a method is just a function with a receiver argument.
 
 ## 函数传参
 - https://go.dev/doc/faq#pass_by_value

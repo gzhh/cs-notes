@@ -10,6 +10,7 @@
 - https://github.com/Haxxnet/Compose-Examples
 
 ## 最佳实践
+- https://github.com/yeasy/docker-compose-files
 - https://yeasy.gitbook.io/docker_practice/compose
 - https://www.hi-linux.com/posts/12554.html
 - https://www.youtube.com/watch?v=SXwC9fSwct8

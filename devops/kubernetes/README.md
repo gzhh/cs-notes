@@ -1,8 +1,36 @@
 # Kubernetes
+- https://github.com/kubernetes/kubernetes
+- https://kubernetes.io
+
+Docs
+- https://kubernetes.io/docs/home/
+- https://kubernetes.io/docs/concepts/
+- https://kubernetes.io/blog/
+- https://kubernetes.io/docs/reference/
+
+Courses 
+- Kubernetes Crash Course for Absolute Beginners https://www.youtube.com/watch?v=s_o8dwzRlu4
+- Kubernetes Roadmap - Complete Step-by-Step Learning Path https://www.youtube.com/watch?v=S8eX0MxfnB4
+
+Kubernetes cluster install
+- Minikube | Run Kubernetes locally
+  - https://github.com/kubernetes/minikube
+  - https://minikube.sigs.k8s.io/docs/
+- k8s for Docker Desktop
+  - https://github.com/AliyunContainerService/k8s-for-docker-desktop
+
+工具
+- Kompose - Convert Compose to Kubernetes
+  - https://github.com/kubernetes/kompose
+- Podman - A tool for managing OCI containers and pods.
+  - https://github.com/containers/podman
+
+
 ## 概念
 ### 解决问题
 - 容器编排、调度，容器云、集群管理
 - 管理网关、水平扩展、监控、备份、灾难恢复
+- 容器编排器的自我介绍 https://mp.weixin.qq.com/s/F9g-r4yBYDZ1Q9z6uq5feQ
 
 ### 优势功能
 - 服务发现
@@ -13,7 +41,9 @@
 
 ### 架构
 
-架构了解：[https://www.youtube.com/watch?v=s_o8dwzRlu4](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+架构了解：
+- https://www.youtube.com/watch?v=s_o8dwzRlu4
+- https://mp.weixin.qq.com/s/qlx6aio53CTBXXBXYjHhVw
 
 - master 主节点
     - API Server
