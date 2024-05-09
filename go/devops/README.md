@@ -1,6 +1,8 @@
 # Go DevOps
 
-## Golang编译和代码规范
+## Golang编译
+### 编译
+- 编译 Go 程序时，编译器只会关注那些直接被引用的库
 - 跨平台交叉编译
     
     Golang 支持交叉编译，在一个平台上生成另一个平台的可执行程序
@@ -23,6 +25,7 @@
     
     交叉编译不支持 CGO 所以要禁用它
 
+
 ## Graceful Restart
 - Go 如何实现热重启 https://mp.weixin.qq.com/s/UVZKFmv8p4ghm8ICdz85wQ
 - Go 平滑重启 https://mp.weixin.qq.com/s/LcYdLEkJc1qMCn-LESzfkw
@@ -35,6 +38,7 @@
 
 ## Trace ID
 - Go 语言如果没有 ctx 传递，如何让 Trace ID 连贯传递呢？ - V2EX https://v2ex.com/t/968060#reply17
+
 
 ## CICD
 - Automatically https://github.com/uber-go/automaxprocs

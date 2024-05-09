@@ -1,4 +1,6 @@
 ## kubeadm
+- https://github.com/kubernetes/kubeadm
+- https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 
 ### 安装 k8s 工具
 

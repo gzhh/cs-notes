@@ -1,6 +1,11 @@
 ## 用例
 - https://github.com/jxlwqq/kubernetes-examples
 
+Kubernetes in Action
+- https://github.com/luksa/kubernetes-in-action
+- https://github.com/wuYin/k8s-in-action
+- https://hub.docker.com/r/luksa/kubia-unhealthy
+
 ### 部署一个web应用
 
 部署nodejs应用

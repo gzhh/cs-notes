@@ -1,4 +1,5 @@
 # Protobuf
+接口定义语言，类似于 json，xml
 - https://protobuf.dev/
 - https://en.wikipedia.org/wiki/Protocol_Buffers
 
@@ -19,6 +20,20 @@ message Person {
   optional int32 id = 2;
   optional string email = 3;
 }
+```
+
+proto 文件解释
+```
+syntax = "proto3";
+
+// 类似于 c++ java 中的包命名，防止不同 namespace 中相同类型的冲突
+package proto;
+
+//option go_package = "path;name";
+//option go_package = "name";
+//path 表示生成的go文件的存放地址，会自动生成目录的。
+//name 表示生成的go文件所属的包名
+option go_package="./;search";
 ```
 
 
@@ -58,6 +73,8 @@ Python
 - `protoc --proto_path=your_src_path --python_out=your_dest_path your.proto`
 
 Golang
+- install
+  - go install google.golang.org/protobuf/cmd/protoc-gen-go
 - `protoc --go_out=paths=source_relative:. your.proto`
 
 Trouble

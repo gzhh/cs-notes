@@ -12,21 +12,51 @@ Courses
 - Kubernetes Crash Course for Absolute Beginners https://www.youtube.com/watch?v=s_o8dwzRlu4
 - Kubernetes Roadmap - Complete Step-by-Step Learning Path https://www.youtube.com/watch?v=S8eX0MxfnB4
 
-Kubernetes cluster install
+Kubernetes cluster install (local)
 - Minikube | Run Kubernetes locally
   - https://github.com/kubernetes/minikube
   - https://minikube.sigs.k8s.io/docs/
 - k8s for Docker Desktop
   - https://github.com/AliyunContainerService/k8s-for-docker-desktop
+- kind | Kubernetes IN Docker - local clusters for testing Kubernetes
+  - https://github.com/kubernetes-sigs/kind
+  - https://kind.sigs.k8s.io/
+- Tilt | powers microservice development 
+  - https://github.com/tilt-dev/tilt
+
+Kubernetes cluster install (prod)
+- 问一问目前生产环境最稳的 k8s 部署方式是啥 https://v2ex.com/t/967147
+- 自建
+  - minikube https://github.com/kubernetes/minikube
+  - kubeadm https://github.com/kubernetes/kubeadm
+  - Rancher https://github.com/rancher/rancher
+  - Sealos https://github.com/labring/sealos
+- 轻量化（生产还是慎用，相对坑多）
+  - K3s https://github.com/k3s-io/k3s
+    - https://k3d.io
+    - https://github.com/k3d-io/k3d
+  - MicroK8s https://github.com/canonical/microk8s
+    - https://microk8s.io/
+- 云平台托管
+  - GKE https://cloud.google.com/kubernetes-engine
+    - https://cloud.google.com/kubernetes-engine/docs/tutorials
+    - https://cloud.google.com/kubernetes-engine/docs/deploy-app-cluster
+  - EKS
+    - https://aws.amazon.com/eks/
 
 工具
 - Kompose - Convert Compose to Kubernetes
   - https://github.com/kubernetes/kompose
 - Podman - A tool for managing OCI containers and pods.
   - https://github.com/containers/podman
+- nerdctl: Docker-compatible CLI for containerd
+  - https://github.com/containerd/nerdctl
 
 
 ## 概念
+数据平面（Data Plane）和控制平面（Control Plane）
+- https://developer.aliyun.com/article/1395252
+
 ### 解决问题
 - 容器编排、调度，容器云、集群管理
 - 管理网关、水平扩展、监控、备份、灾难恢复

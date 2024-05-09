@@ -64,6 +64,8 @@ kubectl get endpoints svc_name
     
 
 ### 4.将服务暴露给外部客户端
+- Kubernetes service external ip pending https://stackoverflow.com/questions/44110876/kubernetes-service-external-ip-pending
+- 对比Kubernetes的Nodeport、Loadbalancer和Ingress，什么时候该用哪种 https://cloud.tencent.com/developer/article/1326529
 
 **4.1使用 NodePort 类型的服务**
 
@@ -105,6 +107,12 @@ spec:
 ```
 
 **4.3通过Ingress暴露服务**
+- https://github.com/kubernetes/ingress-nginx
+- https://github.com/kubernetes/ingress-nginx/blob/main/docs/deploy/index.md
+- https://kubernetes.io/docs/concepts/services-networking/ingress/
+- 课程实录 | Ingress Controller 的工作原理（上）https://mp.weixin.qq.com/s/VN-CfvRza3k1IHVxvoUwtg
+- Ingress Controller 的工作原理 | K8s Ingress Controller 技术细节探讨 —— 陶辉 https://www.bilibili.com/video/BV1r64y1m72f
+- https://github.com/projectcontour/contour
 
 Ingress 介绍
 
