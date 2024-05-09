@@ -43,6 +43,16 @@ GORM Gen
   - `xorm reverse mysql "user:password@(host:port)/dbname?charset=utf8" templates/goxorm your_model_path`
   - `xorm reverse mysql "user:password@(host:port)/dbname?charset=utf8" $GOPATH/src/github.com/go-xorm/cmd/xorm/templates/goxorm your_model_path`
 
+常见问题
+- SetMapper
+    ```
+    使用 conn.SetMapper(names.GonicMapper{})
+
+    经常会出现 fatal error: sync: unlock of unlocked mutex
+
+    解决办法生成结构体时使用，conn.SetMapper(names.GonicMapper{})，而不是每次操作时调用
+    ```
+
 ### ent
 - https://github.com/ent/ent
 

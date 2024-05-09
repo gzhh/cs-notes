@@ -1,5 +1,28 @@
 # Go DevOps
 
+## Golang编译和代码规范
+- 跨平台交叉编译
+    
+    Golang 支持交叉编译，在一个平台上生成另一个平台的可执行程序
+    
+    Mac 下编译 Linux 64位可执行程序
+    
+    ```
+    CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build main.go
+    ```
+    
+    Linux 下编译 Mac 64位可执行程序
+    
+    ```
+    CGO_ENABLED=0 GOOS=darwin GOARCH=amd64 go build main.go
+    ```
+    
+    GOOS：目标平台的操作系统（darwin、freebsd、linux、windows）
+    
+    GOARCH：目标平台的体系架构（386、amd64、arm）
+    
+    交叉编译不支持 CGO 所以要禁用它
+
 ## Graceful Restart
 - Go 如何实现热重启 https://mp.weixin.qq.com/s/UVZKFmv8p4ghm8ICdz85wQ
 - Go 平滑重启 https://mp.weixin.qq.com/s/LcYdLEkJc1qMCn-LESzfkw

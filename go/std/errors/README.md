@@ -44,12 +44,25 @@ tour
 
 Panic is a built-in function that stops the ordinary flow of control and begins panicking.
 
+Go的类型系统会在编译时捕获很多错误，但有些错误只能在运行时检查，如数组访问越界、空指针引用等。这些运行时错误会引起painc异常。
+
+虽然Go的panic机制类似于其他语言的异常，但panic的适用场景有一些不同。由于panic会引起程序的崩溃，因此panic一般用于严重错误，如程序内部的逻辑不一致。
+
+对于大部分漏洞，我们应该使用Go提供的错误机制，而不是panic，尽量避免程序的崩溃。在健壮的程序中，任何可以预料到的错误，如不正确的输入、错误的配置或是失败的I/O操作都应该被优雅的处理，最好的处理方式，就是使用Go的错误机制。
+
+通常来，不应该对panic异常做任何处理，但有时，也许我们可以从异常中恢复，至少我们可以在程序崩溃前，做一些操作。
+
+Golang的log.Fatal()和panic()函数的区别
+- https://www.jianshu.com/p/f85ecae6e7df
+
 
 ### Recover
 [builtin#recover](https://pkg.go.dev/builtin#recover)
 
 Recover is a built-in function that regains control of a panicking goroutine.
 
+Are all runtime errors recoverable in Go?
+- https://stackoverflow.com/questions/57486620/are-all-runtime-errors-recoverable-in-go
 
 ### Best Practice
 Package errgroup

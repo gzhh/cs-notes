@@ -104,6 +104,7 @@ git reflog
 - https://git-scm.com/docs/githooks
 - https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 - https://www.atlassian.com/git/tutorials/git-hooks
+- Git hooks钩子脚本的使用 https://hellogitlab.com/CM/git/git_hooks
 
 
 ## Git submodule

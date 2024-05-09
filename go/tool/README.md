@@ -7,6 +7,17 @@
 - https://pkg.go.dev/golang.org/x/tools/gopls
 
 
+## go tool
+go build 工具
+- `go build -tags=jsoniter .`
+
+本地文档服务器
+- godoc -http=":8080"
+
+vet 工具变量覆盖检查
+- go tool vet -shadow main.go
+
+
 ## Third Party Tools
 ### Developer tools
 - GoLand

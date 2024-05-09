@@ -14,6 +14,22 @@ Best Practice
 - 通过实例理解 Go 逃逸分析 https://mp.weixin.qq.com/s/wNIX6LeHnBsl1UQuRtmC1g
 - golang 逃逸分析详解 https://zhuanlan.zhihu.com/p/91559562
 
+变量的生命周期
+- 包级变量：存在于整个程序的运行过程，程序终止，包变量才会被回收。
+- 局部变量：动态生命周期，从每次生成新变量语句执行的时候开始，变量一直存在，直到这个变量成为不可达时（unreachable)，在那时他的存储空间可能被回收
+- 函数参数和返回值也是局部变量：每次函数被调用的时候被创建
+- 编译器决定储存空间堆栈分配
+
+go build 时可以使用 `--gcflags` 指定编译选项，可以通过如下命令查看可选参数
+
+`go tool compile --help`
+
+go build 时可以用如下命令查看是否发生内存逃逸
+
+`go build -gcflags "-m -m" test.go`
+
+`go build -gcflags "-m -l" test.go`
+
 ### Third Party
 goleak - Goroutine leak detector
 - https://github.com/uber-go/goleak

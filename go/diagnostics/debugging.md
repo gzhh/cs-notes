@@ -8,6 +8,7 @@ debug package
 
 ## Best Practice
 - Some ways to get better at debugging https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/
+- Linux后台开发调试经验分享 https://mp.weixin.qq.com/s/Xk2-vfocgOm13sI1TTkZNw
 
 开发中调试
 - 尽量不要边开发边调试，例如打断点调试；而是开发完一个模块然后写单元测试进行调试。
@@ -38,6 +39,11 @@ Go for Visual Studio Code
 
 ## GDB
 GDB：The GNU Debugger
+- https://www.sourceware.org/gdb/
+- GDB中应该知道的几个调试方法 https://coolshell.cn/articles/3643.html
+- 用GDB调试程序 https://blog.csdn.net/haoel/article/details/2879
+
+GDB and Go
 - Debugging Go Code with GDB https://go.dev/doc/gdb
 - Go Web 编程 - 11.2. 使用 GDB 调试 https://learnku.com/docs/build-web-application-with-golang/112-debugging-with-gdb/3223
 
