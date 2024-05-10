@@ -1,32 +1,42 @@
-## Redis commands
+# Redis commands
 
-### zset 有序集合
-zadd key score member
-zincrby key increment member
+## 单线程为什么执行命令这么快
 
-zrange key start stop [WITHSCORES]
-zrangebyscore key min max [WITHSCORES]
-zrevrange key start stop [WITHSCORES]
-zrevrangebyscore key max min [WITHSCORES]
-zrank key member
-zrevrank key member
+1. 一次只运行一条命令
+    
+    为什么这么快
+    
+    1）纯内存（主要原因）
+    
+    2）非阻塞 IO（Epoll）
+    
+    3）避免线程切换和竞态消耗
+    
+2. 拒绝长（慢）指令
+    
+    keys
+    
+    flushall
+    
+    flushdb
+    
+    slow lua script
 
-根据score由小到大取top10数据
-zrange key -inf inf byscore limit 0 10 [WITHSCORES]
+## 通用命令
 
-zcard key
-zcount key min max
+dbsize 计算key的总数
 
-zscore key member
-zmscore key member [member ...]
+keys 基本不在生产环境用
 
+type key
 
-zrem key member [member ...]
-zremrangebyrank key start stop
-zremrangebyscore key min max
+exists key
 
-zmpop numkeys key [key ...] MIN|MAX
-zpopmax key
-zpopmin key
+del key [key ...]
 
-zrangestore dst src min max
+expire key seconds 设置key的过期时间
+
+ttl key 查看key剩余的过期时间
+
+persist key 去掉key的过期时间
+
