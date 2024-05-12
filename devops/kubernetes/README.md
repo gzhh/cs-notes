@@ -44,13 +44,26 @@ Kubernetes cluster install (prod)
   - EKS
     - https://aws.amazon.com/eks/
 
+Kubernetes Package Manager
+- https://github.com/helm/helm
+- https://helm.sh/
+- https://helm.sh/docs/intro/using_helm/
+
+Kubernetes Client
+- client-go - Go client for Kubernetes. https://github.com/kubernetes/client-go
+- K9s - Kubernetes CLI To Manage Your Clusters In Style! https://github.com/derailed/k9s
+- Lens - The way the world runs Kubernetes https://github.com/lensapp/lens
+- KubeSphere https://github.com/kubesphere/kubesphere
+- Kuboard https://github.com/eip-work/kuboard-press
+
+Kubernetes Monitor
+- Fluentd: Unified Logging Layer https://github.com/fluent/fluentd
+- Chaos Mesh https://github.com/chaos-mesh/chaos-mesh
+
 工具
-- Kompose - Convert Compose to Kubernetes
-  - https://github.com/kubernetes/kompose
-- Podman - A tool for managing OCI containers and pods.
-  - https://github.com/containers/podman
-- nerdctl: Docker-compatible CLI for containerd
-  - https://github.com/containerd/nerdctl
+- Kompose - Convert Compose to Kubernetes https://github.com/kubernetes/kompose
+- Podman - A tool for managing OCI containers and pods. https://github.com/containers/podman
+- nerdctl: Docker-compatible CLI for containerd https://github.com/containerd/nerdctl
 
 
 ## 概念

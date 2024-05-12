@@ -13,6 +13,7 @@
 ## io
 - https://pkg.go.dev/io
 - https://pkg.go.dev/bufio
+- Package Deep Dive - io https://gophersumit.com/posts/io/
 
 最佳实践
 - Go 中 io 包的使用方法 https://mp.weixin.qq.com/s/k5KrkG9Zrxroq4ioGxfJxA

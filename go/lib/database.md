@@ -11,6 +11,7 @@
 
 ## 非 ORM
 - sqlx https://github.com/jmoiron/sqlx
+  - sqlx: 扩展标准sql库 https://colobu.com/2024/05/10/sqlx-a-brief-introduction/
 - sqlc https://github.com/sqlc-dev/sqlc
 
 
