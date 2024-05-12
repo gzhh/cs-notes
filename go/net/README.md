@@ -1,4 +1,6 @@
 # package net
+- https://pkg.go.dev/net
+
 ## 一、包级别对外方法
 
 ### net.Listen()
@@ -116,6 +118,12 @@ func (c *conn) Close() error {
 
 ### Ref
 
-https://golang.org/pkg/net/
+- https://zhuanlan.zhihu.com/p/31644462
 
-https://zhuanlan.zhihu.com/p/31644462
+- 基于net/http框架个部分总结 https://learnku.com/docs/eudore/32-frame-of-golang-http/9669
+
+- Golang net 包学习和实战 https://segmentfault.com/a/1190000022577103
+
+
+### 优秀开源项目
+- Centrifugo is an open-source scalable real-time messaging server. https://github.com/centrifugal/centrifugo

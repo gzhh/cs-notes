@@ -1,4 +1,20 @@
 # HTTP 总结
+- https://pkg.go.dev/net/http
+
+
+原理
+- Go Internals: HTTP request multiplexing in Go https://akshay-kumar.hashnode.dev/go-internals-http-request-multiplexing-in-go-1
+- 一文读懂 Go Http Server 原理 https://mp.weixin.qq.com/s/aLiqEuD9T8sERVrfGDSxvw
+- Go 号称几行代码开启一个 HTTP Server，底层都做了什么？https://mp.weixin.qq.com/s/n7mSUB6pxoYmr5u575Nqqg
+- 面试官：net/http库知道吗？能说说优缺点吗？https://mp.weixin.qq.com/s/AcmL60a-ZYdlFK2t0Et9Qg
+
+Third Party Package
+- https://github.com/valyala/fasthttp
+  - https://github.com/tsingson/fasthttp-guide
+  - Go Fasthttp 实践之 Hello World https://mp.weixin.qq.com/s/LRR_BIQVUx44OHReTJWv9Q
+- Resty https://github.com/go-resty/resty
+
+
 ## 常见问题
 ### io.ReadAll 读取 Response.Body 出现 EOF 错误
 原因

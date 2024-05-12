@@ -111,18 +111,47 @@ V2 Version
 - https://github.com/GoogleCloudPlatform/go-templates
 - https://github.com/ServiceWeaver/template
 
+### Project Layout
+Organizing a Go module
+- https://go.dev/doc/modules/layout
+- https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/
+
+Third Party
+- https://github.com/golang-standards/project-layout
+  - https://github.com/golang-standards/project-layout/issues/117
+  - https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/
+- https://github.com/bxcodec/go-clean-arch
+- https://github.com/evrone/go-clean-template
+- Golang 简洁架构实战 https://mp.weixin.qq.com/s/Xzlt_WcdcfLWhofafY3c6g
+- Golang 整洁架构实践 https://mp.weixin.qq.com/s/I2Fx2TIrwXV2kfLj_T5g5g
+
 ### Best Practice
 - Go Style Best Practices https://github.com/google/styleguide/blob/gh-pages/go/best-practices.md
-- Go 语言实战: 编写可维护 Go 语言代码建议 https://github.com/llitfkitfk/go-best-practice
+- Don't write clean code, write CRISP code https://bitfieldconsulting.com/posts/crisp-code
+- Common Anti-Patterns in Go Web Applications https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
 - Teh Zen of Go https://dave.cheney.net/2020/02/23/the-zen-of-go
   - Go语言之禅 https://mp.weixin.qq.com/s/mKe0w3urHJEe9iYJ7svCuA
+- Go 语言实战: 编写可维护 Go 语言代码建议 https://github.com/llitfkitfk/go-best-practice
+- TOP 20 Go最佳实践 https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/
+- 腾讯
+  - Golang 编程思维和工程实战 https://mp.weixin.qq.com/s/llmE9QpnrvA02AtvfHtqJQ
+  - Go 语言中各式各样的优化手段 https://zhuanlan.zhihu.com/p/403417640
+  - Go语言“正统”在中国？这6点教你写好Go代码！https://mp.weixin.qq.com/s/YTreb3YhEZMFFMlC5ru61Q
+  - 如何真正写好Golang代码? https://mp.weixin.qq.com/s/OIHqmgK4V7Y26uYoFjsCyA
+  - Golang与Java全方位对比总结 https://mp.weixin.qq.com/s/-N4eqdXb9a93uvOWfE4ScQ
+- 100 Go Mistakes and How to Avoid Them
+  - https://github.com/teivah/100-go-mistakes
+  - https://book.douban.com/subject/36084407/
+  - Go语言中常见100问题 https://mp.weixin.qq.com/s/tqAcoskLYd2UV6B_6AeIjw
+  - [长文]从《100 Go Mistakes》我总结了什么？https://www.luozhiyun.com/archives/797
 
 ### Standard
 Style
 - Go Style | styleguide https://google.github.io/styleguide/go/index
-- https://github.com/google/styleguide/tree/gh-pages/go
+  - https://github.com/google/styleguide/tree/gh-pages/go
 - The Uber Go Style Guide https://github.com/uber-go/guide
-- Uber Go Style Guide https://github.com/uber-go/guide/blob/master/style.md
+  - https://github.com/uber-go/guide/blob/master/style.md
+- The Ultimate Go Study Guide https://github.com/hoanhan101/ultimate-go
 
 Lint
 - golangci-lint https://github.com/golangci/golangci-lint
