@@ -7,6 +7,18 @@ A database is an organized collection of data stored and accessed electronically
 DB-ENGINES: Knowledge Base of Relational and NoSQL Database Management Systems
 - https://db-engines.com/en/ranking
 
+
+## 原理
+- https://github.com/pingcap/awesome-database-learning
+- How Does a Database Work? https://cstack.github.io/db_tutorial/
+
+Books
+- Readings in Database Systems
+  - http://www.redbook.io
+  - https://book.douban.com/subject/2256069
+- 数据库系统概念 https://book.douban.com/subject/35501216
+
+
 ## 重要概念
 - Database schema: https://en.wikipedia.org/wiki/Database_schema
   - https://database.guide/what-is-a-database-schema/
@@ -16,6 +28,25 @@ DB-ENGINES: Knowledge Base of Relational and NoSQL Database Management Systems
 - Lock
   - File locking: https://en.wikipedia.org/wiki/File_locking
   - Record Locking: https://en.wikipedia.org/wiki/Record_locking
+- Query Optimizer
+  - 当我谈查询优化器时，我谈些什么 (1)—— IR 设计 https://zhuanlan.zhihu.com/p/680046526
+
+
+## 数据结构
+B-Tree
+- https://en.wikipedia.org/wiki/B-tree
+- https://en.wikipedia.org/wiki/B+_tree
+
+LSM Tree
+- https://en.wikipedia.org/wiki/Log-structured_merge-tree
+- LSM 算法的原理是什么？https://www.zhihu.com/question/19887265
+- 深入理解什么是LSM-Tree https://mp.weixin.qq.com/s/UqpnHs7g5XZcQWDRXiyKyQ
+- LSM 日志结构合并树 https://juejin.cn/post/6931342483788070920
+
+B-Tree vs LSM-Tree
+- https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/
+![](images/b-tree-vs-lsm-tree.jpeg)
+
 
 ## Relational database
 - https://en.wikipedia.org/wiki/Relational_database
@@ -47,8 +78,10 @@ DB-ENGINES: Knowledge Base of Relational and NoSQL Database Management Systems
 参考
 - https://en.wikipedia.org/wiki/Database_normalization
 - https://zh.wikipedia.org/wiki/数据库规范化
-- https://zhuanlan.zhihu.com/p/20028672
-- https://cloud.tencent.com/developer/article/1753218
+- 数据库第一二三范式到底在说什么？https://zhuanlan.zhihu.com/p/20028672
+- 如何理解关系型数据库的常见设计范式？https://www.zhihu.com/question/24696366
+- MySQL数据库设计三大范式 https://cloud.tencent.com/developer/article/1753218
+
 
 ## NoSQL
 - https://en.wikipedia.org/wiki/NoSQL
