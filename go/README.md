@@ -126,6 +126,7 @@ Third Party
 - Golang 整洁架构实践 https://mp.weixin.qq.com/s/I2Fx2TIrwXV2kfLj_T5g5g
 
 ### Best Practice
+- 如何写出优雅的 Go 语言代码 https://draveness.me/golang-101/
 - Go Style Best Practices https://github.com/google/styleguide/blob/gh-pages/go/best-practices.md
 - Don't write clean code, write CRISP code https://bitfieldconsulting.com/posts/crisp-code
 - Common Anti-Patterns in Go Web Applications https://threedots.tech/post/common-anti-patterns-in-go-web-applications/

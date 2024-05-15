@@ -30,6 +30,7 @@ Books
   - Record Locking: https://en.wikipedia.org/wiki/Record_locking
 - Query Optimizer
   - 当我谈查询优化器时，我谈些什么 (1)—— IR 设计 https://zhuanlan.zhihu.com/p/680046526
+- SQL Commands | DDL, DQL, DML, DCL and TCL Commands https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
 
 
 ## 数据结构
@@ -81,6 +82,40 @@ B-Tree vs LSM-Tree
 - 数据库第一二三范式到底在说什么？https://zhuanlan.zhihu.com/p/20028672
 - 如何理解关系型数据库的常见设计范式？https://www.zhihu.com/question/24696366
 - MySQL数据库设计三大范式 https://cloud.tencent.com/developer/article/1753218
+
+
+### MySQL
+
+### MariaDB
+- https://mariadb.com
+
+### TiDB
+- https://github.com/pingcap/tidb
+- https://docs.pingcap.com/zh/tidb/stable
+- https://cn.pingcap.com
+- https://asktug.com
+
+同步
+- TiDB 作为 MySQL Slave 实现实时数据同步 https://cn.pingcap.com/blog/tidb-as-mysql-slave/
+- TIDB作为mysql的从库使用 https://developer.aliyun.com/article/697764
+- Migrate MySQL-Compatible Databases to TiDB Cloud Using Data Migration https://docs.pingcap.com/tidbcloud/migrate-from-mysql-using-data-migration
+- Migrate Large Datasets from MySQL to TiDB https://github.com/pingcap/docs/blob/master/migrate-large-mysql-to-tidb.md
+
+### Postgres
+
+### SQLite
+- https://www.sqlite.org
+
+### CockroachDB
+- https://github.com/cockroachdb/cockroach
+- https://www.cockroachlabs.com
+- 开源分布式NewSQL数据库CockroachDB架构及最佳实践 http://www.postgres.cn/downfiles/pgconf_2018/PostgresChina2018_%E8%B5%96%E5%AE%9D%E5%8D%8E_%E5%BC%80%E6%BA%90%E5%88%86%E5%B8%83%E5%BC%8FNewSQL%E6%95%B0%E6%8D%AE%E5%BA%93CockroachDB%E6%9E%B6%E6%9E%84%E5%8F%8A%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf
+- CockroachDB在金融领域最佳实践&思考 https://itdks.su.bcebos.com/a58b2fd35f694f01bf0fa10443ce682d.pdf
+
+### Snowflake
+- https://www.snowflake.com/en/
+- 当今第一独角兽 Snowflake https://1o24bbs.com/t/snowflake/23466
+- Snowflake：数据仓库的终极形态？https://zhuanlan.zhihu.com/p/54439354
 
 
 ## NoSQL

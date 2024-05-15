@@ -1,4 +1,11 @@
 # Postgres
+- https://www.postgresql.org
+- https://www.postgresql.org/docs/
+- https://www.postgresql.org/docs/current/
+
+Lib
+- pq https://github.com/lib/pq
+  - https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/
 
 启动 postgres server
 

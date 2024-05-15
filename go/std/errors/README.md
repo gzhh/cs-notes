@@ -108,3 +108,4 @@ Package errgroup
   - [Go 错误处理总结与实践](https://www.pseudoyu.com/zh/2021/08/29/go_error_handling/)
   - [Use %w instead of %v or %s](https://stackoverflow.com/questions/61283248/format-errors-in-go-s-v-or-w)
   - [卷起来，老程序员也得了解errors包的新变化 - 鸟窝](https://colobu.com/2023/12/13/learn-more-about-errors/)
+  - [Conquering Errors in Go: A Guide to Returning and Handling errors](https://blog.rideapp.in/conquering-errors-in-go-a-guide-to-returns-and-handling-a13885905433)

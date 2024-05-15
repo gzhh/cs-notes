@@ -7,6 +7,7 @@
 - https://gobyexample.com/interfaces
 
 ## 原理
+- JSON-RPC: a tale of interfaces https://go.dev/blog/json-rpc
 - 接口介绍 https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/02.6.html
 - 深入研究 Go interface 底层实现 https://halfrost.com/go_interface/
 - 接口原理 https://weread.qq.com/web/reader/a1632e70718ff5dba16e4abk977321c02529778d5d2116b
