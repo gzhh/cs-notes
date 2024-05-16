@@ -25,8 +25,29 @@ WebSocket
 
 Admin Framework
 - GoAdmin https://github.com/GoAdminGroup/go-admin
--
 
 
 ## Best Practice
 - https://gowebexamples.com
+
+
+### Go Swagger
+Swagger 2.0 implementation for go
+- https://github.com/go-swagger/go-swagger
+
+swag
+- https://github.com/swaggo/swag
+- https://github.com/swaggo/gin-swagger
+
+使用
+- 使用swagger生成接口文档 https://www.liwenzhou.com/posts/Go/gin-swagger/
+
+介绍
+- What are the differences between swaggo and go-swagger? https://github.com/go-swagger/go-swagger/issues/1794
+- Generate swagger specification from Go source code https://medium.com/@pedram.esmaeeli/generate-swagger-specification-from-go-source-code-648615f7b9d9
+- Implementing Swagger in Go Projects https://medium.com/julotech/implementing-swagger-in-go-projects-8579a5fb955
+
+swaggo/swag alternative, but should generate OpenAPI 3.0 spec file
+- https://www.reddit.com/r/golang/comments/wwadcy/swaggoswag_alternative_but_should_generate/
+- kin-openapi - OpenAPI 3.0 implementation for Go https://github.com/getkin/kin-openapi
+- oapi-codegen - is a command-line tool and library to convert OpenAPI specifications to Go code https://github.com/deepmap/oapi-codegen

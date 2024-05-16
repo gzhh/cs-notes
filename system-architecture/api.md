@@ -1,4 +1,67 @@
-# api 设计
+# API 设计
+
+## 标准
+OpenAPI
+- https://www.openapis.org
+- https://github.com/OAI
+- https://github.com/OAI/OpenAPI-Specification
+
+API design guide | Google Cloud
+- https://cloud.google.com/apis/design/
+- https://cloud.google.com/apis/design/errors
+
+Microsoft REST API Guidelines
+- https://github.com/microsoft/api-guidelines
+- https://github.com/microsoft/api-guidelines/blob/master/Guidelines.md
+
+
+## 最佳实践
+### RESTful API
+- https://restfulapi.net
+- https://docs.github.com/en/rest
+- https://docs.github.com/en/rest/guides
+- RESTful API 设计指南 https://www.ruanyifeng.com/blog/2014/05/restful_api.html
+- 实用 Web API 规范 https://blog.alswl.com/2023/04/web-api-guidelines/
+
+### GraphQL
+- https://graphql.org
+- GraphQL Engine https://github.com/hasura/graphql-engine/
+- GraphQL: From Excitement to Deception https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf
+- GraphQL 为何没有火起来? https://www.zhihu.com/question/38596306
+- GraphQL及元数据驱动架构在后端BFF中的实践 https://tech.meituan.com/2021/05/06/bff-graphql.html
+
+### 介绍
+- 前后端分离实践有感 https://juejin.cn/post/6844903545964249101
+- API设计，从RPC、SOAP、REST到GraphQL
+  - https://blog.enixjin.net/api_design_part1/
+  - https://blog.enixjin.net/api_design_part2/
+  - https://blog.enixjin.net/api_design_part3/
+  - https://blog.enixjin.net/api_design_part4/
+- REST vs. SOAP: Choosing the best web service https://www.techtarget.com/searchapparchitecture/tip/REST-vs-SOAP-Choosing-the-best-web-service
+- “一把梭：REST API 全用 POST” https://coolshell.cn/articles/22173.html
+- Architectural Styles and the Design of Network-based Software Architectures https://ics.uci.edu/~fielding/pubs/dissertation/top.htm
+
+BFF
+- The BFF Pattern (Backend for Frontend): An Introduction https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf
+
+N+1 Problem in REST API
+- https://restfulapi.net/rest-api-n-1-problem/
+- https://learnku.com/laravel/t/15077/what-is-the-n1-problem-and-how-to-solve-the-n1-problem-in-laravel
+
+
+## Swagger
+- https://github.com/swagger-api
+- https://github.com/swagger-api/swagger-editor
+- https://github.com/swagger-api/swagger-ui
+- https://github.com/swagger-api/swagger-codegen
+- https://swagger.io
+- https://editor.swagger.io
+- https://swagger.io/tools/swagger-ui/
+- https://swagger.io/tools/swagger-codegen/
+
+介绍
+- 如何编写基于OpenAPI规范的API文档 https://huangwenchao.gitbooks.io/swagger/content/
+
 
 ## 分页问题及其解决方案
 问题1: 分页 page 越大，导致查询变慢
@@ -21,3 +84,7 @@
 - 参考：
   - https://www.zhihu.com/question/619291617
   - https://www.v2ex.com/t/603295
+
+
+## 工具
+- Docgen - Transform your postman collection to HTML/Markdown documentation https://github.com/thedevsaddam/docgen

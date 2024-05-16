@@ -41,6 +41,9 @@ goleak - Goroutine leak detector
 - Profile-guided optimization preview https://go.dev/blog/pgo-preview
 - Profile-guided optimization in Go 1.21 https://go.dev/blog/pgo
 - PGO: 为你的Go程序提效5% https://colobu.com/2023/09/13/pgo/
+- Cloudflare最佳实践：如何通过 Go PGO 回收 CPU
+  - https://blog.cloudflare.com/reclaiming-cpu-for-free-with-pgo
+  - https://mp.weixin.qq.com/s/yrMkH5xOLUS8O9V2H8nfmA
 
 Doc
 - Profile-guided optimization https://go.dev/doc/pgo
