@@ -1,4 +1,6 @@
 # 事务 mvcc 
+参考
+- Implementing MVCC and major SQL transaction isolation levels https://notes.eatonphil.com/2024-05-16-mvcc.html
 
 ### 事务日志
 1. 内存修改

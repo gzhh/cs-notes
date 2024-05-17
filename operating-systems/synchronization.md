@@ -34,6 +34,7 @@
 - Semaphore: https://en.wikipedia.org/wiki/Semaphore_(programming)
 - Barrier: https://en.wikipedia.org/wiki/Barrier_(computer_science)
   - Memory barrier: https://en.wikipedia.org/wiki/Memory_barrier
+  - 什么情况下需要考虑内存屏障？https://www.zhihu.com/question/583090138/answer/2893436709
 - Mutual exclusion: https://en.wikipedia.org/wiki/Mutual_exclusion
 - Readers–writer lock: https://en.wikipedia.org/wiki/Readers%E2%80%93writer_lock
 
