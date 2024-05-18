@@ -40,6 +40,7 @@ func c() (i int) {
 
 参考
 - Go 中 defer 和 return 执行的先后顺序 https://www.cnblogs.com/saryli/p/11371912.html
+- Go函数调用惯例：多参数返回 https://mp.weixin.qq.com/s/f2Zu-sj-i4nO0wmmOBkoUg
 
 ## receiver type
 ### value and pointer receivers 是适用场景

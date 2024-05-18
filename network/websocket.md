@@ -1,7 +1,15 @@
 # WebSocket
 - https://en.wikipedia.org/wiki/WebSocket
+- https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
 
 WebSocket is distinct from HTTP. Both protocols are located at layer 7 in the OSI model and depend on TCP at layer 4. Although they are different, RFC 6455 states that WebSocket "is designed to work over HTTP ports 443 and 80 as well as to support HTTP proxies and intermediaries", thus making it compatible with HTTP. To achieve compatibility, the WebSocket handshake uses the HTTP Upgrade header to change from the HTTP protocol to the WebSocket protocol.
+
+原理
+- 看完让你彻底搞懂Websocket原理 https://blog.csdn.net/frank_good/article/details/50856585
+
+Tool
+- websocat - Command-line client for WebSockets https://github.com/vi/websocat
+
 
 ## WebSocket handshake
 - https://en.wikipedia.org/wiki/WebSocket#Protocol_handshake

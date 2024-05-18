@@ -3,6 +3,8 @@
 - https://en.wikipedia.org/wiki/CSS
 - https://en.wikipedia.org/wiki/JavaScript
 
+Tool
+- - JSFiddle - Code Playground https://jsfiddle.net
 
 ## Best Practice
 - https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html
@@ -14,11 +16,18 @@
 - https://github.com/Chalarangelo/30-seconds-of-code
 - https://www.udemy.com/course/foundations-of-front-end-development/
 - 前端九部 - 入门者手册2019 https://www.yuque.com/fe9/basic
+- Patterns.dev - Improve how you architect webapps https://www.patterns.dev
 
 ### 原理
 Web browser
 - https://en.wikipedia.org/wiki/Web_browser
+- How Web Works https://github.com/vasanthk/how-web-works
+- 图解浏览器的基本工作原理 https://zhuanlan.zhihu.com/p/47407398
 - Chrome 浏览器运行原理你了解多少？https://mp.weixin.qq.com/s/wjrcO2Ej7BEThWVsCnXEtA
+- What happens behind the scenes when we type www.google.com in a browser?  https://github.com/vasanthk/how-web-works
+- Life of a URLRequest https://chromium.googlesource.com/chromium/src/+/refs/heads/main/net/docs/life-of-a-url-request.md
+- Inside look at modern web browser (part 1) https://developer.chrome.com/blog/inside-browser-part1/
+- OWASP Cheat Sheet Series https://cheatsheetseries.owasp.org/
 
 
 ## JavaScript Package Manager

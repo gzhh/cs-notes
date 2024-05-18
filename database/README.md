@@ -34,6 +34,8 @@ Books
 
 
 ## 数据结构
+- Data Structures That Power Your Databases. Which one should we pick? https://twitter.com/bytebytego/status/1685164186681413632
+
 B-Tree
 - https://en.wikipedia.org/wiki/B-tree
 - https://en.wikipedia.org/wiki/B+_tree
@@ -105,6 +107,8 @@ B-Tree vs LSM-Tree
 
 ### SQLite
 - https://www.sqlite.org
+- https://sqlite.org/docs.html
+- https://sqlite.org/cli.html
 
 ### CockroachDB
 - https://github.com/cockroachdb/cockroach

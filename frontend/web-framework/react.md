@@ -16,6 +16,9 @@ Docs
 React JS For Beginners 2023 - Udemy
 - https://www.udemy.com/course/react-for-beginners-2022/
 
+### Open Source App
+- https://github.com/dushixiang/next-terminal
+
 
 ## Tookit
 - create-react-app https://github.com/facebook/create-react-app
@@ -26,3 +29,4 @@ React JS For Beginners 2023 - Udemy
 
 ### UI Library
 - Material UI https://github.com/mui/material-ui
+- Ant Design https://github.com/ant-design/ant-design

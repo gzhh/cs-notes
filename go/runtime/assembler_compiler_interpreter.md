@@ -1,4 +1,5 @@
 # Assembler, Compiler and Interpreter
+- Execution https://en.wikipedia.org/wiki/Execution_(computing)
 - Assembler https://en.wikipedia.org/wiki/Assembly_language#Assembler
 - Compiler https://en.wikipedia.org/wiki/Compiler
 - Interpreter https://en.wikipedia.org/wiki/Interpreter_(computing)
@@ -70,9 +71,13 @@ func main() {
 - 编译原理实战课 https://time.geekbang.org/column/intro/100052801
   - Go语言编译器 https://time.geekbang.org/column/article/266379
 - 用Go语言自制编译器 https://book.douban.com/subject/35909089/
+- How to execute an object file
+  - https://blog.cloudflare.com/how-to-execute-an-object-file-part-1
+  - https://blog.cloudflare.com/how-to-execute-an-object-file-part-2
+  - https://blog.cloudflare.com/how-to-execute-an-object-file-part-3
+  - https://blog.cloudflare.com/how-to-execute-an-object-file-part-4
 
 
 ## Interpreter
-
 - 用Go语言自制解释器 https://book.douban.com/subject/35909085/
 

@@ -2,8 +2,44 @@
 - https://en.wikipedia.org/wiki/HTTP
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 
+
+## Protocol
+HTTP1.1
+- https://datatracker.ietf.org/doc/html/rfc9112
+
+HTTPS
+- The Transport Layer Security (TLS) Protocol Version 1.3 https://datatracker.ietf.org/doc/html/rfc8446
+- The Transport Layer Security (TLS) Protocol Version 1.2 https://datatracker.ietf.org/doc/html/rfc5246
+- https://en.wikipedia.org/wiki/HTTPS
+- https://en.wikipedia.org/wiki/Transport_Layer_Security
+- https://tls13.xargs.org
+- 有关 TLS/SSL 证书的一切 https://www.kawabangga.com/posts/5330
+
+HTTP2
+- https://datatracker.ietf.org/doc/html/rfc9113
+- https://en.wikipedia.org/wiki/HTTP/2
+- https://http2.github.io
+- Does HTTP/2 make websockets obsolete? https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
+
+HTTP3
+- https://datatracker.ietf.org/doc/html/rfc9114
+- https://datatracker.ietf.org/doc/html/rfc9000
+- https://en.wikipedia.org/wiki/HTTP/3
+- https://en.wikipedia.org/wiki/QUIC
+- https://quic.xargs.org
+- https://cangsdarm.github.io/illustrate/quic
+- HTTP/3 From A To Z: Core Concepts https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/
+- quic-go https://github.com/quic-go/quic-go
+
+
+## 原理
+- 了解 HTTP 看这一篇就够 https://mp.weixin.qq.com/s/JVQPy8hAVoq1pRq63HKBOw
+
+
 ## Content-Type
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+- https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+- Do I need Content-Type: application/octet-stream for file download? https://stackoverflow.com/questions/20508788/do-i-need-content-type-application-octet-stream-for-file-download
 
 ### 请求报文
 
@@ -26,6 +62,8 @@
 响应体 response body
 
 ### HTTP状态码
+- https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
 200 OK
 
@@ -68,12 +106,6 @@
 - 请求[流水线](https://zh.wikipedia.org/wiki/HTTP%E7%AE%A1%E7%B7%9A%E5%8C%96)；
 - 修复HTTP/1.0版本以来未修复的 [队头阻塞](https://zh.wikipedia.org/wiki/%E9%98%9F%E5%A4%B4%E9%98%BB%E5%A1%9E) 问题；[https://zhuanlan.zhihu.com/p/330300133](https://zhuanlan.zhihu.com/p/330300133)
 - 对数据传输采用[多路复用](https://zh.wikipedia.org/wiki/%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8)，让多个请求合并在同一 [TCP](https://zh.wikipedia.org/wiki/TCP) 连接内。
-
-### Q&A
-- 浏览器的基本工作原理
-  - https://zhuanlan.zhihu.com/p/47407398
-- What happens behind the scenes when we type www.google.com in a browser?
-  - https://github.com/vasanthk/how-web-works
 
 ### Ref
 

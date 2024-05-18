@@ -1,10 +1,13 @@
 ## curl
+- https://en.wikipedia.org/wiki/CURL
 
-[https://wangchujiang.com/linux-command/c/curl.html](https://wangchujiang.com/linux-command/c/curl.html)
+Best Practice
+- https://wangchujiang.com/linux-command/c/curl.html
+- curl网站开发指南 https://www.ruanyifeng.com/blog/2011/09/curl.html
+- curl exercises https://jvns.ca/blog/2019/08/27/curl-exercises/
 
 ### GET
 
-curl [https://wangchujiang.com](https://wangchujiang.com/login)
 
 ### POST
 
