@@ -1,12 +1,14 @@
 # OOP
+- https://en.wikipedia.org/wiki/Object-oriented_programming
 
-抽象
+概念
+- 抽象
+- 封装
+- 继承
+- 多态
 
-封装
-
-继承
-
-多态
+设计原则
+- https://en.wikipedia.org/wiki/SOLID
 
 ### 设计原则
 

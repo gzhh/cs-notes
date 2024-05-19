@@ -24,10 +24,15 @@ Web browser
 - How Web Works https://github.com/vasanthk/how-web-works
 - 图解浏览器的基本工作原理 https://zhuanlan.zhihu.com/p/47407398
 - Chrome 浏览器运行原理你了解多少？https://mp.weixin.qq.com/s/wjrcO2Ej7BEThWVsCnXEtA
-- What happens behind the scenes when we type www.google.com in a browser?  https://github.com/vasanthk/how-web-works
-- Life of a URLRequest https://chromium.googlesource.com/chromium/src/+/refs/heads/main/net/docs/life-of-a-url-request.md
 - Inside look at modern web browser (part 1) https://developer.chrome.com/blog/inside-browser-part1/
 - OWASP Cheat Sheet Series https://cheatsheetseries.owasp.org/
+
+Life of a URLRequest
+- Life of a URLRequest https://chromium.googlesource.com/chromium/src/+/refs/heads/main/net/docs/life-of-a-url-request.md
+- What happens behind the scenes when we type www.google.com in a browser?  https://github.com/vasanthk/how-web-works
+- What Happens When You Type a Url in Your Browser and Press Enter https://blog.nicolasmesa.co/posts/2018/08/what-happens-when-you-type-a-url-in-your-browser-and-press-enter/
+- What happens when you type a URL into your browser? https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
+- What happens when you type a URL into your browser? https://blog.bytebytego.com/p/what-happens-when-you-type-a-url
 
 
 ## JavaScript Package Manager

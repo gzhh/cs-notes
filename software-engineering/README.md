@@ -1,4 +1,25 @@
 # Software Engineering
+- https://zh.wikipedia.org/zh-cn/软件工程
+- https://zh.wikipedia.org/zh-cn/人月神话
+- https://zh.wikipedia.org/zh-cn/没有银弹
+
+Programming Paradigm 编程范式
+- https://zh.wikipedia.org/wiki/编程范式
+- 指令式
+- 函数式
+- 过程式
+- 面向对象
+- Automata-based programming https://zh.wikipedia.org/wiki/自动机编程
+
+编程原则
+- https://en.wikipedia.org/wiki/KISS_principle
+- https://en.wikipedia.org/wiki/Open-closed_principle
+
+
+## Best Practice
+
+阿里
+- 让研发规范管得住 - 我们为什么在流水线之上又做了研发流程？https://mp.weixin.qq.com/s/YpDCg2NZ57knETmBMXVDNg
 
 腾讯
 - 对抗复杂度的圣杯战争：软件架构究竟该如何设计？https://mp.weixin.qq.com/s/9lWFt-Uv74psPU-PTxUlJA

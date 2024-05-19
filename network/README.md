@@ -21,6 +21,15 @@ IETF & RFC
     - https://www.mnot.net/blog/2018/07/31/read_rfc
     - https://juejin.cn/post/6844903716051484679
 
+Learn
+- https://www.cloudflare.com/learning/
+- https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/
+- https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/
+- 网络基本功系列-细说网络那些事儿 https://wizardforcel.gitbooks.io/network-basic/content/
+  - https://github.com/wnma3mz/Reading-Books/blob/master/网络基本功系列.pdf
+- https://plantegg.github.io/2019/05/15/就是要你懂网络--一个网络包的旅程/
+
+
 ## 网络组成
 
 1. 网络连接
@@ -34,10 +43,23 @@ IETF & RFC
     
 2. 网络节点
     - 网络接口（即网卡，使得电脑能够访问传输介质上的资料，以太网中网卡都有唯一的 MAC 地址）
+      - https://en.wikipedia.org/wiki/Network_interface_controller
+      - https://zh.wikipedia.org/wiki/网卡
+      - https://en.wikipedia.org/wiki/Virtual_network_interface
+      - https://zh.wikipedia.org/wiki/虚拟网卡
+      - https://en.wikipedia.org/wiki/Loopback
+      - https://zh.wikipedia.org/wiki/回环
+      - What is the loopback device and how do I use it? https://askubuntu.com/questions/247625/what-is-the-loopback-device-and-how-do-i-use-it
     - ~~中继器及集线器~~（用于增强信号的网络设备，由于交换器的功能相对较佳，价格亦相近，故两者皆已被交换器所取代）
     - ~~桥接器~~（桥接器连接两个独立的网段及过滤之间的流量，它在OSI模型的数据链路层中运作）
+      - https://en.wikipedia.org/wiki/Network_bridge
+      - https://zh.wikipedia.org/wiki/桥接器
     - 交换器（一种依据MAC地址，来在端口之间转发和过滤数据链路层的帧的设备）
+      - https://en.wikipedia.org/wiki/Network_switch
+      - https://zh.wikipedia.org/wiki/网络交换机
     - 路由器（路由器是一款互连网络设备，兼具了中继器、桥接器、集线器的功能。其依照数据包内的消息及路由表中的信息来选择数据包传递的路径。它必须拥有IP地址才可正常运作）
+      - https://en.wikipedia.org/wiki/Router_(computing)
+      - https://zh.wikipedia.org/wiki/路由器
     - 调制解调器（即光猫，把节点的信号转换成其他非专用线路能够发送的信号。将数字信号调变到模拟信号上进行传输，并解调收到的模拟信号以得到数字信号的电子设备）
     - 防火墙（一种控制网络安全和访问规则的网络系统。它按特定规则来充许或阻止资料通过）
 

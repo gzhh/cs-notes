@@ -6,10 +6,32 @@
 
 - [https://www.uedbox.com/post/59475/](https://www.uedbox.com/post/59475/)
 
+
 ## tcpdump
+- https://www.tcpdump.org
+- https://wangchujiang.com/linux-command/c/tcpdump.html
+- 抓包神器 tcpdump 使用介绍 https://cizixs.com/2015/03/12/tcpdump-introduction/
+- Linux tcpdump命令详解 https://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html
+- TCPdump: A Powerful Network Packet Analyzer A Thread with examples https://x.com/devops_tech/status/1675418922282283009
+
 
 ## Wireshark
+- https://www.wireshark.org/
 
+Learn
+- https://www.wireshark.org/docs/
+- Wireshark User’s Guide https://www.wireshark.org/docs/wsug_html_chunked/index.html
+- Wireshark Wiki https://wiki.wireshark.org
+- Questions - Ask Wireshark https://ask.wireshark.org/questions/
+- Wireshark Mailing Lists https://www.wireshark.org/lists/
+- Wireshark Wiki https://gitlab.com/wireshark/wireshark/-/wikis/home
+
+Books
+- Wireshark网络分析就这么简单 https://book.douban.com/subject/26268767/
+- wireshark网络分析的艺术 https://book.douban.com/subject/26710788/
+- Wireshark数据包分析实战(第3版) https://book.douban.com/subject/30387220/
+
+### Usage
 选择网卡
 
 - 1.选择网卡
@@ -31,27 +53,30 @@ wireshark抓取环回链路数据包
 
 参考
 
-- [https://gitlab.com/wireshark/wireshark/-/wikis/home](https://gitlab.com/wireshark/wireshark/-/wikis/home)
-- [https://www.cnblogs.com/moonbaby/p/10528401.html](https://www.cnblogs.com/moonbaby/p/10528401.html)
+- wireshark怎么抓包、wireshark抓包详细图文教程 https://www.cnblogs.com/moonbaby/p/10528401.html
 
 其他概念
 
-- What is a TCP window update?
-    
-    [https://stackoverflow.com/questions/1466307/what-is-a-tcp-window-update](https://stackoverflow.com/questions/1466307/what-is-a-tcp-window-update)
-    
+- What is a TCP window update? https://stackoverflow.com/questions/1466307/what-is-a-tcp-window-update
+
 
 ## Fiddle
+- https://www.telerik.com/support/fiddler
+- https://docs.telerik.com/fiddler-everywhere/introduction
 
-参考
 
-- [https://docs.telerik.com/fiddler-everywhere/introduction](https://docs.telerik.com/fiddler-everywhere/introduction)
+## Snifnet
+- https://sniffnet.net
+- https://github.com/GyulyVGC/sniffnet
+
 
 ## Charles
+- https://www.charlesproxy.com/documentation/
 
-参考
 
-- [https://www.charlesproxy.com/documentation/](https://www.charlesproxy.com/documentation/)
+## Termshark
+- https://github.com/gcla/termshark
+
 
 ## 对比
 

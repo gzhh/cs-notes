@@ -51,6 +51,15 @@ GDB and Go
 - Debug Go program with GDB on macOS https://stackoverflow.com/questions/52534287/debug-go-program-with-gdb-on-macos
 
 
+## LLDB
+The LLDB Debugger
+- https://lldb.llvm.org
+- GDB to LLDB command map. https://lldb.llvm.org/use/map.html
+
+LLDB and Go
+- 使用 LLDB 调试 Go 程序 https://colobu.com/2018/03/12/Debugging-Go-Code-with-LLDB/
+
+
 ## Delve
 Delve: 类似于 GDB 的 Debugger，但是只针对 Go 程序，功能比 GDB 更强大。
 - https://github.com/go-delve/delve

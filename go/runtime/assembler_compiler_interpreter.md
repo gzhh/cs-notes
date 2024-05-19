@@ -68,6 +68,7 @@ func main() {
 
 
 ## Compiler
+- Abstract syntax tree https://en.wikipedia.org/wiki/Abstract_syntax_tree
 - 编译原理实战课 https://time.geekbang.org/column/intro/100052801
   - Go语言编译器 https://time.geekbang.org/column/article/266379
 - 用Go语言自制编译器 https://book.douban.com/subject/35909089/
@@ -76,6 +77,16 @@ func main() {
   - https://blog.cloudflare.com/how-to-execute-an-object-file-part-2
   - https://blog.cloudflare.com/how-to-execute-an-object-file-part-3
   - https://blog.cloudflare.com/how-to-execute-an-object-file-part-4
+
+GCC
+- https://gcc.gnu.org
+
+LLVM
+- https://zh.wikipedia.org/wiki/LLVM
+- https://github.com/llvm/llvm-project
+- https://llvm.org
+- https://clang.llvm.org
+- LLVM基本概念入门 https://zhuanlan.zhihu.com/p/140462815
 
 
 ## Interpreter
