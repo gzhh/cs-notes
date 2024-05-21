@@ -30,6 +30,21 @@ Install a Python version
 Set the global Python version
 - `pyenv global 3.10.4`
 
+### pyenv install pip
+确保 pyenv 和对应的 Python 版本安装正常，然后使用 ensurepip 和 pip 命令来升级 pip。
+
+```
+pyenv install <version>  # 安装特定的 Python 版本
+pyenv global <version>   # 或者 pyenv local <version>
+
+python -m ensurepip --upgrade
+python -m pip install --upgrade pip
+```
+
+运行以下命令以确保 pyenv shims 目录正确更新。
+
+`pyenv rehash`
+
 
 ## pip (Python package management)
 - https://en.wikipedia.org/wiki/Pip_(package_manager)
