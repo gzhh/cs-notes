@@ -85,6 +85,15 @@ N+1 Problem in REST API
   - https://www.zhihu.com/question/619291617
   - https://www.v2ex.com/t/603295
 
+问题4: 分页场景下，列表缓存策略。
+- 解决方案
+  - 1.直接缓存分页列表结果
+  - 2.查询对象ID列表，再缓存每个对象条目
+  - 3.缓存对象ID列表，同时缓存每个对象条目
+- 参考：
+  - https://www.cnblogs.com/makemylife/p/17425593.html
+  - https://developer.aliyun.com/article/620529
+
 
 ## 工具
 - Docgen - Transform your postman collection to HTML/Markdown documentation https://github.com/thedevsaddam/docgen

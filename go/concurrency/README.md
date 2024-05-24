@@ -19,6 +19,7 @@ Actor model
 - Go 语言设计与实现 - 6.2 同步原语与锁 https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-sync-primitives/
 - Golang异步编程方式和技巧 https://mp.weixin.qq.com/s/PuNu65ggHyB6jxRqhbN_VQ
 - 一个例子，给你讲透典型的Go并发控制 https://mp.weixin.qq.com/s/qxs6ikRy_Km5JlJesYmH4w
+- 20种不同并发模型示例，带你深入理解并发模型 https://mp.weixin.qq.com/s/aTYie9PHcoXRYYmmIGaOXA
 
 ### Concurrent Servers
 - https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
