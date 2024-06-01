@@ -1,4 +1,5 @@
 ## 微服务
+
 ### kubernetes 容器编排
 
 k8s让运维只关注硬件底层设备、不关注具体的应用部署，开发者可以自行管理应用的发布和部署。
@@ -28,3 +29,6 @@ k8s让运维只关注硬件底层设备、不关注具体的应用部署，开�
 DevOps（开发、QA、运维）
 
 在整个软件开发的生命周期结合在一起（数据层不处理）
+
+### 最佳实践
+![microservice best practices](images/microservice-best-practices.webp)

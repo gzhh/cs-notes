@@ -2,23 +2,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-  - [Golang](#golang)
-    - [Golang Notes](#golang-notes)
-    - [Trouble Shooting](#trouble-shooting)
-  - [Operating System](#operating-system)
-  - [Network](#network)
-  - [Database](#database)
-  - [DevOps](#devops)
-    - [Automation](#automation)
-    - [Docker](#docker)
-    - [Kubernetes](#kubernetes)
-    - [CI/CD](#cicd)
-  - [Cache](#cache)
-  - [Message Queue](#message-queue)
-  - [Design Pattern](#design-pattern)
-  - [System Design](#system-design)
-  - [Distributed Systems](#distributed-systems)
-  - [Microservices](#microservices)
+- [Golang](#golang)
+- [Operating System](#operating-system)
+- [Network](#network)
+- [Database](#database)
+- [Cache](#cache)
+- [Message Queue](#message-queue)
+- [Design Pattern](#design-pattern)
+- [System Design](#system-design)
+- [DevOps](#devops)
+- [Distributed Systems](#distributed-systems)
+- [Microservices](#microservices)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
