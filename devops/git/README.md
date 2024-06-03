@@ -15,6 +15,9 @@ Version control
 - https://en.wikipedia.org/wiki/Version_control
 
 
+## Best Practice
+- Git还能这样用？一文看懂Git最佳实践！https://mp.weixin.qq.com/s/oLb1A7Tyw_itYUJiYcH8Ng
+
 
 ## Git internals
 - https://sites.google.com/a/chromium.org/dev/developers/fast-intro-to-git-internals

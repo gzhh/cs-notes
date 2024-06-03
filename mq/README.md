@@ -12,6 +12,7 @@ Messaging_pattern
     - https://en.wikipedia.org/wiki/Remote_procedure_call
     - https://en.wikipedia.org/wiki/REST
 
+
 ## Message Queue 概念介绍
 
 消息队列 Message queue
@@ -41,13 +42,39 @@ message queue vs message broker
 
 
 ## Publish–subscribe pattern 概念介绍
-### WebSocket
-- https://en.wikipedia.org/wiki/WebSocket
-- https://zh.wikipedia.org/wiki/WebSocket
+- WebSocket
+- MQTT
+- Redis Streams https://redis.io/docs/data-types/streams/
 
-### MQTT
-- https://en.wikipedia.org/wiki/MQTT
-- https://zh.wikipedia.org/wiki/MQTT
 
-### Redis Streams
-- https://redis.io/docs/data-types/streams/
+## MQ 产品
+### Kafka
+
+### RabbitMQ
+
+### RocketMQ
+- https://rocketmq.apache.org
+- https://github.com/apache/rocketmq
+
+### Pulsar
+- https://pulsar.apache.org
+- https://github.com/apache/pulsar
+
+### NSQ
+- https://nsq.io
+- https://github.com/nsqio/nsq
+
+### NATS
+- https://docs.nats.io
+- https://github.com/nats-io
+- https://github.com/nats-io/nats-server
+- https://docs.nats.io/nats-concepts/overview/compare-nats
+
+### Redpanda
+- https://redpanda.com
+- https://github.com/redpanda-data/redpanda
+- https://github.com/redpanda-data/console
+
+### Beanstalk
+- https://github.com/beanstalkd/beanstalkd
+

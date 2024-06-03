@@ -1,12 +1,34 @@
 # Kafka
-- https://kafka.apache.org/
+- https://kafka.apache.org
+- https://kafka.apache.org/documentation/
+- https://github.com/apache/kafka
+
+Docs
+- https://cwiki.apache.org/confluence/display/KAFKA
+- https://cwiki.apache.org/confluence/display/KAFKA/Clients
 
 参考
-- [Kafka 高可靠高性能原理探究](https://mp.weixin.qq.com/s/_g11mmmQse6KrkUE8x4abQ)
-- [Kafka 分级存储在腾讯云的实践与演进](https://mp.weixin.qq.com/s/bjXStdwAb5BRwKfquOHT_w)
-- [B站KAFKA探索与实践](https://mp.weixin.qq.com/s/IQ2h_iwg8esXuH_jG1St_w)
+- 这些年背过的面试题——Kafka篇 https://mp.weixin.qq.com/s/8UNtMIllJ03ULZwE9WtVdg
+- 我用kafka两年踩过的一些非比寻常的坑（宝贵经验）https://mp.weixin.qq.com/s/zP2qDnLpteuTIhbdPuIxKQ
+- Kafka 高可靠高性能原理探究 https://mp.weixin.qq.com/s/_g11mmmQse6KrkUE8x4abQ
+- Kafka 分级存储在腾讯云的实践与演进 https://mp.weixin.qq.com/s/bjXStdwAb5BRwKfquOHT_w
+- B站KAFKA探索与实践 https://mp.weixin.qq.com/s/IQ2h_iwg8esXuH_jG1St_w
+- 基于SSD的Kafka应用层缓存架构设计与实现 https://tech.meituan.com/2021/01/14/kafka-ssd.html
+- Kafka 痛点专题｜AutoMQ 如何解决 Kafka 冷读副作用 https://mp.weixin.qq.com/s/RX9Z54906lzQ2WDo2MvwxA
+- Kafka消费组 https://www.cnblogs.com/huxi2b/p/6223228.html
+- kafka-docker https://github.com/wurstmeister/kafka-docker
+
+最佳实践
+- go-zero微服务实战系列（八、如何处理每秒上万次的下单请求）https://mp.weixin.qq.com/s/OAbuzj876SrrcB5WO_2FuA
+- go-zero微服务实战系列（九、极致优化秒杀性能）https://mp.weixin.qq.com/s/8VSS9WNSy4jkOSSIA4BmLw
+- Kafka 核心技术与实战 https://time.geekbang.org/column/article/98683
+
 
 ## 原理
+顺序读写
+- 为什么说磁盘顺序读写大于内存随机读写？https://www.zhihu.com/question/328982776
+- 如何利用磁盘顺序读写快于内存随机读写这一现象？https://www.zhihu.com/question/48794778
+
 ### 一、基本概念
 
 1. 体系架构
@@ -71,6 +93,8 @@ PS：如何选择合适的分区数：性能测试工具、分区数和吞吐量
 - AdminClient配置
 
 ### 六、集群
+Tool
+- https://github.com/yahoo/CMAK
 
 不同节点对应不同的参数配置 server.properties
 
@@ -148,3 +172,4 @@ Kafka 为分区引入了多副本（Replica）机制，通过增加副本数量�
 如图1-3所示，Kafka集群中有4个broker，某个主题中有3个分区，且副本因子（即副本个数）也为3，如此每个分区便有1个leader副本和2个follower副本。生产者和消费者只与leader副本进行交互，而follower副本只负责消息的同步，很多时候follower副本中的消息相对leader副本而言会有一定的滞后。
 
 ![Kafka多副本架构](images/kafka-architecture.png)
+

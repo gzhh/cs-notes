@@ -1,8 +1,15 @@
 # rabbitmq
+- https://www.rabbitmq.com
+- https://github.com/rabbitmq/rabbitmq-server
 
-https://www.rabbitmq.com/documentation.html
+Docs
+- https://www.rabbitmq.com/docs
+- https://www.rabbitmq.com/tutorials
+- https://github.com/rabbitmq/rabbitmq-tutorials
+
 
 ## 原理
+- RabbitMQ基本原理 https://www.cnblogs.com/jun-ma/p/4840869.html
 
 ### amqp-concepts
 

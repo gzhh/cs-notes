@@ -39,6 +39,9 @@
 
 
 ## I18N
+- 国际化与本地化 https://zh.wikipedia.org/zh-cn/国际化与本地化
+  - Internationalization and localization https://en.wikipedia.org/wiki/Internationalization_and_localization
+- 国家地区代码 https://zh.wikipedia.org/zh-cn/国家地区代码
 - go-i18n https://github.com/nicksnyder/go-i18n
   - Go Text https://pkg.go.dev/golang.org/x/text
   - 在 Golang 中如何做国际化？https://xuanwo.io/2019/12/11/golang-i18n/
