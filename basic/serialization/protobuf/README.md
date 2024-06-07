@@ -1,9 +1,46 @@
 # Protobuf
+- https://github.com/protocolbuffers
+- https://protobuf.dev
+- https://protobuf.dev/programming-guides/
+- https://protobuf.dev/getting-started/
+- https://protobuf.dev/support/version-support/
+- Go
+  - https://github.com/protocolbuffers/protobuf-go
+  - https://protobuf.dev/getting-started/gotutorial/
+  - https://protobuf.dev/reference/go/
+  - https://protobuf.dev/reference/go/faq/
+- Python
+  - https://protobuf.dev/getting-started/pythontutorial/
+  - https://protobuf.dev/reference/python/
+  - https://protobuf.dev/reference/python/python-generated/
+
+Buf
+- https://github.com/bufbuild
+- https://github.com/bufbuild/buf
+- https://github.com/bufbuild/protoc-gen-validate
+- https://buf.build
+- https://buf.build/docs/introduction
+- https://buf.build/docs/tutorials/getting-started-with-buf-cli/
+
 接口定义语言，类似于 json，xml
 - https://en.wikipedia.org/wiki/Protocol_Buffers
 - https://github.com/protocolbuffers/protobuf
 - https://protobuf.dev/
 
+
+## 最佳实践
+- Google API Protos https://github.com/googleapis/googleapis/tree/master/google/api
+- 高效的数据压缩编码方式 Protobuf https://halfrost.com/protobuf_encode/
+- 高效的序列化/反序列化数据方式 Protobuf https://halfrost.com/protobuf_decode/
+- Protobuf 编码&避坑指南 https://www.luozhiyun.com/archives/800
+- Protobuf 终极教程 https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/
+- 腾讯
+  - 数据序列化工具Protobuf编码&避坑指南 https://mp.weixin.qq.com/s/xH9v4Al3B2vPbZIp2yqZpQ
+  - Protobuf编码原理及优化技巧探讨 https://mp.weixin.qq.com/s/hAfrPlPD2KBCWxpIuGkQTQ
+  - 更快更小！ProtoBuf 入门详解 https://mp.weixin.qq.com/s/zKE3kqkJNQDKby78ddjWBA
+- 【Go微服务】一文带你玩转ProtoBuf https://juejin.cn/post/7144948875613339685
+- Go API Design With Protocol Buffers and gRPC https://betterprogramming.pub/go-api-design-with-protocol-buffers-and-grpc-991838e4852b
+- Supercharge your REST APIs with Protobuf https://medium.com/swlh/supercharge-your-rest-apis-with-protobuf-b38d3d7a28d3
 
 ## Protocol Buffers
 Protocol Buffers are language-neutral, platform-neutral extensible mechanisms for serializing structured data.
