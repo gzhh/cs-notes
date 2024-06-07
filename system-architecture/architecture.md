@@ -1,7 +1,11 @@
 # 架构
 
+<<<<<<< HEAD
 ## Best Practice
 - 
+=======
+![SoftwareArchitectureStyles](images/SoftwareArchitectureStyles.jpeg)
+>>>>>>> Add some cs notes
 
 ## 网站架构之路
 

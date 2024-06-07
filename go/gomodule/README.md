@@ -1,5 +1,9 @@
 # Go Modules
 
+## 实用命令
+remove the entire module download cache
+- `go clean --modcache`
+
 ## 配置 Go Module Go Proxy
 
 默认 Go Module GO111MODULE=auto
