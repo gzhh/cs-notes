@@ -63,6 +63,8 @@ Version control
 - https://stackoverflow.com/questions/31596869/difference-between-stash-vs-stage-files-in-git
 - https://stackoverflow.com/questions/34175799/differencies-between-git-add-and-git-stage-command
 
+git stash a specific file
+- https://stackoverflow.com/questions/5506339/how-can-i-git-stash-a-specific-file
 
 ## Git commit management
 git reset

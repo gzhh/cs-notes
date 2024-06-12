@@ -20,13 +20,18 @@
 
 然后 - 输入具体命令
 
-横向切屏：前缀 + “
+横向切屏：前缀 + "
 
 竖向切屏：前缀 + %
 
-屏幕切换：前缀 + 方向键
+光标切换：前缀 + 方向键
+
+光标切换到上一个窗格：前缀 + ;
+
+光标切换到下一个窗格：前缀 + o
 
 ### **参考链接**
+- Tmux 使用教程 https://www.ruanyifeng.com/blog/2019/10/tmux.html
 
 [https://www.cnblogs.com/kevingrace/p/6496899.html](https://www.cnblogs.com/kevingrace/p/6496899.html)
 
