@@ -53,6 +53,7 @@ fmt.Println(c1 == c3) // true
 
 
 ## 最佳实践
+- Three Ways To Think About Channels https://www.dolthub.com/blog/2024-06-21-channel-three-ways/
 - 从Go channel中批量读取数据 https://colobu.com/2023/12/23/batch-read-from-channels/
 - 总结了才知道，原来channel有这么多用法！https://segmentfault.com/a/1190000017958702
 - golang channel 使用总结 https://www.cnblogs.com/ExMan/p/11710017.html

@@ -72,6 +72,7 @@ func main() {
 - 编译原理实战课 https://time.geekbang.org/column/intro/100052801
   - Go语言编译器 https://time.geekbang.org/column/article/266379
 - 用Go语言自制编译器 https://book.douban.com/subject/35909089/
+- How Golang Compiler Works? https://harendra21.medium.com/how-golang-compiler-works-6d11fcce02a9
 - How to execute an object file
   - https://blog.cloudflare.com/how-to-execute-an-object-file-part-1
   - https://blog.cloudflare.com/how-to-execute-an-object-file-part-2

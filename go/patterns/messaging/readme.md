@@ -1,9 +1,9 @@
 ### Publish Subscribe
 
 **Ref**
-https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
-
-https://docs.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber
+- Publish–subscribe pattern https://en.wikipedia.org/wiki/Publish-subscribe_pattern
+- Publisher-Subscriber pattern https://docs.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber
 
 **Demo with Golang**
-https://medium.com/@ohm.patel1997/publisher-subscriber-architecture-using-golang-5566ca852d9f
+- Publisher Subscriber Architecture https://medium.com/@ohm.patel1997/publisher-subscriber-architecture-using-golang-5566ca852d9f
+- No sleep until we build the ideal pub/sub library in Go https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/

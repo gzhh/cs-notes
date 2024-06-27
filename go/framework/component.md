@@ -10,6 +10,7 @@
 - https://pkg.go.dev/log/slog
   - slog 终极指南 https://colobu.com/2024/03/10/slog-the-ultimate-guide/
   - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
+  - 万字解析 Go 官方结构体化日志包 slog https://mp.weixin.qq.com/s/54SOne_qEOO49QffF59EGQ
 - zap https://github.com/uber-go/zap
   - 在Go语言项目中使用Zap日志库 https://www.liwenzhou.com/posts/Go/zap/
 - Logrus https://github.com/sirupsen/logrus

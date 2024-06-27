@@ -33,6 +33,10 @@ Books
 - SQL Commands | DDL, DQL, DML, DCL and TCL Commands https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
 
 
+## 课程
+- CMU 15-445/645 Database Systems https://15445.courses.cs.cmu.edu/fall2023/
+
+
 ## 数据结构
 - Data Structures That Power Your Databases. Which one should we pick? https://twitter.com/bytebytego/status/1685164186681413632
 

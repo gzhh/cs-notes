@@ -1,6 +1,9 @@
 ## MySQL Binary Log
 - https://dev.mysql.com/doc/refman/8.0/en/binary-log.html
 
+### 原理
+- Deep Dive on MySQL's Replication Protocol https://www.dolthub.com/blog/2024-06-17-mysql-replication/
+
 ### 使用
 详解
 - https://www.cnblogs.com/faster/p/16274217.html

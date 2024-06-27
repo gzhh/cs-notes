@@ -2,6 +2,8 @@
 - https://en.wikipedia.org/wiki/Load_balancing_(computing)
 - What Is Load Balancing? https://www.nginx.com/resources/glossary/load-balancing/
 
+## Nginx Config Load Balancing
+- Nginx负载均衡配置 https://blog.csdn.net/xyang81/article/details/51702900
 
 ## Example
 

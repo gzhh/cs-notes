@@ -17,6 +17,8 @@
 - Go工程化(三) 依赖注入框架 wire https://lailin.xyz/post/go-training-week4-wire.html
 - Go工程化 - 依赖注入 https://go-kratos.dev/blog/go-project-wire/
 - Go工程化--依赖注入(一) https://www.cnblogs.com/failymao/articles/15135390.html
+- 万字长文：在 Go 中如何优雅的使用 wire 依赖注入工具提高开发效率？上篇 https://mp.weixin.qq.com/s/cUr0Ss-Kw0ubcc7sW1H5xw
+- 万字长文：在 Go 中如何优雅的使用 wire 依赖注入工具提高开发效率？下篇 https://mp.weixin.qq.com/s/qpLimb2y9z12JixyQs0WzA
 - Golang - The Ultimate Guide to Dependency Injection https://blog.matthiasbruns.com/golang-the-ultimate-guide-to-dependency-injection
 
 ### 其他

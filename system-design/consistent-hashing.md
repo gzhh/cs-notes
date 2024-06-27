@@ -1,5 +1,11 @@
 # Consistennt Hashing 一致性哈希
 
+## 最佳实践
+- 9.4 什么是一致性哈希？https://xiaolincoding.com/os/8_network_system/hash.html
+- 五分钟了解一致性哈希算法 https://mp.weixin.qq.com/s/-0A7ylm-M9ltURAhhvg89Q
+- Consistent Hashing: An Overview and Implementation in Golang https://dev.to/permify/consistent-hashing-an-overview-and-implementation-in-golang-53je
+
+
 ## 介绍
 ### 为什么需要一致性哈希，解决了什么问题
 如何均衡分配请求

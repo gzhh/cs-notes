@@ -17,6 +17,7 @@ Version control
 
 ## Best Practice
 - Git还能这样用？一文看懂Git最佳实践！https://mp.weixin.qq.com/s/oLb1A7Tyw_itYUJiYcH8Ng
+- Git最佳实践，这样用就对了 https://mp.weixin.qq.com/s/3P9lkbwJwORW42dZxuPAfg
 
 
 ## Git internals
