@@ -35,6 +35,7 @@ Go Race Detector
 Data structure alignment
 - https://en.wikipedia.org/wiki/Data_structure_alignment
 - https://zh.wikipedia.org/wiki/字节序
+- https://go101.org/article/memory-layout.html
 - 什么是大端序和小端序，为什么要有字节序？https://zhuanlan.zhihu.com/p/352145413
 - 一文轻松理解内存对齐 https://cloud.tencent.com/developer/article/1727794
 - Go struct 内存对齐 https://geektutu.com/post/hpg-struct-alignment.html

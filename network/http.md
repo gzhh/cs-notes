@@ -6,6 +6,7 @@
 ## Protocol
 HTTP1.1
 - https://datatracker.ietf.org/doc/html/rfc9112
+- HTTP 1.0 vs 1.1 https://stackoverflow.com/questions/246859/http-1-0-vs-1-1
 
 HTTPS
 - The Transport Layer Security (TLS) Protocol Version 1.3 https://datatracker.ietf.org/doc/html/rfc8446

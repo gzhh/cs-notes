@@ -18,6 +18,9 @@ tailwindcss
 - https://github.com/tailwindlabs/tailwindcss
 - https://tailwindcss.com
 
+shadcn/ui
+- https://github.com/shadcn-ui/ui
+- https://ui.shadcn.com
 
 ## Library
 

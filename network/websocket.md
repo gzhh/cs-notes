@@ -6,6 +6,8 @@ WebSocket is distinct from HTTP. Both protocols are located at layer 7 in the OS
 
 原理
 - 看完让你彻底搞懂Websocket原理 https://blog.csdn.net/frank_good/article/details/50856585
+- 细说Websocket - Node篇 https://www.cnblogs.com/hustskyking/p/websocket-with-node.html
+- 细说Websocket - Node篇 https://www.cnblogs.com/hustskyking/p/websocket-with-php.html
 
 Tool
 - websocat - Command-line client for WebSockets https://github.com/vi/websocat
@@ -35,6 +37,8 @@ Go websocket cors 问题
 - https://stackoverflow.com/questions/33323337/update-send-the-origin-header-with-js-websockets
 - https://github.com/kataras/neffos/issues/11#issuecomment-520689681
 
+Go websocket 实践
+- GO实现千万级WebSocket消息推送服务 https://www.imooc.com/learn/1025
 
 ## HTTP2 vs Websocket
 - https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
