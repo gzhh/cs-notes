@@ -1,4 +1,10 @@
 # Nginx 
+- https://nginx.org
+
+Best Practice
+- https://github.com/NginxProxyManager/nginx-proxy-manager
+- https://nginxproxymanager.com
+
 
 ## 原理
 

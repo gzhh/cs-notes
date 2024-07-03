@@ -4,6 +4,7 @@ A struct is a collection of fields.
 ### 最佳实践
 - Go: Should I Use a Pointer instead of a Copy of my Struct? https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963
 - 面试中结构体的那些事 https://mp.weixin.qq.com/s/5As91jd-PbC2SPgLuEnDbg
+- 在 Go 中如何检查结构体是否为空 https://mp.weixin.qq.com/s/6KqG53y_9QwFCKAFe66D4w
 
 ### 结构体拷贝
 浅拷贝

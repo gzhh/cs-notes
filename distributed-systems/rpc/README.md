@@ -1,4 +1,7 @@
 # RPC
+- 分布式RPC框架性能大比拼 https://colobu.com/2016/09/05/benchmarks-of-popular-rpc-frameworks/
+- 必须知道的RPC内核细节 https://mp.weixin.qq.com/s/9GZtmV4HIgg0o2OcZiqXgw
+- RPC 和 http 相比优势在哪里? https://www.v2ex.com/t/913233
 
 ## gRPC
 

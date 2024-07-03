@@ -7,6 +7,7 @@ Elastic Stack
 - https://www.elastic.co/logstash
 - https://www.elastic.co/kibana
 - https://www.elastic.co/beats
+  - https://www.elastic.co/beats/filebeat
   - https://www.elastic.co/guide/en/beats/filebeat/current/index.html
 
 Elastic Stack | Open Source
