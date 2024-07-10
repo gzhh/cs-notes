@@ -63,7 +63,14 @@ Schema
 - https://dev.mysql.com/doc/refman/8.0/en/performance-schema.html
 - https://dev.mysql.com/doc/refman/8.0/en/sys-schema.html
 
-### 配置相关
+
+## 标准
+阿里巴巴MySQL建表规范
+- https://mp.weixin.qq.com/s/Kif4yvRJGO68jXPErxwNXw
+- https://mp.weixin.qq.com/s/h58L7XxIq5MibmGN-GAHCQ
+
+
+## 配置相关
 1. 查看 MySQL 配置文件路径
 
 ```

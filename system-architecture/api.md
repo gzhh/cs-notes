@@ -32,6 +32,7 @@ Microsoft REST API Guidelines
 
 ### 介绍
 - 前后端分离实践有感 https://juejin.cn/post/6844903545964249101
+- 从前后端分工的利弊谈起，聊聊这套分工的未来方向 https://v2ex.com/t/1055357
 - API设计，从RPC、SOAP、REST到GraphQL
   - https://blog.enixjin.net/api_design_part1/
   - https://blog.enixjin.net/api_design_part2/

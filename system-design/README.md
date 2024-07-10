@@ -1,4 +1,9 @@
 ## System Design
+
+最佳实践
+- 业务建模、业务用例图、系统用例图都是啥？一文读懂《软件方法》https://mp.weixin.qq.com/s/CDP3_KqvLfusqwszhgmkGg
+
+
 ### 系统设计的大框架
 - 充分理解问题并确定设计范围
 - 提出整体设计然后再继续

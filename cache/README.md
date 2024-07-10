@@ -6,6 +6,7 @@
 - 如何优雅的设计和使用缓存？https://juejin.cn/post/6844903665845665805
 - 美团万亿级 KV 存储架构与实践 https://tech.meituan.com/2020/07/01/kv-squirrel-cellar.html
 - go-zero微服务实战系列（七、请求量这么高该如何优化）https://mp.weixin.qq.com/s/pPPSPZJispmITY9Wsi7hUg
+- 后台开发必备：每个程序员都应掌握的缓存技术 https://mp.weixin.qq.com/s/pu0w46EGBD6CJmozkMXkrQ
 
 
 ## 缓存策略

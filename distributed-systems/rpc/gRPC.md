@@ -22,11 +22,17 @@ Docs
 Best Practice
 - 谷歌开源、高性能RPC框架：gRPC 使用体验 https://mp.weixin.qq.com/s/6XXJfbnIaKzSFtXyDDB72g
 - 深入浅出 gRPC https://time.geekbang.org/column/intro/100005601
-- Blog
-  - https://grpc.io/blog/
-  - https://grpc.io/blog/grpc-load-balancing/
+- Blog https://grpc.io/blog/
 - Awesome gRPC
   - https://github.com/grpc-ecosystem/awesome-grpc
+
+Load Balancing
+  - https://grpc.io/blog/grpc-load-balancing/
+  - https://github.com/grpc/grpc/blob/master/doc/load-balancing.md
+  - https://grpc.io/docs/guides/custom-load-balancing/
+  - gRPC负载均衡（客户端负载均衡）https://www.cnblogs.com/FireworksEasyCool/p/12912839.html
+  - gRPC中的名称解析和负载均衡 https://www.liwenzhou.com/posts/Go/name-resolving-and-load-balancing-in-grpc/
+  - 基于 gRPC 的服务发现与负载均衡（基础篇）https://pandaychen.github.io/2019/07/11/GRPC-SERVICE-DISCOVERY/
 
 
 ## gRPC-Go

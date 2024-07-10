@@ -1,11 +1,10 @@
 # 架构
 
-<<<<<<< HEAD
 ## Best Practice
-- 
-=======
 ![SoftwareArchitectureStyles](images/SoftwareArchitectureStyles.jpeg)
->>>>>>> Add some cs notes
+
+Best practice
+- 架构之道——人人都是架构师 https://mp.weixin.qq.com/s/6A42588A8MYILG0OYMA0NA
 
 ## 网站架构之路
 

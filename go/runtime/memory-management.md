@@ -41,3 +41,4 @@ Data structure alignment
 - Go struct 内存对齐 https://geektutu.com/post/hpg-struct-alignment.html
 - 在 Go 中恰到好处的内存对齐 https://eddycjy.gitbook.io/golang/di-1-ke-za-tan/go-memory-align
 - 【Golang】这个内存对齐呀 https://www.bilibili.com/video/BV1Ja4y1i7AF
+- 以 Go 语言为例解释什么是伪共享以及如何解决 https://mp.weixin.qq.com/s/aM5jhfqWVu5FZDn6krV3tg

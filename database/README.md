@@ -17,6 +17,7 @@ Books
   - http://www.redbook.io
   - https://book.douban.com/subject/2256069
 - 数据库系统概念 https://book.douban.com/subject/35501216
+- 数据库内核工程师必读论文清单 https://mp.weixin.qq.com/s/GGR4QtWYtLFCpoz3Z2vmQQ
 
 
 ## 重要概念
