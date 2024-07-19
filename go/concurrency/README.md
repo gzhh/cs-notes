@@ -67,3 +67,4 @@ Go Concurrency Patterns: Pipelines and cancellation
 
 ## Third Party Package
 - conc https://github.com/sourcegraph/conc
+- xsync https://github.com/puzpuzpuz/xsync
