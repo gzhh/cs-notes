@@ -3,6 +3,7 @@
 runtime Environment Variables
 - https://pkg.go.dev/runtime#hdr-Environment_Variables
 - GODEBUG
+  - https://go.dev/doc/godebug
   - https://ydkgo.netlify.app/docs/profiling/godebug/readme/
   - https://dave.cheney.net/2014/07/11/visualising-the-go-garbage-collector
 

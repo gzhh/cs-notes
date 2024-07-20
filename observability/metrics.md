@@ -16,6 +16,9 @@ Best Practice
 - Prometheus 简介 https://taoshu.in/sre/prom.html
 - Prometheus 搭配 Elastic Stack，助力实现大规模监测 https://www.elastic.co/cn/blog/prometheus-monitoring-at-scale-with-the-elastic-stack
 - GitHub最火开源监控系统Prometheus，我却发现了它的一个Bug(feature)？ https://mp.weixin.qq.com/s/KAzLbx_rkRCccs4hhPfwJw
+- 李文周
+  - Prometheus 介绍 https://www.liwenzhou.com/posts/Go/prometheus/
+  - [译]查询 Prometheus https://www.liwenzhou.com/posts/Go/query-prometheus/
 
 Third Lib
 - https://github.com/prometheus/client_golang

@@ -2,7 +2,26 @@
 - https://pkg.go.dev/database/sql
 - http://go-database-sql.org
 - https://go.dev/doc/database/manage-connections
-- https://go.dev/doc/tutorial/database-access
+
+Tutorial & Docs
+- Tutorial: Accessing a relational database https://go.dev/doc/tutorial/database-access
+- Accessing relational databases https://go.dev/doc/database/
+  - Managing connections https://go.dev/doc/database/manage-connections
+    ```
+    DB.SetMaxOpenConns
+    DB.SetMaxIdleConns
+    DB.SetConnMaxIdleTime
+    DB.SetConnMaxLifetime
+    ```
+
+SQL Database Drivers
+- https://go.dev/wiki/SQLDrivers
+- MySQL
+  - https://github.com/go-sql-driver/mysql/
+  - https://github.com/go-mysql-org/go-mysql
+- Postgres
+  - https://github.com/lib/pq
+  - https://github.com/jackc/pgx
 
 
 ## 讨论
@@ -37,6 +56,9 @@ GORM Gen
 坑
 - 哔了狗的 gorm. 很久没用 golang 了，生态这么操蛋么？https://v2ex.com/t/859178
 
+### ent
+- https://github.com/ent/ent
+
 ### XORM
 - https://github.com/go-xorm/xorm
 - XORM 操作指南 https://books.studygolang.com/xorm/
@@ -53,9 +75,6 @@ GORM Gen
 
     解决办法生成结构体时使用，conn.SetMapper(names.GonicMapper{})，而不是每次操作时调用
     ```
-
-### ent
-- https://github.com/ent/ent
 
 ### SQLBoiler
 - https://github.com/volatiletech/sqlboiler

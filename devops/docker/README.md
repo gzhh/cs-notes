@@ -33,7 +33,8 @@ Cheat Sheet
 - https://orbstack.dev/
 - https://github.com/abiosoft/colima
 - image tool
-  - https://github.com/wagoodman/dive
+ - A tool for exploring each layer in a docker image https://github.com/wagoodman/dive
+ - A process for automating Docker container base image updates. https://github.com/containrrr/watchtower
 
 ## 一、概念
 What's the difference between Docker Compose and Kubernetes?

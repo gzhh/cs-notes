@@ -1,8 +1,10 @@
 # Go Modules
 
+
 ## 实用命令
 remove the entire module download cache
 - `go clean --modcache`
+
 
 ## 配置 Go Module Go Proxy
 
@@ -23,7 +25,12 @@ remove the entire module download cache
     - `GONOPROXY`
     - `GONOSUMDB`
 
-参考：
+
+## go mod edit -replace
+- https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/
+
+
+## 参考：
 - https://go.dev/ref/mod#private-modules
 - https://go.dev/ref/mod#environment-variables
 - https://go.dev/ref/mod#private-module-privacy

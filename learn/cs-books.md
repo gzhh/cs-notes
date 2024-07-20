@@ -30,6 +30,7 @@
 
 - [计算机程序设计艺术 - TAOCP](https://book.douban.com/subject/1130500/)
 - [计算机程序的构造和解释 - 魔法书 - SICP](https://book.douban.com/subject/1148282/)
+  - https://www.youtube.com/playlist?list=PLkEwH_Z2WOlppy8oUfrGwFVlOuKyo3RO_
 - [代码大全](https://book.douban.com/subject/1477390/)
 - [重构](https://book.douban.com/subject/4262627/)
 - [代码清洁之道](https://book.douban.com/subject/4199741/)

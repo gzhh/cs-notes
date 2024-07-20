@@ -1,21 +1,4 @@
-# 抓包工具使用
-
-## 介绍
-
-抓包概念介绍
-
-- [https://www.uedbox.com/post/59475/](https://www.uedbox.com/post/59475/)
-
-
-## tcpdump
-- https://www.tcpdump.org
-- https://wangchujiang.com/linux-command/c/tcpdump.html
-- 抓包神器 tcpdump 使用介绍 https://cizixs.com/2015/03/12/tcpdump-introduction/
-- Linux tcpdump命令详解 https://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html
-- TCPdump: A Powerful Network Packet Analyzer A Thread with examples https://x.com/devops_tech/status/1675418922282283009
-
-
-## Wireshark
+# Wireshark
 - https://www.wireshark.org/
 
 Learn
@@ -31,7 +14,8 @@ Books
 - wireshark网络分析的艺术 https://book.douban.com/subject/26710788/
 - Wireshark数据包分析实战(第3版) https://book.douban.com/subject/30387220/
 
-### Usage
+
+## Usage
 选择网卡
 
 - 1.选择网卡
@@ -60,26 +44,3 @@ wireshark抓取环回链路数据包
 - What is a TCP window update? https://stackoverflow.com/questions/1466307/what-is-a-tcp-window-update
 
 
-## Fiddle
-- https://www.telerik.com/support/fiddler
-- https://docs.telerik.com/fiddler-everywhere/introduction
-
-
-## Snifnet
-- https://sniffnet.net
-- https://github.com/GyulyVGC/sniffnet
-
-
-## Charles
-- https://www.charlesproxy.com/documentation/
-
-
-## Termshark
-- https://github.com/gcla/termshark
-
-
-## 对比
-
-wireshark 更偏向tcp/ip层，可以抓http包内容，但是不支持解密抓到的https包加密的内容
-
-fiddle更偏向应用层，支持http/https

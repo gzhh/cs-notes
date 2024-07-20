@@ -1,7 +1,15 @@
 ## 云原生
+什么是云原生？
+- https://cloud.google.com/learn/what-is-cloud-native?hl=zh-cn
+- https://aws.amazon.com/cn/what-is/cloud-native/
+- https://www.oracle.com/cn/cloud/cloud-native/what-is-cloud-native/
+
+CNCF
 - https://www.cncf.io
+- https://jimmysong.io/kubernetes-handbook/cloud-native/cncf.html
 
 Best Practice
+- https://github.com/rootsongjc/awesome-cloud-native
 - https://jimmysong.io/book/
 
 

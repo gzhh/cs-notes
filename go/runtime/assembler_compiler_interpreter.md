@@ -63,8 +63,33 @@ func main() {
     Dump of assembler code for function _rt0_amd64_darwin:
     ```
 5.可知程序的入口分别为
-- runtime/rt0_linux_amd64.s 的函数 _rt0_amd64_linux
-- runtime/rt0_darwin_amd64.s 的函数 _rt0_amd64_darwin
+- runtime/rt0_linux_amd64.s 的函数 `_rt0_amd64_linux`
+- runtime/rt0_darwin_amd64.s 的函数 `_rt0_amd64_darwin`
+
+6.以 linux 为例，调用链路为
+- 首先调用 runtime/asm_amd64.s 的函数 `_rt0_amd64`
+- 再调用 runtime/asm_amd64.s 的函数 `runtime·rt0_go`
+
+7.在函数 runtime.rt0_go 中会做一些一些初始化操作，具体启动顺序是
+```
+// The bootstrap sequence is:
+//
+//	call osinit
+//	call schedinit
+//	make & queue new G
+//	call runtime·mstart
+//
+// The new G calls runtime·main.
+```
+- CALL	runtime·osinit(SB) -> runtime/os_linux.go 的 `func osinit`
+- CALL	runtime·schedinit(SB) -> runtime/proc.go 的 `func schedinit`
+  - stackinit() -> runtime/stack.go 的 `stackinit()`
+  - mallocinit() -> runtime/malloc.go 的 `mallocinit()`
+  - gcinit() -> runtime/mgc.go 的 `gcinit()`
+- CALL	runtime·newproc(SB) -> runtime/proc.go 的 `func newproc`
+- CALL	runtime·mstart(SB) -> runtime/asm_amd64.s `TEXT runtime·mstart` -> runtime/proc.go 的 `func mstart0`
+  - 引用 runtime/runtime2.go 的 g, m, p 结构
+  - 调用 schedule(), One round of scheduler: find a runnable goroutine and execute it.
 
 
 ## Compiler

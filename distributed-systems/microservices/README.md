@@ -25,6 +25,9 @@
 - 回归单体成为潮流？腾讯文档如何实现灵活架构切换 https://mp.weixin.qq.com/s/qtQTZky4SG4d-x0XE97FIg
 - DEATH BY A THOUSAND MICROSERVICES https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html
 
+微服务带来的问题
+- 2024 年了，之前搞微服务的公司你们还好么 https://v2ex.com/t/1057052
+
 
 ## kubernetes 容器编排
 

@@ -1,6 +1,12 @@
 # Redis
 - https://redis.io/documentation
 
+
+## 版本特性
+- Redis4.0、5.0、6.0、7.0特性整理(持续更新) https://blog.csdn.net/zzhongcy/article/details/123903799
+- https://help.aliyun.com/zh/redis/support/new-features-of-apsaradb-for-redis-7-0
+
+
 ## 使用场景
 使用场景1
 1. 缓存系统

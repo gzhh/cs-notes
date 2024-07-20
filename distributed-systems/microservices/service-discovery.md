@@ -8,6 +8,10 @@
 - ETCD对比Consul和zooKeeper如何选型 https://boilingfrog.github.io/2021/09/16/etcd%E5%AF%B9%E6%AF%94consul%E5%92%8CzooKeeper/
 
 
+## Other
+- CoreDNS https://github.com/coredns/coredns
+
+
 ## Zookeeper
 - https://github.com/apache/zookeeper
 - https://zookeeper.apache.org

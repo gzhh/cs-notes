@@ -8,6 +8,7 @@
   - https://github.com/protocolbuffers/protobuf-go
   - https://protobuf.dev/getting-started/gotutorial/
   - https://protobuf.dev/reference/go/
+  - https://protobuf.dev/reference/go/go-generated/
   - https://protobuf.dev/reference/go/faq/
 - Python
   - https://protobuf.dev/getting-started/pythontutorial/

@@ -8,6 +8,9 @@ Docs
 - https://kubernetes.io/blog/
 - https://kubernetes.io/docs/reference/
 
+Best Practice
+- https://jimmysong.io/book/kubernetes-handbook/
+
 Courses 
 - Kubernetes Crash Course for Absolute Beginners https://www.youtube.com/watch?v=s_o8dwzRlu4
 - Kubernetes Roadmap - Complete Step-by-Step Learning Path https://www.youtube.com/watch?v=S8eX0MxfnB4
@@ -63,6 +66,7 @@ Kubernetes Monitor
 工具
 - Kompose - Convert Compose to Kubernetes https://github.com/kubernetes/kompose
 - Podman - A tool for managing OCI containers and pods. https://github.com/containers/podman
+  - https://www.redhat.com/sysadmin/podman-auto-updates-rollbacks
 - nerdctl: Docker-compatible CLI for containerd https://github.com/containerd/nerdctl
 
 

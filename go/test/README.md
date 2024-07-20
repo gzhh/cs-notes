@@ -24,6 +24,11 @@ Learn Go with Tests (TDD)
 3. 示例函数
     以Example为函数名开头
 
+
+## Go Test Lib
+- Package for comparing Go values in tests https://github.com/google/go-cmp
+
+
 ## Go 单元测试
 最佳实践
 - 单元测试有必要吗？https://www.v2ex.com/t/821608

@@ -15,6 +15,7 @@ Docs
   - https://grpc.io/docs/languages/
   - https://grpc.io/docs/languages/go/
   - https://grpc.io/docs/languages/go/quickstart/
+  - https://grpc.io/docs/languages/go/basics/
 - Guides
   - https://grpc.io/docs/guides/
   - https://grpc.io/docs/guides/auth/
@@ -26,20 +27,30 @@ Best Practice
 - Awesome gRPC
   - https://github.com/grpc-ecosystem/awesome-grpc
 
+Name Resolution
+- https://grpc.io/docs/guides/custom-name-resolution/
+- https://github.com/grpc/grpc/blob/master/doc/naming.md
+
+Service Config
+- https://grpc.io/docs/guides/service-config/
+- https://github.com/grpc/grpc/blob/master/doc/service_config.md
+
 Load Balancing
   - https://grpc.io/blog/grpc-load-balancing/
-  - https://github.com/grpc/grpc/blob/master/doc/load-balancing.md
   - https://grpc.io/docs/guides/custom-load-balancing/
+  - https://github.com/grpc/grpc/blob/master/doc/load-balancing.md
   - gRPC负载均衡（客户端负载均衡）https://www.cnblogs.com/FireworksEasyCool/p/12912839.html
   - gRPC中的名称解析和负载均衡 https://www.liwenzhou.com/posts/Go/name-resolving-and-load-balancing-in-grpc/
   - 基于 gRPC 的服务发现与负载均衡（基础篇）https://pandaychen.github.io/2019/07/11/GRPC-SERVICE-DISCOVERY/
 
 
 ## gRPC-Go
+- https://grpc.io/docs/languages/go/
 - https://pkg.go.dev/google.golang.org/grpc
 - https://github.com/grpc/grpc-go
 - https://github.com/grpc/grpc-go/tree/master/Documentation
 - https://github.com/grpc/grpc-go/tree/master/examples
+- https://github.com/grpc/grpc-go/tree/master/examples/features
 
 ### Go gRPC Middleware
 - https://github.com/grpc-ecosystem/go-grpc-middleware
