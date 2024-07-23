@@ -1,0 +1,9 @@
+openapiOptions:
+  file:
+    - file: "tasks.proto"
+      option:
+        info:
+          title: "Tasks API"
+        schemes:
+          - HTTP
+        host: "localhost:8081"

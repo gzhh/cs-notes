@@ -1,5 +1,6 @@
 # Database Library
 - https://pkg.go.dev/database/sql
+  - https://blog.jetbrains.com/go/2023/02/28/getting-started-with-the-database-sql-package/
 - http://go-database-sql.org
 - https://go.dev/doc/database/manage-connections
 
@@ -25,6 +26,7 @@ SQL Database Drivers
 
 
 ## 讨论
+- Comparing database/sql, GORM, sqlx, and sqlc https://blog.jetbrains.com/go/2023/04/27/comparing-db-packages/
 - 为什么要旗帜鲜明地反对 orm 和 sql builder https://mp.weixin.qq.com/s/5DIRKlWpr3pwx2h5YJhnAQ
 
 

@@ -2,6 +2,7 @@
 
 ## Config
 - Viper https://github.com/spf13/viper
+- GoDotEnv https://github.com/joho/godotenv
 - Configor https://github.com/jinzhu/configor
 
 

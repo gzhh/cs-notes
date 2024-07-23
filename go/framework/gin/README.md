@@ -26,8 +26,11 @@ gin context
 
 
 ## Best Practice
-- Tutorial: Developing a RESTful API with Go and Gin https://go.dev/doc/tutorial/web-service-gin
 - An example of gin https://github.com/eddycjy/go-gin-example
+- Tutorial: Developing a RESTful API with Go and Gin https://go.dev/doc/tutorial/web-service-gin
+- Go - JetBrains Guide
+  - https://www.jetbrains.com/guide/go/tutorials/rest_api_series/
+  - https://www.jetbrains.com/guide/go/tutorials/bookstore_rest_api/
 
 ### Admin & API 
 - GIN-VUE-ADMIN https://github.com/flipped-aurora/gin-vue-admin

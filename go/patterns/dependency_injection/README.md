@@ -6,6 +6,9 @@
 - https://www.reddit.com/r/golang/comments/zrxfql/whats_the_best_dependency_injection_framework/
 - Dependency injection in Go with Uber-go/fx https://news.ycombinator.com/item?id=30487792
 - 深入浅出依赖注入及其在抖音直播中的应用 https://mp.weixin.qq.com/s/Zp-OqCVVr9CbDv1Y1zWN-w
+- JetBrains Guide - Go
+  - https://www.jetbrains.com/guide/go/tutorials/dependency_injection_part_one/
+  - https://www.jetbrains.com/guide/go/tutorials/dependency_injection_part_two/
 
 ### Wire
 - https://github.com/google/wire
@@ -24,5 +27,6 @@
 ### 其他
 - Fx https://github.com/uber-go/fx
 - dig https://github.com/uber-go/dig
+- Dig vs Wire vs Fx https://www.jetbrains.com/guide/go/tutorials/dependency_injection_part_one/implementing_di/
 - golang 依赖注入 wire 和 dig 体验对比 https://jerryzhou343.github.io/post/di/
 - Taming the Dependencies: Mastering Dependency Injection in Go with Uber Fx https://medium.com/@ademolakolawole/taming-the-dependencies-mastering-dependency-injection-in-go-with-uber-fx-b3c3600e822d

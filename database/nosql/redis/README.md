@@ -72,6 +72,8 @@
   - MessageQueue
 
 ## 额外功能
+- Best Practices https://www.jetbrains.com/guide/go/tutorials/getting_started_with_redis_go/best_practices/
+
 发布订阅
 
 事务

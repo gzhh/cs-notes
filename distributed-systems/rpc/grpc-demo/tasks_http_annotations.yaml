@@ -1,0 +1,18 @@
+type: google.api.Service
+config_version: 3
+
+http:
+  rules:
+    - selector: tasks.TaskService.CreateTask
+      post: "/api/v1/tasks"
+      body: "*"
+    - selector: tasks.TaskService.GetTask
+      get: "/api/v1/tasks/{task_id}"
+    - selector: tasks.TaskService.ListTasks
+      get: "/api/v1/users/{user_id}/tasks"
+    - selector: tasks.TaskService.RecordTasks
+      post: "/api/v1/tasks/record"
+      body: "*"
+    - selector: tasks.TaskService.TaskChat
+      post: "/api/v1/tasks/chat"
+      body: "*"

@@ -54,6 +54,11 @@ Mock 框架
 - https://github.com/jarcoal/httpmock
 
 - Go单元测试 Mock 方案总结: https://taoshu.in/go/mock.html
+  - JetBrains Guide - Go
+    - https://www.jetbrains.com/guide/go/tutorials/mock_testing_with_go/
+    - https://github.com/JetBrains/go-code-samples/tree/main/mock-testing
+    - https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/
+    - https://github.com/JetBrains/go-code-samples/tree/main/testing-guide
   - https://taoshu.in/go/monkey/monkey.html
   - Go语言实现猴子补丁
     - https://en.wikipedia.org/wiki/Monkey_patch

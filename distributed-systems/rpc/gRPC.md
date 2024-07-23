@@ -26,6 +26,10 @@ Best Practice
 - Blog https://grpc.io/blog/
 - Awesome gRPC
   - https://github.com/grpc-ecosystem/awesome-grpc
+- JetBrains Guide - Go
+  - https://www.jetbrains.com/guide/go/tutorials/grpc_part_one/
+  - https://www.jetbrains.com/guide/go/tutorials/grpc_part_two/
+  - https://www.jetbrains.com/guide/go/tutorials/grpc_part_three/
 
 Name Resolution
 - https://grpc.io/docs/guides/custom-name-resolution/
@@ -71,6 +75,12 @@ Load Balancing
 
 ### grpc_health_probe
 - https://github.com/grpc-ecosystem/grpc-health-probe
+
+
+## gPRC debugging
+- https://github.com/grpc/grpc-go/tree/master/examples/features/debugging
+- https://grpc.io/blog/a-short-introduction-to-channelz/
+- https://github.com/grpc/grpc-experiments/tree/master/gdebug
 
 
 ## gRPC tools

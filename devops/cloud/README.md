@@ -31,6 +31,9 @@ Products
 SDK
 - https://aws.amazon.com/sdk-for-go/
 
+Tool
+- AWS CLI https://aws.amazon.com/cli/
+
 
 ## Azure
 - https://azure.microsoft.com/en-us/

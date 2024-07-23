@@ -110,3 +110,4 @@ Package errgroup
   - [Use %w instead of %v or %s](https://stackoverflow.com/questions/61283248/format-errors-in-go-s-v-or-w)
   - [卷起来，老程序员也得了解errors包的新变化 - 鸟窝](https://colobu.com/2023/12/13/learn-more-about-errors/)
   - [Conquering Errors in Go: A Guide to Returning and Handling errors](https://blog.rideapp.in/conquering-errors-in-go-a-guide-to-returns-and-handling-a13885905433)
+  - JetBrains Go https://www.jetbrains.com/guide/go/tutorials/handle_errors_in_go/

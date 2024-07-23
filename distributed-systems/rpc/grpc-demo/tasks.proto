@@ -1,0 +1,56 @@
+syntax = 'proto3';
+
+option go_package="src/go/tasks";
+
+import "google/protobuf/timestamp.proto";
+
+package tasks;
+
+service TaskService {
+  rpc CreateTask(CreateTaskRequest) returns (Task);
+  rpc GetTask(GetTaskRequest) returns (Task);
+  rpc ListTasks(ListTasksRequest) returns (stream Task);
+  rpc RecordTasks(stream CreateTaskRequest) returns (TaskSummary);
+  rpc TaskChat(stream TaskComment) returns (stream TaskComment);
+}
+
+enum TaskStatus {
+  TASK_STATUS_COMPLETED = 0;
+  TASK_STATUS_INCOMPLETE = 1;
+  TASK_STATUS_STARTED = 2;
+}
+
+message Task {
+  string id = 1;
+  string description = 3;
+  string user_id = 4;
+  TaskStatus status = 5;
+  google.protobuf.Timestamp deadline = 6;
+  google.protobuf.Timestamp created_at = 7;
+}
+
+message CreateTaskRequest {
+  string description = 1;
+  string user_id = 2;
+  google.protobuf.Timestamp deadline = 3;
+}
+
+message GetTaskRequest {
+  string task_id = 1;
+}
+
+message ListTasksRequest {
+  string user_id = 1;
+  google.protobuf.Timestamp deadline = 2;
+}
+
+message TaskSummary {
+  string no_of_tasks_created = 1;
+}
+
+message TaskComment {
+  string task_id = 1;
+  string user_id = 2;
+  string comment = 3;
+  google.protobuf.Timestamp created_at = 4;
+}
