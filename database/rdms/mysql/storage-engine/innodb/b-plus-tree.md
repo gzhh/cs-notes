@@ -1,5 +1,7 @@
 # B+Tree Index
 
+- 深入探索MySQL索引策略 https://mp.weixin.qq.com/s/XpukKx9Ovl4bqil8cNDP0g
+
 ### 没有索引时的查找
 
 1. 在一个页中查找（数据很少）

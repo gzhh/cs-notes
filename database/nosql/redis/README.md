@@ -1,6 +1,9 @@
 # Redis
 - https://redis.io/documentation
 
+架构设计
+- Redis基础知识典藏版：架构设计 https://mp.weixin.qq.com/s/H6cGiahUreVFh34wbkFF8g
+
 
 ## 版本特性
 - Redis4.0、5.0、6.0、7.0特性整理(持续更新) https://blog.csdn.net/zzhongcy/article/details/123903799

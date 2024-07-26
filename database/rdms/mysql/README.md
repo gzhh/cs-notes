@@ -65,9 +65,10 @@ Schema
 
 
 ## 标准
-阿里巴巴MySQL建表规范
-- https://mp.weixin.qq.com/s/Kif4yvRJGO68jXPErxwNXw
-- https://mp.weixin.qq.com/s/h58L7XxIq5MibmGN-GAHCQ
+阿里巴巴MySQL规范
+- 建表 https://mp.weixin.qq.com/s/Kif4yvRJGO68jXPErxwNXw
+- 建表 https://mp.weixin.qq.com/s/h58L7XxIq5MibmGN-GAHCQ
+- https://mp.weixin.qq.com/s/xm-8caxn3sMwXKpeq1w0uA
 
 
 ## 配置相关
