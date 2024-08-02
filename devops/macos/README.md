@@ -1,5 +1,7 @@
 # MacOS
 ## 工作环境配置
+参考：https://github.com/pseudoyu/yu-tools
+
 - 触控板和鼠标
   - 触控板 cursor 移动速度、触控板点按改为轻点、开启 Fn 快捷键
   - 开启使用触控板进行拖移
@@ -20,10 +22,11 @@
   - 网络工具
     - ClashX Pro 代理
     - OpenVPN 内网连接
+    - Tailscale 组网
   - 开发管理工具
     - GIT: Fork
-    - Postman, BloomRPC
-    - Docker Desktop, OrbStack
+    - API: Postman, RapidAPI, BloomRPC
+    - Container: Docker Desktop, OrbStack
     - MySQL: Sequel ACE
     - Redis: AnotherRedisDesktopManager
 

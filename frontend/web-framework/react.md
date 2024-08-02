@@ -24,9 +24,14 @@ React JS For Beginners 2023 - Udemy
 - create-react-app https://github.com/facebook/create-react-app
 
 
+## Framework
+- Astro https://github.com/withastro/astro
+
+
 ## Library
 - react-router https://github.com/remix-run/react-router
 
 ### UI Library
 - Material UI https://github.com/mui/material-ui
 - Ant Design https://github.com/ant-design/ant-design
+

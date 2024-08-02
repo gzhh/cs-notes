@@ -5,6 +5,9 @@
 2. 写数据到临时 RDB 文件
 3. 替换原来 rdb 文件
 
+bgsave 问题
+- Async-fork解读与Redis实战 https://mp.weixin.qq.com/s/uEdP6wQmENztkO1uX0NtqQ
+
 ### 触发机制
 
 save 同步 ⇒ 通常会阻塞redis

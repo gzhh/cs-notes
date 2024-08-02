@@ -65,10 +65,6 @@ Are all runtime errors recoverable in Go?
 - https://stackoverflow.com/questions/57486620/are-all-runtime-errors-recoverable-in-go
 
 ### Best Practice
-Package errgroup
-- https://pkg.go.dev/golang.org/x/sync/errgroup
-- https://lailin.xyz/post/go-training-week3-errgroup.html
-
 注意点：
 - 检查错误的类型
 - 检查错误的值
