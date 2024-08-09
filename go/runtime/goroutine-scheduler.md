@@ -37,6 +37,7 @@ src/runtime 源码
 - GMP 原理与调度 https://www.topgoer.com/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/GMP%E5%8E%9F%E7%90%86%E4%B8%8E%E8%B0%83%E5%BA%A6.html
 - 如何更直观地理解 Go 调度过程 https://mp.weixin.qq.com/s/xjRryI2htlI0VsoGypoQfQ
 - 假如 Go 能说话，听听 GMP 的心声 https://juejin.cn/post/6964956868720623646
+- Go的GMP模型真的“简单” https://mp.weixin.qq.com/s/9rBFZGlu8Kt5W8VgdoQkow
 - 如何更直观地理解 Go 调度过程 https://mp.weixin.qq.com/s/HXDMcQGEHMhcwgvciqPs8A
 - 深入理解 Go scheduler 调度器- GPM 源码分析 https://mp.weixin.qq.com/s/Z29hSMez4PKzp5JU-lV-hA
 - Goroutine 数量控制在多少合适，会影响 GC 和调度？https://mp.weixin.qq.com/s/uWP2X6iFu7BtwjIv5H55vw

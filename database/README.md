@@ -7,6 +7,15 @@ A database is an organized collection of data stored and accessed electronically
 DB-ENGINES: Knowledge Base of Relational and NoSQL Database Management Systems
 - https://db-engines.com/en/ranking
 
+Database Model
+- Relational
+- Key-Value
+- Document
+- TimeSeries
+- Search engine
+- Wide Column
+- Vector
+
 
 ## 原理
 - https://github.com/pingcap/awesome-database-learning

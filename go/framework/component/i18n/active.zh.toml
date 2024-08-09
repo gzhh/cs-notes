@@ -1,0 +1,11 @@
+HelloPerson = "你好 {{.Name}}"
+
+[MyUnreadEmails]
+description = "The number of unread emails I have"
+one = "我有 {{.PluralCount}} 封未读邮件。"
+other = "我有 {{.PluralCount}} 封未读邮件。"
+
+[PersonUnreadEmails]
+description = "The number of unread emails a person has"
+one = "{{.Name}} 有 {{.UnreadEmailCount}} 封未读邮件。"
+other = "{{.Name}} 有 {{.UnreadEmailCount}} 封未读邮件。"

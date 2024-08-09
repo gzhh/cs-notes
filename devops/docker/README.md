@@ -37,6 +37,9 @@ Cheat Sheet
  - A process for automating Docker container base image updates. https://github.com/containrrr/watchtower
 
 ## 一、概念
+原理
+- 一文详解容器技术简介和基本原理 https://mp.weixin.qq.com/s/qF1IQjy-A4xijW9YRf8Rvg
+
 What's the difference between Docker Compose and Kubernetes?
 - https://stackoverflow.com/questions/47536536/whats-the-difference-between-docker-compose-and-kubernetes
 
