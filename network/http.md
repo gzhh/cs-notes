@@ -35,6 +35,7 @@ HTTP3
 
 ## 原理
 - 了解 HTTP 看这一篇就够 https://mp.weixin.qq.com/s/JVQPy8hAVoq1pRq63HKBOw
+- HTTP From Scratch https://kmcd.dev/series/http-from-scratch/
 
 
 ## Content-Type

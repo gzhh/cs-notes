@@ -8,6 +8,7 @@
 
 
 ## 基本概念
+- 浅谈Elasticsearch的入门与实践 https://mp.weixin.qq.com/s/wlh2AHpNLrz9dHxPw9UrkQ
 
 ### 索引
 - Full text queries https://www.elastic.co/guide/en/elasticsearch/reference/current/full-text-queries.html

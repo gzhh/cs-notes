@@ -5,6 +5,7 @@ OpenAPI
 - https://www.openapis.org
 - https://github.com/OAI
 - https://github.com/OAI/OpenAPI-Specification
+- OpenAPI 规范 (中文版) https://openapi.apifox.cn
 
 API design guide | Google Cloud
 - https://cloud.google.com/apis/design/

@@ -5,6 +5,7 @@
 
 Best practice
 - 架构之道——人人都是架构师 https://mp.weixin.qq.com/s/6A42588A8MYILG0OYMA0NA
+- 后端开发架构 https://mp.weixin.qq.com/s/38X_DpCDp0keydzeoWG-yA
 
 ## 网站架构之路
 

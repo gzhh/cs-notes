@@ -17,6 +17,7 @@
 - 美团面试题：缓存一致性，我是这么回答的！https://mp.weixin.qq.com/s/esXWVZvgf74DPeDL7xbi1Q
 - 并发环境下，先操作数据库还是先操作缓存？https://mp.weixin.qq.com/s/nCOaSbwgERAZDofWgRlyKg
 - go-zero微服务实战系列（六、缓存一致性保证）https://mp.weixin.qq.com/s/422ZHs81y7nN9Sgb_ESsgg
+- 奇怪的缓存一致性问题 https://mp.weixin.qq.com/s/hcmRh493yWJUJTJl0tlZWw
 
 
 ## 缓存问题
