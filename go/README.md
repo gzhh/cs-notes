@@ -100,6 +100,7 @@ V2 Version
 - Awesome Go https://github.com/avelino/awesome-go
 - Go Developer Roadmap https://github.com/darius-khll/golang-developer-roadmap
 - Learning Go in 2024 https://www.bytesizego.com/blog/learning-golang-2024
+- 2024 后端工程师必须掌握的10大技能 https://mp.weixin.qq.com/s/XwZjSZ_S2XNvLUn9K21d7A
 - GOLANG ROADMAP https://golangroadmap.com
   - https://m.golangroadmap.com/#/collection
   - https://m.golangroadmap.com/#/collectiondetail?id=6

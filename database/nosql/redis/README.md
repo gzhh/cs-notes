@@ -11,6 +11,8 @@
 
 
 ## 使用场景
+- 万字长文详细分享Redis的常见业务场景 https://mp.weixin.qq.com/s/srkd73bS2n3mjIADLVg72A
+
 使用场景1
 1. 缓存系统
 2. 排行榜

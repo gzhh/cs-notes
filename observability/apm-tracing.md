@@ -45,6 +45,7 @@ Best Practice
   - go-redis配置链路追踪 https://www.liwenzhou.com/posts/Go/redis-otel/
   - zap日志库配置链路追踪 https://www.liwenzhou.com/posts/Go/zap-otel/
 - OTel 数据库查询分析：开发者的性能优化神器 https://mp.weixin.qq.com/s/RJxSx2ICEw2OJrD5q6SnDg
+- Practical Tracing for Go Apps with OpenTelemetry (Beginner's Guide) https://betterstack.com/community/guides/observability/opentelemetry-go/
 
 ### Jaeger
 - https://www.jaegertracing.io

@@ -81,3 +81,4 @@
 - https://en.wikipedia.org/wiki/Rate_limiting
 - https://en.wikipedia.org/wiki/Token_bucket
 - https://en.wikipedia.org/wiki/Leaky_bucket
+- 软件系统限流的底层原理解析 https://mp.weixin.qq.com/s/EJ68f40ebapdqKTgGOG8tw

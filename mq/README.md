@@ -34,6 +34,7 @@ message queue vs message broker
   - https://mp.weixin.qq.com/s/3HEULDmNOXL9f0Sos0HBvQ
   - https://mp.weixin.qq.com/s/5jYVM8Oezh-SKqUIIim_Cw
 - [消息队列及常见消息队列介绍](https://cloud.tencent.com/developer/article/1006035)
+- 消息队列选型 https://mp.weixin.qq.com/s/hn6VWEmuTiDvxHQ9EmbjlA
 - 《吃透 MQ 系列》
   - [《吃透 MQ 系列》之核心基础篇](https://mp.weixin.qq.com/s/KWoOW1TeJoMhGOSM7AlReg)
   - [《吃透 MQ 系列》之扒开 Kafka 的神秘面纱](https://mp.weixin.qq.com/s/vSJCutIDHdP5AGmbAs13bA)

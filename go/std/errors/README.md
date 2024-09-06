@@ -107,3 +107,4 @@ Are all runtime errors recoverable in Go?
   - [卷起来，老程序员也得了解errors包的新变化 - 鸟窝](https://colobu.com/2023/12/13/learn-more-about-errors/)
   - [Conquering Errors in Go: A Guide to Returning and Handling errors](https://blog.rideapp.in/conquering-errors-in-go-a-guide-to-returns-and-handling-a13885905433)
   - JetBrains Go https://www.jetbrains.com/guide/go/tutorials/handle_errors_in_go/
+  - [Go1.23 新特性：再开后门，可以记录未捕获的 panic 和 throw 日志了！](https://mp.weixin.qq.com/s/D16riVBbnDibLueQBIQ6Pw)

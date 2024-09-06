@@ -26,7 +26,18 @@ remove the entire module download cache
     - `GONOSUMDB`
 
 
-## go mod edit -replace
+## go mod edit
+- https://tpaschalis.me/go-mod-edit/
+
+例子
+
+```
+$ go mod edit -go=1.21
+
+$ go mod edit [-module=modname|-go=version|-toolchain=name]
+```
+
+### go mod edit -replace
 - https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/
 
 

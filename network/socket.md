@@ -57,6 +57,7 @@ Best Practice
 select和poll
 
 epoll
+- Linux epoll 之 LT & ET 模式全揭秘 https://strikefreedom.top/archives/linux-epoll-with-level-triggering-and-edge-triggering
 
 kqueue
 

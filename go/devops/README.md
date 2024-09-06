@@ -33,6 +33,7 @@
 - 优雅的重启服务 https://eddycjy.com/posts/go/gin/2018-03-15-reload-http/
 - endless 如何实现不停机重启 Go 程序？https://www.luozhiyun.com/archives/584
 - Graceful restart or stop https://gin-gonic.com/docs/examples/graceful-restart-or-stop/
+- Go 程序如何实现优雅退出？来看看 K8s 是怎么做的 https://mp.weixin.qq.com/s/DiYPP0wPC8-yj94yK4yc4w
 - gRPC的平滑关闭和在Kubernetes上的服务摘流方案总结 https://mp.weixin.qq.com/s/lCTyZgSK3b-rJtV9l6PNYA
 
 

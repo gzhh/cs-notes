@@ -23,7 +23,7 @@ vet 工具变量覆盖检查
 - GoLand
   - Go configuration https://www.jetbrains.com/help/go/go-configuration.html
   - GOROOT and GOPATH https://www.jetbrains.com/help/go/configuring-goroot-and-gopath.html
-- Air https://github.com/cosmtrek/air
+- Air https://github.com/air-verse/air
 - Modd https://github.com/cortesi/modd
 - MixGo https://github.com/mix-go/mix
   - https://mp.weixin.qq.com/s/ldHYSvHngUINs7OD6llLqA

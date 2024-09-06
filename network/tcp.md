@@ -16,6 +16,7 @@ Ref：
 - “三次握手，四次挥手”你真的懂吗？https://zhuanlan.zhihu.com/p/53374516
 - TCP三次握手四次挥手过程详解 https://blog.csdn.net/imilli/article/details/50620104
 - 为什么TCP4次挥手时等待为2MSL？https://www.zhihu.com/question/67013338
+- 通过实验深入了解 TCP 连接的建立和关闭 https://mp.weixin.qq.com/s/OpOCIVxKF1xK-HI-E-8uRg
 - https://www.cloudflare.com/learning/network-layer/what-is-mtu/
 - https://www.cloudflare.com/learning/network-layer/what-is-mss/
 
