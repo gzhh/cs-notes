@@ -40,6 +40,10 @@ $ go mod edit [-module=modname|-go=version|-toolchain=name]
 ### go mod edit -replace
 - https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/
 
+### go mod vendor
+- https://go.dev/ref/mod#vendoring
+- https://victoriametrics.com/blog/vendoring-go-mod-vendor/
+
 
 ## 参考：
 - https://go.dev/ref/mod#private-modules

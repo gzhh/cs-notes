@@ -16,6 +16,7 @@
 - 快速理解Go数组和切片的内部实现原理 https://i6448038.github.io/2018/08/11/array-and-slice-principle/
 - 你真的了解go语言中的切片吗？https://mp.weixin.qq.com/s/uNajVcWr4mZpof1eNemfmQ
 - 数组与切片的面试总结和性能提升点 https://mp.weixin.qq.com/s/wL9menRiuv7dZ1zIOqozYA
+- Slices in Go: Grow Big or Go Home https://victoriametrics.com/blog/go-slice/
 
 
 ### 扩容机制

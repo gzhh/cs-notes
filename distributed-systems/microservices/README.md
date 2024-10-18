@@ -20,6 +20,7 @@
   - （二）——服务路由 https://mp.weixin.qq.com/s/EKfji9KbM7j3OPXx_QzVIA
   - （三）——服务限流 https://mp.weixin.qq.com/s/em2-gWgYq2JwH9XiWSHkIg
   - （四）——服务安全 https://mp.weixin.qq.com/s/yT16s3GnGLRvL_pyo5v77w
+- 万字长文分享腾讯云原生微服务治理实践及企业落地建议 https://mp.weixin.qq.com/s/TKbYv_yGga7cDqLMt12dYw
 - 微服务高可用容灾架构设计 https://mp.weixin.qq.com/s/WLO4JI46JkaXYK1cqTDnLg
 - 业务系统架构实践总结 https://mp.weixin.qq.com/s/pNfC7klCZTKhXwC4t5V7BA
 - 回归单体成为潮流？腾讯文档如何实现灵活架构切换 https://mp.weixin.qq.com/s/qtQTZky4SG4d-x0XE97FIg

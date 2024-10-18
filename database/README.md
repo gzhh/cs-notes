@@ -41,6 +41,7 @@ Books
 - Query Optimizer
   - 当我谈查询优化器时，我谈些什么 (1)—— IR 设计 https://zhuanlan.zhihu.com/p/680046526
 - SQL Commands | DDL, DQL, DML, DCL and TCL Commands https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+- 一文探索应运而生的数据库们 https://mp.weixin.qq.com/s/6nOwTieyW9SXvi2tqLtizw
 
 
 ## 课程
@@ -53,6 +54,9 @@ Books
 B-Tree
 - https://en.wikipedia.org/wiki/B-tree
 - https://en.wikipedia.org/wiki/B+_tree
+- https://btree.app
+- https://bplustree.app
+- B-trees and database indexes https://planetscale.com/blog/btrees-and-database-indexes
 
 LSM Tree
 - https://en.wikipedia.org/wiki/Log-structured_merge-tree

@@ -108,3 +108,4 @@ Are all runtime errors recoverable in Go?
   - [Conquering Errors in Go: A Guide to Returning and Handling errors](https://blog.rideapp.in/conquering-errors-in-go-a-guide-to-returns-and-handling-a13885905433)
   - JetBrains Go https://www.jetbrains.com/guide/go/tutorials/handle_errors_in_go/
   - [Go1.23 新特性：再开后门，可以记录未捕获的 panic 和 throw 日志了！](https://mp.weixin.qq.com/s/D16riVBbnDibLueQBIQ6Pw)
+  - Go 错误处理指北：如何优雅的处理错误？https://mp.weixin.qq.com/s/ImvwsAUhQ3MMZkKvnbNB3A

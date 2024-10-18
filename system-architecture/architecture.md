@@ -6,6 +6,10 @@
 Best practice
 - 架构之道——人人都是架构师 https://mp.weixin.qq.com/s/6A42588A8MYILG0OYMA0NA
 - 后端开发架构 https://mp.weixin.qq.com/s/38X_DpCDp0keydzeoWG-yA
+- 为什么我的系统慢？“三大分离”架构上了吗？https://mp.weixin.qq.com/s/xjv-_OwkuD5OJ3LERoDQQg
+- 什么才是真正的架构设计？https://mp.weixin.qq.com/s/7_SU77SKgI-GLyjMZeavsQ
+- 架构师必备底层逻辑：分层架构设计 https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw
+- 异地多活架构设计看这篇就够了 https://mp.weixin.qq.com/s/_P1-w-eMS0R2YR-WCT71gg
 
 ## 网站架构之路
 

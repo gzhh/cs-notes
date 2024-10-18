@@ -7,6 +7,8 @@ docs
 
 Learn Go with Tests (TDD)
 - https://go.dev/blog/examples
+- Testing in Go - a crash article to get you going https://thedevelopercafe.com/articles/testing-in-go-929e2ad2
+
 - https://github.com/quii/learn-go-with-tests
 - https://quii.gitbook.io/learn-go-with-tests
 

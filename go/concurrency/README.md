@@ -64,6 +64,13 @@ Go Concurrency Patterns: Pipelines and cancellation
   - singleflight
   - syncmap
 
+### Ref
+- https://victoriametrics.com/blog/go-sync-mutex/
+- https://victoriametrics.com/blog/go-sync-waitgroup/
+- https://victoriametrics.com/blog/go-sync-pool/
+- https://victoriametrics.com/blog/go-sync-cond/
+- https://victoriametrics.com/blog/go-singleflight/
+
 
 ## Third Party Package
 - conc https://github.com/sourcegraph/conc

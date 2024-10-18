@@ -25,6 +25,16 @@
     
     交叉编译不支持 CGO 所以要禁用它
 
+### 编译优化
+参考：https://blog.abnerzhao.com/posts/go-build/
+
+参数
+- `-ldflags "-w -s"` 选项目的是获取最小的二进制文件
+- `-gcflags "-N -l"` 选项目的是在编译过程中禁止内联优化，加快编译速度减少开销
+
+示例
+- `CGO_ENABLED=0 go build -gcflags "-N -l" -ldflags="-s -w" -v -a -o target **.go`
+
 
 ## Graceful Restart
 - Go 如何实现热重启 https://mp.weixin.qq.com/s/UVZKFmv8p4ghm8ICdz85wQ

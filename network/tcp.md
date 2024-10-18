@@ -7,6 +7,7 @@
 
 ## TCP 最佳实践
 - 有赞TCP网络编程最佳实践 https://mp.weixin.qq.com/s/5bev2XS1iX41-lY1oOF9SQ
+- 通过实验深入了解 TCP 数据的发送和接收 https://mp.weixin.qq.com/s/6MlebbExo3GVhj554J7Vnw
 
 
 ## TCP三次握手和四次挥手
