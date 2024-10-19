@@ -21,6 +21,7 @@
 - 图解Golang的GC算法 - https://i6448038.github.io/2019/03/04/golang-garbage-collector/
 - Go语言中常见100问题-#99 Not understanding how the GC works https://mp.weixin.qq.com/s/fQensm55bnzPKagMEVs8Ag
 - 内存泄漏的7种场景 https://mp.weixin.qq.com/s/n998ILpTkCRpQ73gz7UYaQ
+- Best practices in Go to improve performance and reduce pressure on Go’s garbage collector https://medium.com/@aditimishra_541/best-practices-in-go-to-improve-performance-and-reduce-pressure-on-gos-garbage-collector-df10904e0244
 
 
 

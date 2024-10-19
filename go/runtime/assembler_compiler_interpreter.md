@@ -103,6 +103,7 @@ func main() {
   - https://blog.cloudflare.com/how-to-execute-an-object-file-part-2
   - https://blog.cloudflare.com/how-to-execute-an-object-file-part-3
   - https://blog.cloudflare.com/how-to-execute-an-object-file-part-4
+- A small C compiler https://github.com/rui314/chibicc
 
 GCC
 - https://gcc.gnu.org

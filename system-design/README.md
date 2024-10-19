@@ -17,6 +17,7 @@
 - [URL SHORTENER URL短链](https://github.com/gzhh/golang-notes/tree/main/system-design/url-shortener.md)
 - [Key-Value Store 键值存储](key-value-store.md)
 - 腾讯会议高性能亿级录制列表查询系统设计实现 https://mp.weixin.qq.com/s/cw1wWxawPbsfYhqbBXU31A
+- [几个有意思的分布式系统设计模式](https://www.raychase.net/7710)
 
 偏场景
 - [秒杀系统](spike-system.md)
