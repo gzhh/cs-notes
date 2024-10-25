@@ -1,6 +1,7 @@
 # Distributed Locks
 
 ## 最佳实践
+- 谈谈分布式锁 - 四火的唠叨 https://www.raychase.net/7671
 - 再有人问你分布式锁，这篇文章扔给他 https://juejin.cn/post/6844903688088059912
 - 聊聊分布式锁 https://mp.weixin.qq.com/s/-N4x6EkxwAYDGdJhwvmZLw
 - 聊一聊分布式锁的设计模型 https://mp.weixin.qq.com/s/uA26VVmYMTfs-dWcLOY04w

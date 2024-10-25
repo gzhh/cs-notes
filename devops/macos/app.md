@@ -19,3 +19,7 @@ Raycast vs. Alfred
 
 ### Stretchly - The break time reminder app
 - https://github.com/hovancik/stretchly
+
+
+### Stats
+- https://github.com/exelban/stats

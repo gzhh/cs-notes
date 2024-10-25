@@ -15,6 +15,11 @@
 
 ~/Library/Containers/com.docker.docker/Data/log/vm/docker.log
 
+系统预占空间太大
+- 具体位置 /Library/Containers/com.docker.docker/Data/vms/0/data/Docker.raw
+- 可在 docker desktop 中调整 Settings -> Resources -> Disk image size 
+
+
 ### docker destop 配置文件
 
 ~/Library/Group\ Containers/group.com.docker/settings.json
