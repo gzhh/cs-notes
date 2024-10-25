@@ -25,6 +25,7 @@ WebSocket
 
 Admin Framework
 - GoAdmin https://github.com/GoAdminGroup/go-admin
+  - rbac 权限系统可以参考，结合 vue 开发不友好
 
 
 ## Best Practice

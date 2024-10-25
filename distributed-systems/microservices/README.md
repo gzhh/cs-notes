@@ -21,6 +21,7 @@
   - （三）——服务限流 https://mp.weixin.qq.com/s/em2-gWgYq2JwH9XiWSHkIg
   - （四）——服务安全 https://mp.weixin.qq.com/s/yT16s3GnGLRvL_pyo5v77w
 - 万字长文分享腾讯云原生微服务治理实践及企业落地建议 https://mp.weixin.qq.com/s/TKbYv_yGga7cDqLMt12dYw
+- 微服务与分布式系统设计 https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw
 - 微服务高可用容灾架构设计 https://mp.weixin.qq.com/s/WLO4JI46JkaXYK1cqTDnLg
 - 业务系统架构实践总结 https://mp.weixin.qq.com/s/pNfC7klCZTKhXwC4t5V7BA
 - 回归单体成为潮流？腾讯文档如何实现灵活架构切换 https://mp.weixin.qq.com/s/qtQTZky4SG4d-x0XE97FIg
@@ -28,6 +29,7 @@
 
 微服务带来的问题
 - 2024 年了，之前搞微服务的公司你们还好么 https://v2ex.com/t/1057052
+- 微服务到底在哪个方面让开发、维护简单了？https://v2ex.com/t/1082359#r_15417959
 
 
 ## kubernetes 容器编排

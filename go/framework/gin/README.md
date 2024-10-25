@@ -32,9 +32,19 @@ gin context
   - https://www.jetbrains.com/guide/go/tutorials/rest_api_series/
   - https://www.jetbrains.com/guide/go/tutorials/bookstore_rest_api/
 
-### Admin & API 
+### Admin
 - GIN-VUE-ADMIN https://github.com/flipped-aurora/gin-vue-admin
   - https://github.com/flipped-aurora/gin-vue-admin/tree/main/server
-- go-admin https://github.com/go-admin-team/go-admin
+  - https://github.com/flipped-aurora/gin-vue-admin/tree/main/web
+  - https://www.gin-vue-admin.com/guide/introduce/project.html
+- go-admin pro
+  - https://github.com/go-admin-team/go-admin
+  - https://github.com/go-admin-team/go-admin-ui
+  - https://www.go-admin.pro/guide
+  - https://www.go-admin.pro/guide/ksks
+- go-admin https://github.com/GoAdminGroup/go-admin
+  - rbac 权限系统可以参考，结合 vue 开发不友好
+
+### API
 - go-gin-api https://github.com/xinliangnote/go-gin-api
   - https://www.yuque.com/xinliangnote/go-gin-api

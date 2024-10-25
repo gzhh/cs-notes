@@ -132,6 +132,7 @@ Third Party
 ### Best Practice
 - 如何写出优雅的 Go 语言代码 https://draveness.me/golang-101/
 - Go Style Best Practices https://github.com/google/styleguide/blob/gh-pages/go/best-practices.md
+- Practical Go: Real world advice for writing maintainable Go programs https://dave.cheney.net/practical-go/presentations/qcon-china.html
 - Don't write clean code, write CRISP code https://bitfieldconsulting.com/posts/crisp-code
 - Common Anti-Patterns in Go Web Applications https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
 - Teh Zen of Go https://dave.cheney.net/2020/02/23/the-zen-of-go

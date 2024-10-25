@@ -36,6 +36,8 @@ Third Lib
 Loki: like Prometheus, but for logs.
 - https://github.com/grafana/loki
 
+Pyroscope
+- https://github.com/grafana/pyroscope
 
 ## VictoriaMetrics
 - https://github.com/VictoriaMetrics/VictoriaMetrics
