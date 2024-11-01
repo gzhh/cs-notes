@@ -4,6 +4,15 @@
 
 Docs
 - https://vuejs.org/guide
+- https://play.vuejs.org
+- https://cn.vuejs.org
+- https://cn.vuejs.org/guide/introduction
+- https://cn.vuejs.org/guide/quick-start
+- https://cn.vuejs.org/tutorial
+- https://cn.vuejs.org/examples
+- https://cn.vuejs.org/guide/essentials/application.html
+- https://cn.vuejs.org/api
+- https://cn.vuejs.org/api/application.html
 - https://v2.vuejs.org
 - https://v2.cn.vuejs.org/v2/guide
 

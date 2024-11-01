@@ -39,6 +39,7 @@ Buf
   - 数据序列化工具Protobuf编码&避坑指南 https://mp.weixin.qq.com/s/xH9v4Al3B2vPbZIp2yqZpQ
   - Protobuf编码原理及优化技巧探讨 https://mp.weixin.qq.com/s/hAfrPlPD2KBCWxpIuGkQTQ
   - 更快更小！ProtoBuf 入门详解 https://mp.weixin.qq.com/s/zKE3kqkJNQDKby78ddjWBA
+  - 为什么大厂这么爱用protobuf？https://mp.weixin.qq.com/s/COQu3rckfZJUelSVBV6IMA
 - 【Go微服务】一文带你玩转ProtoBuf https://juejin.cn/post/7144948875613339685
 - Go API Design With Protocol Buffers and gRPC https://betterprogramming.pub/go-api-design-with-protocol-buffers-and-grpc-991838e4852b
 - Supercharge your REST APIs with Protobuf https://medium.com/swlh/supercharge-your-rest-apis-with-protobuf-b38d3d7a28d3

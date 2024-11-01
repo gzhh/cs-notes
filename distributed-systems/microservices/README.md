@@ -10,11 +10,13 @@
 
 ## Best Practice
 - 《微服务架构设计模式》的一点总结 https://mp.weixin.qq.com/s/TLZR252J7EHcR8h_vEsXrA
+- 单体架构比微服务架构更落后吗？https://mp.weixin.qq.com/s/HvMlNYrJFQkqewD9Bwn8_w
 - 学习微服务首先要了解为什么使用微服务 https://www.imooc.com/article/22737
 - 微服务接口设计原则 https://mp.weixin.qq.com/s/3UNL1EZfgfGkQcdbwuMj8Q
 - 微服务讨论 https://maimai.cn/web/gossip_detail/30655604?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzA2NTU2MDQsInUiOjE5NDEzNTc0MCwiZWdpZCI6ImRkMzEyOGYzYTUzYTQzZTdiNzE5ZDQ0ZGEyMjVhZWM1In0.tGHl6tUYY8hKLdsq6N33pbRLzGy_sTZA0RfcKWcIf-I&share_channel=2&_share_channel=wechat
 - vivo 海量微服务架构最新实践 https://mp.weixin.qq.com/s/yNbr7LXhWODdgVKfdnba0g
 - 从单体到微服务，腾讯文档微服务网关工程化的演进实践 https://mp.weixin.qq.com/s/tqvaCNcUJtWmmGNmDEan3Q
+- 回归单体成为潮流？腾讯文档如何实现灵活架构切换 https://mp.weixin.qq.com/s/qtQTZky4SG4d-x0XE97FIg
 - TSF微服务治理实战系列
   - （一）——治理蓝图 https://mp.weixin.qq.com/s/VCwiUQjbtof93Gyo3RufDw
   - （二）——服务路由 https://mp.weixin.qq.com/s/EKfji9KbM7j3OPXx_QzVIA
@@ -24,7 +26,6 @@
 - 微服务与分布式系统设计 https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw
 - 微服务高可用容灾架构设计 https://mp.weixin.qq.com/s/WLO4JI46JkaXYK1cqTDnLg
 - 业务系统架构实践总结 https://mp.weixin.qq.com/s/pNfC7klCZTKhXwC4t5V7BA
-- 回归单体成为潮流？腾讯文档如何实现灵活架构切换 https://mp.weixin.qq.com/s/qtQTZky4SG4d-x0XE97FIg
 - DEATH BY A THOUSAND MICROSERVICES https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html
 
 微服务带来的问题

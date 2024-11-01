@@ -12,6 +12,7 @@ Docs
 - 图解Kafka：架构设计、消息可靠、数据持久、高性能背后的底层原理 https://mp.weixin.qq.com/s/2PEYaSiKzNfB_Ijq69UOJQ
 - 我用kafka两年踩过的一些非比寻常的坑（宝贵经验）https://mp.weixin.qq.com/s/zP2qDnLpteuTIhbdPuIxKQ
 - Kafka 高可靠高性能原理探究 https://mp.weixin.qq.com/s/_g11mmmQse6KrkUE8x4abQ
+- 图解Kafka：架构设计、消息可靠、数据持久、高性能背后的底层原理 https://mp.weixin.qq.com/s/j5Dn9Wuqa_8eqE7A1UNEXg
 - Kafka 分级存储在腾讯云的实践与演进 https://mp.weixin.qq.com/s/bjXStdwAb5BRwKfquOHT_w
 - B站KAFKA探索与实践 https://mp.weixin.qq.com/s/IQ2h_iwg8esXuH_jG1St_w
 - 基于SSD的Kafka应用层缓存架构设计与实现 https://tech.meituan.com/2021/01/14/kafka-ssd.html
