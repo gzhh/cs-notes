@@ -26,6 +26,8 @@ Neovim
 ### Shell
 ohmyzsh
 - github: https://github.com/ohmyzsh/ohmyzsh
+- plugin manager
+  - https://github.com/zsh-users/antigen
 - custom plugins
   - https://github.com/ohmyzsh/ohmyzsh/wiki/Customization
   - plugins position `~/.oh-my-zsh/custom/plugins/`

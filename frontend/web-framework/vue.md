@@ -1,6 +1,6 @@
 # Vue
+- https://github.com/vuejs/core
 - https://vuejs.org
-- https://github.com/vuejs/vue
 
 Docs
 - https://vuejs.org/guide
@@ -13,6 +13,9 @@ Docs
 - https://cn.vuejs.org/examples
 - https://cn.vuejs.org/api
 - https://cn.vuejs.org/api/application.html
+
+Vue2
+- https://github.com/vuejs/vue
 - https://v2.vuejs.org
 - https://v2.cn.vuejs.org/v2/guide
 
@@ -42,6 +45,9 @@ Ref
 Vite
 - https://github.com/vitejs/vite
 - https://vite.dev
+
+Vue tooling for VS Code.
+- https://github.com/vuejs/vetur
 
 
 ## Library

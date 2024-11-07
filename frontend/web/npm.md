@@ -1,5 +1,16 @@
 # npm Q&A
 
+
+## Node Version Manager
+- https://github.com/nvm-sh/nvm
+
+nvm 常用命令
+- nvm install <version>     # 安装特定版本的 Node.js
+- nvm use <version>         # 切换到指定的 Node.js 版本
+- nvm ls                    # 列出所有已安装的 Node.js 版本
+- nvm uninstall <version>   # 卸载指定版本的 Node.js
+
+
 ## npm 常用命令
 1.npm install
 
