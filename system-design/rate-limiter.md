@@ -82,3 +82,6 @@
 - https://en.wikipedia.org/wiki/Token_bucket
 - https://en.wikipedia.org/wiki/Leaky_bucket
 - 软件系统限流的底层原理解析 https://mp.weixin.qq.com/s/EJ68f40ebapdqKTgGOG8tw
+- 网关层 Nginx 限流讨论
+  - https://x.com/vikingmute/status/1853606107874464067
+  - https://nginx.org/en/docs/http/ngx_http_limit_req_module.html

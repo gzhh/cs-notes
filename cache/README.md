@@ -11,6 +11,7 @@
 
 ## 缓存策略
 ### 缓存一致性
+- 一文讲透数据库缓存一致性问题 https://mp.weixin.qq.com/s/HilTpiLm5VKp5pbhd-K9uQ
 - 浅谈缓存最终一致性的解决方案 https://mp.weixin.qq.com/s/Y9S89MT0uAobzRKgYVrI9Q
 - 干货 | 分布式缓存与DB秒级一致设计实践 https://mp.weixin.qq.com/s/_RlOAvjfTINJrhwHUogs7Q
 - 干货 | 携程最终一致和强一致性缓存实践 https://mp.weixin.qq.com/s/E-chAZyHtaZOdA19mW59-Q

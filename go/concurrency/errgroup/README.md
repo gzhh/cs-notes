@@ -3,6 +3,7 @@
 
 Best Practice
 - https://lailin.xyz/post/go-training-week3-errgroup.html
+- Go 并发控制：errgroup 详解 https://mp.weixin.qq.com/s/kqfIPS77B_LWLf5h4dLDGw
 
 
 ## Demo

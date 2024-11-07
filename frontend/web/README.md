@@ -63,6 +63,11 @@ npmmirror 镜像站
 ### webpack
 - https://github.com/webpack/webpack
 - https://webpack.js.org
+- https://webpack.js.org/concepts/
+- https://webpack.js.org/guides/
+- https://webpack.js.org/guides/getting-started/
+- https://webpack.js.org/api/
+- https://webpack.js.org/configuration/
 
 
 ## Library
@@ -79,3 +84,4 @@ Service
 Font & Icon
 - https://fontawesome.com.cn
 - https://www.iconfont.cn
+- https://github.com/FortAwesome/Font-Awesome

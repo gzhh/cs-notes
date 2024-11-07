@@ -8,9 +8,9 @@ Docs
 - https://cn.vuejs.org
 - https://cn.vuejs.org/guide/introduction
 - https://cn.vuejs.org/guide/quick-start
+- https://cn.vuejs.org/guide/essentials/application.html
 - https://cn.vuejs.org/tutorial
 - https://cn.vuejs.org/examples
-- https://cn.vuejs.org/guide/essentials/application.html
 - https://cn.vuejs.org/api
 - https://cn.vuejs.org/api/application.html
 - https://v2.vuejs.org
@@ -19,7 +19,23 @@ Docs
 
 ## Best Practice
 - https://github.com/vuejs/awesome-vue
+- 手摸手，带你用vue撸后台 系列一（基础篇）https://juejin.cn/post/6844903476661583880
 - 揭秘从新手到Vue高级工程师的养成之路 http://www.imooc.com/article/270401
+
+
+## Vue 生态圈
+- https://github.com/vuejs/router
+- https://github.com/vuejs/vuex
+- https://github.com/vuejs/vue-loader
+- https://github.com/vuejs/vue-test-utils
+- https://github.com/vuejs/devtools-v6
+- https://github.com/vuejs/vue-cli
+- https://github.com/vuejs/vetur
+- https://github.com/vuejs-templates/webpack
+
+Ref
+- https://panjiachen.github.io/vue-element-admin-site/zh/guide/#vue-生态圈
+
 
 
 ## Tookit
@@ -36,7 +52,15 @@ Vite
 
 
 ## Vue admin interfaces
+Vue2
 - https://github.com/PanJiaChen/vue-element-admin
+  - 开发建议：把 vue-element-admin当做工具箱或者集成方案仓库，在 vue-admin-template 的基础上进行二次开发，想要什么功能或者组件就去 vue-element-admin 那里复制过来。
+  - https://panjiachen.github.io/vue-element-admin-site/
+  - https://panjiachen.github.io/vue-element-admin-site/zh/guide/
+  - https://github.com/PanJiaChen/vue-admin-template
+  - https://github.com/Armour/vue-typescript-admin-template
+
+Vue3
 - https://github.com/zxwk1998/vue-admin-better
 
 
