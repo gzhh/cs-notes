@@ -39,8 +39,10 @@ Life of a URLRequest
 ### npm
 - https://www.npmjs.com
 - https://www.npmjs.com/package/package
+- https://docs.npmjs.com
 - https://github.com/npm/npm
 - https://github.com/npm/cli
+- https://docs.npmjs.com/cli/v10
 - npm介绍、package.json详解、npm install原理、常用指令、npx工具、发布自己的包 https://www.cnblogs.com/yaopengfei/p/16144782.html
 
 Docs
