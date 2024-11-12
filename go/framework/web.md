@@ -1,9 +1,6 @@
 # Go Web
 
 ## Third Party Toolkit
-- Gorilla web toolkit https://github.com/gorilla
-- Nunu https://github.com/go-nunu/nunu
-
 HTTP Router
 - gorilla/mux https://github.com/gorilla/mux
 - HttpRouter https://github.com/julienschmidt/httprouter
@@ -26,6 +23,10 @@ WebSocket
 Admin Framework
 - GoAdmin https://github.com/GoAdminGroup/go-admin
   - rbac 权限系统可以参考，结合 vue 开发不友好
+
+
+## Web Project Scaffold
+- Nunu https://github.com/go-nunu/nunu
 
 
 ## Best Practice
