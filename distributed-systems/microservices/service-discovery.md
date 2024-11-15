@@ -15,6 +15,7 @@
 ## Zookeeper
 - https://github.com/apache/zookeeper
 - https://zookeeper.apache.org
+- 大厂开始放弃ZooKeeper，还用学吗？https://mp.weixin.qq.com/s/NfiMY5vlUIrsx8St5hUqcg
 
 
 ## etcd

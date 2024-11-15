@@ -63,6 +63,7 @@ Vue2
   - 开发建议：把 vue-element-admin当做工具箱或者集成方案仓库，在 vue-admin-template 的基础上进行二次开发，想要什么功能或者组件就去 vue-element-admin 那里复制过来。
   - https://panjiachen.github.io/vue-element-admin-site/
   - https://panjiachen.github.io/vue-element-admin-site/zh/guide/
+  - https://panjiachen.github.io/vue-element-admin-site/zh/guide/essentials/mock-api.html#移除
   - https://github.com/PanJiaChen/vue-admin-template
   - https://github.com/Armour/vue-typescript-admin-template
 

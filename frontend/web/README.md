@@ -6,6 +6,7 @@
 Tool
 - - JSFiddle - Code Playground https://jsfiddle.net
 
+
 ## Best Practice
 - https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html
 - https://developer.mozilla.org/en-US/docs/Web
@@ -48,10 +49,44 @@ Life of a URLRequest
 Docs
 - https://docs.npmjs.com/cli
 - https://docs.npmjs.com/cli/v10/commands
-- https://docs.npmjs.com/cli/v10/commands/npx
 
 npmmirror 镜像站
 - https://npmmirror.com
+
+
+### npx
+- https://docs.npmjs.com/cli/v10/commands/npx
+- https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/
+- npx与npm的差异解析，以及包管理器yarn与Node版本管理工具nvm的使用方法详解 https://blog.csdn.net/shanghai597/article/details/133930521
+
+1.package.json 中的 scripts 配置逻辑
+
+```
+"scripts": {
+  "dev": "vue-cli-service serve",
+  "build:prod": "vue-cli-service build",
+  "lint": eslint --ext .js,.vue src
+}
+
+
+上面配置的 npm script 可分别对应 npx 执行命令
+npm run dev
+npm run build:prod
+npm run lint
+
+npx vue-cli-service serve
+npx vue-cli-service build
+npx eslint --ext .js,.vue src
+```
+
+2.环境变量设置
+
+vue-cli-service 会自动设置 NODE_ENV 环境变量，以确保在开发和生产模式下使用正确的环境配置。Vue CLI 会在不同的构建模式中根据命令自动定义 NODE_ENV 的值：
+- serve 命令：当你运行 vue-cli-service serve（开发服务器）时，Vue CLI 会将 NODE_ENV 自动设置为 development。
+- build 命令：当你运行 vue-cli-service build（生产构建）时，Vue CLI 会将 NODE_ENV 自动设置为 production。
+- --mode 选项：如果使用 --mode 选项指定模式，例如 --mode staging，Vue CLI 会根据 .env.staging 文件加载环境变量，并且 NODE_ENV 通常仍会被设置为 production，以确保使用生产模式的构建优化。
+
+
 
 ### yarn
 - https://github.com/yarnpkg/yarn

@@ -11,8 +11,16 @@ nvm 常用命令
 - nvm uninstall <version>   # 卸载指定版本的 Node.js
 
 
+## package.json
+package.json 是 Node.js 项目中的一个配置文件，用于管理项目的元数据、依赖项、脚本命令和其他信息。它是由 npm（Node Package Manager）生成的，通常位于项目的根目录。
+
+
 ## npm 常用命令
 1.npm install
+- `npm install` 安装所有依赖项
+- `npm install <package>`: 安装一个新的依赖项，并添加到 dependencies。
+- `npm install <package> --save-dev`: 安装一个开发依赖项，并添加到 devDependencies。
+- `npm run <script>`: 运行 scripts 中定义的脚本，例如 npm run dev。
 
 2.npm run
 - npm run start：通常启动应用程序（开发或生产环境）。
