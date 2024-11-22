@@ -8,6 +8,12 @@
 - https://github.com/Microsoft/language-server-protocol
 
 
+### Config
+1.disable hardware acceleration - speed up vscode
+- Cmd + Shift + P -> Preferences: Configure Runtime Arguments
+  - `"disable-hardware-acceleration": true`
+
+
 ### Extentions
 Go extension for VS Code
 - https://github.com/golang/vscode-go

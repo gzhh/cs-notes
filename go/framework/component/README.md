@@ -31,7 +31,9 @@
 
 ## Field Validator
 - https://github.com/go-playground/validator
-
+- Protocol Buffer
+  - https://github.com/bufbuild/protoc-gen-validate
+  - https://github.com/bufbuild/protovalidate
 
 ## Stream library
 - Watermill https://github.com/ThreeDotsLabs/watermill

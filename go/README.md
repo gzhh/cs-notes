@@ -170,6 +170,9 @@ Deadcode
 
 安全
 - 腾讯-Go安全指南 https://github.com/Tencent/secguide/blob/main/Go安全指南.md
+- Go-SCP https://github.com/OWASP/Go-SCP
+  - https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.pdf
+  - http://www.owasp.org.cn/OWASP-CHINA/go-webapp-scp-cn.pdf
 
 
 ## 四、Go Community

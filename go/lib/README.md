@@ -9,7 +9,13 @@
 
 
 ## JSON
+JSON parser
 - https://github.com/tidwall/gjson
+
+JSON encoder/decoder
+- https://github.com/bytedance/sonic
+- https://github.com/json-iterator/go
+- https://github.com/goccy/go-json
 
 
 ## Time

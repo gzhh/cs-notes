@@ -12,6 +12,7 @@ Best practice
 - 单元化架构在字节跳动的落地实践 https://mp.weixin.qq.com/s/ODogMQ0N6ppNjssRK_uD_A
 - 为什么我的系统慢？“三大分离”架构上了吗？https://mp.weixin.qq.com/s/xjv-_OwkuD5OJ3LERoDQQg
 - 究竟怎么做架构设计？https://mp.weixin.qq.com/s/0NJdnxvdkN16fXHW5byDAg
+- 架构师之路：流量从10万到10亿，一定会遇到的80个架构问题 https://mp.weixin.qq.com/s/vVhLZDL6bRJL9u5GJg63tw
 
 ## 网站架构之路
 

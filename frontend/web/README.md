@@ -106,6 +106,9 @@ vue-cli-service 会自动设置 NODE_ENV 环境变量，以确保在开发和生
 - https://webpack.js.org/api/
 - https://webpack.js.org/configuration/
 
+Rspack
+- https://github.com/web-infra-dev/rspack
+
 
 ## Library
 ### jQuery

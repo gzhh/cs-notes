@@ -15,6 +15,7 @@
 
 
 ### Go Micro
+- https://github.com/micro/go-micro
 - https://github.com/go-micro/go-micro
 - https://github.com/go-micro/examples
 
@@ -27,6 +28,11 @@
 ### GoFrame
 - https://github.com/gogf/gf
 - https://github.com/gogf/awesome-gf
+- https://goframe.org
+- https://goframe.org/quick/scaffold-next
+- https://goframe.org/course
+- https://goframe.org/docs/web
+- https://goframe.org/docs/micro-service
 
 
 ### Kitex

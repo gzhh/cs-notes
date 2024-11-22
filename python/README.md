@@ -15,10 +15,6 @@
 - see also
   - https://github.com/pyenv/pyenv-virtualenv
   - https://docs.python.org/3/library/venv.html
-  - https://twitter.com/river_leaves/status/1710489478924783778
-  - https://github.com/pypa/pipenv
-  - https://github.com/python-poetry/poetry
-  - https://github.com/pdm-project/pdm
 
 ### Usage
 List all Python versions available to pyenv
@@ -50,6 +46,10 @@ python -m pip install --upgrade pip
 - https://en.wikipedia.org/wiki/Pip_(package_manager)
 - https://github.com/pypa/pip
 - https://pip.pypa.io/en
+- see also
+  - https://github.com/pypa/pipenv
+  - https://github.com/pdm-project/pdm
+  - https://github.com/python-poetry/poetry
 
 ### Installing specific package version
 Example

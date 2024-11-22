@@ -93,6 +93,7 @@ func main() {
 
 
 ## Compiler
+在正常情况下，go build命令会经过六个主要步骤：源码分析、类型检查、语义分析、编译优化、代码生成和链接，来编译一个 Go 应用程序。
 - Abstract syntax tree https://en.wikipedia.org/wiki/Abstract_syntax_tree
 - 编译原理实战课 https://time.geekbang.org/column/intro/100052801
   - Go语言编译器 https://time.geekbang.org/column/article/266379

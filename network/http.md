@@ -38,6 +38,10 @@ HTTP3
 - HTTP From Scratch https://kmcd.dev/series/http-from-scratch/
 
 
+## HTTP Streaming
+- 什么是 HTTP 实时流式传输？| HLS 流式传输 https://www.cloudflare.com/zh-cn/learning/video/what-is-http-live-streaming/
+
+
 ## Content-Type
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
 - https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types
