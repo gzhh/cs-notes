@@ -32,7 +32,8 @@
 ### 缓存击穿
 解决方案
 - [singleflight](https://pkg.go.dev/golang.org/x/sync/singleflight)
-- [singleflight usage](https://www.liwenzhou.com/posts/Go/singleflight/)
+  - singleflight 使用 https://www.liwenzhou.com/posts/Go/singleflight/
+  - Go 并发控制：singleflight 详解 https://mp.weixin.qq.com/s/3BJObWvlzsetMHb7cSR8jg
 - Go并发编程 —— I/O聚合优化（动画讲解）https://mp.weixin.qq.com/s/DBjO5jKnQHy0m2gIWVdgdw
 
 ### 缓存穿透

@@ -10,6 +10,7 @@ in-memory cache (single-machine applications)
   - https://github.com/dgraph-io/ristretto
   - https://dgraph.io/blog/post/introducing-ristretto-high-perf-go-cache/
 - https://github.com/eko/gocache
+- https://github.com/coocood/freecache
 - https://github.com/allegro/bigcache
 - https://github.com/patrickmn/go-cache
 - https://github.com/muesli/cache2go

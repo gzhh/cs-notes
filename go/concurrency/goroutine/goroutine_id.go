@@ -9,6 +9,7 @@ import (
 )
 
 // 黑魔法：获取 goroutine id
+// https://github.com/petermattis/goid
 func getGid() uint {
 	b := make([]byte, 64)
 	b = b[:runtime.Stack(b, false)]

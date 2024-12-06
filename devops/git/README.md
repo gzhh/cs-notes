@@ -68,18 +68,27 @@ git stash a specific file
 - https://stackoverflow.com/questions/5506339/how-can-i-git-stash-a-specific-file
 
 ## Git commit management
-git reset
-- https://blog.csdn.net/w958796636/article/details/53611133
-- https://blog.csdn.net/qq_33154343/article/details/100524686
-- https://www.jianshu.com/p/491a14d414f6
+merge vs rebase vs cherry-pick
+- git merge rebase cherry-pick分别什么时候用？一文解惑 https://juejin.cn/post/7034793065340796942
+- Git 使用规范流程 https://www.ruanyifeng.com/blog/2015/08/git-use-process.html
 
+git merge
+
+git rebase
+- Git合并那些事——神奇的Rebase https://morningspace.github.io/tech/git-merge-stories-6/ 
 
 git cherry-pick
 - https://git-scm.com/docs/git-cherry-pick
+- https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
 - https://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean
 - https://github.com/airuikun/front-core/issues/5
 - https://www.youtube.com/watch?v=bM4k9nuhv54
 - https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/
+
+git reset
+- https://blog.csdn.net/w958796636/article/details/53611133
+- https://blog.csdn.net/qq_33154343/article/details/100524686
+- https://www.jianshu.com/p/491a14d414f6
 
 
 ## Git conventional

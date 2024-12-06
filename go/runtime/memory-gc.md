@@ -39,3 +39,13 @@ src/runtime 源码
 - https://go.dev/src/runtime/mgcpacer.go
 
 
+GC 优化方向 - 减小 heap
+- Using sync.Pool (for reusing objects instead of initializing every time). Be careful about the implementation, misimplementation causes more harm than benefit.
+- Prefer strings.Builder over + concentration
+- Try to preallocate slices and maps if their size can be known
+- Reduce pointer usage
+- Try to avoid large local variables in a function
+- Observe compiler decisions via go build -gcflag="-m" ./... output. Take a look at inlining optimisations. (related -l flag)
+- Struct data alignment technique, use fieldalignment linter
+- Use the bytedance/sonic instead of the encoding/json library for serialization and deserialization
+

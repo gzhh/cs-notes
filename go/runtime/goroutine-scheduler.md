@@ -7,6 +7,7 @@ CSP
 实现原理
 - Scalable Go Scheduler Design Doc https://golang.org/s/go11sched
 - Scheduler structures https://go.dev/src/runtime/HACKING#Scheduler-structures
+- 理解Go协程调度的本质 https://mp.weixin.qq.com/s/j9OpuIxXRWa9524oacGCzw
 
 src/runtime 源码
 - Goroutine scheduler https://go.dev/src/runtime/proc.go

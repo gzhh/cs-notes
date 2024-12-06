@@ -27,6 +27,7 @@ Books
   - https://book.douban.com/subject/2256069
 - 数据库系统概念 https://book.douban.com/subject/35501216
 - 数据库内核工程师必读论文清单 https://mp.weixin.qq.com/s/GGR4QtWYtLFCpoz3Z2vmQQ
+- Database Internals: Working with IO https://www.scylladb.com/2024/11/25/database-internals-working-with-io/
 
 
 ## 重要概念
@@ -42,6 +43,7 @@ Books
   - 当我谈查询优化器时，我谈些什么 (1)—— IR 设计 https://zhuanlan.zhihu.com/p/680046526
 - SQL Commands | DDL, DQL, DML, DCL and TCL Commands https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
 - 一文探索应运而生的数据库们 https://mp.weixin.qq.com/s/6nOwTieyW9SXvi2tqLtizw
+- 一文读懂分布式存储架构背后的存储引擎原理 https://mp.weixin.qq.com/s/uldHcWyLlCQf5DRaKYTiDw
 
 
 ## 课程

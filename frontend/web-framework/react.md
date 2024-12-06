@@ -16,6 +16,8 @@ Docs
 React JS For Beginners 2023 - Udemy
 - https://www.udemy.com/course/react-for-beginners-2022/
 
+React.js 小书 https://github.com/huzidaha/react-naive-book
+
 ### Open Source App
 - https://github.com/dushixiang/next-terminal
 

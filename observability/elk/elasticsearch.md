@@ -103,6 +103,10 @@ http://localhost:9200/
 
 
 ## GUI 工具
+### elasticvue
+- https://github.com/cars10/elasticvue
+
+
 ### cerebro
 Github
 - https://github.com/lmenezes/cerebro

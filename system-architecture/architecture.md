@@ -9,6 +9,7 @@ Best practice
 - 什么才是真正的架构设计？https://mp.weixin.qq.com/s/7_SU77SKgI-GLyjMZeavsQ
 - 架构师必备底层逻辑：分层架构设计 https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw
 - 异地多活架构设计看这篇就够了 https://mp.weixin.qq.com/s/_P1-w-eMS0R2YR-WCT71gg
+  - 异地多活架构进阶：如何解决写后立即读场景问题？https://mp.weixin.qq.com/s/ymLxvExLhtW1ZqYVPnf3kg
 - 单元化架构在字节跳动的落地实践 https://mp.weixin.qq.com/s/ODogMQ0N6ppNjssRK_uD_A
 - 为什么我的系统慢？“三大分离”架构上了吗？https://mp.weixin.qq.com/s/xjv-_OwkuD5OJ3LERoDQQg
 - 究竟怎么做架构设计？https://mp.weixin.qq.com/s/0NJdnxvdkN16fXHW5byDAg
