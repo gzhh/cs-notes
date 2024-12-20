@@ -17,6 +17,7 @@ Raft
 - 容易理解的Distributed Consensus分布式共识算法 http://kailing.pub/raft/index.html
 - 八分钟了解一致性算法 -- Raft算法 https://mp.weixin.qq.com/s/FFkGKaNpNwJtkpaO5yyYrg
 - 分布式系统的一致性与共识（一）https://zhuanlan.zhihu.com/p/68743917
+- Implementing Raft: Part 0 - Introduction https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
 - Golang implementation of the Raft consensus protocol https://github.com/hashicorp/raft
 
 ### Clock synchronization

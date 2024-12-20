@@ -6,6 +6,7 @@
 ![kubectl命令运行原理](images/kubectl-run-logic.png)
 
 ### kubectl 客户端工具
+- cheatsheet https://pbs.twimg.com/media/GfGHszPaQAAVtMk?format=png&name=4096x4096
 
 安装
 

@@ -22,6 +22,7 @@ Programming Paradigm 编程范式
 - 让研发规范管得住 - 我们为什么在流水线之上又做了研发流程？https://mp.weixin.qq.com/s/YpDCg2NZ57knETmBMXVDNg
 
 腾讯
+- 38件程序员应该知道的事儿 https://mp.weixin.qq.com/s/tz6V7AIBcxQcuwvp_pRgCQ
 - 对抗复杂度的圣杯战争：软件架构究竟该如何设计？https://mp.weixin.qq.com/s/9lWFt-Uv74psPU-PTxUlJA
 - 每天精心Coding 8小时，3个月后你将得到一座……“屎山”？https://mp.weixin.qq.com/s/lEvCiGT9ee0gkD_1sm5T5w
 - 腾讯 13 年，我所总结的Code Review终极大法 https://mp.weixin.qq.com/s/HoFSNCd1U3eoUqYaQiEgwQ

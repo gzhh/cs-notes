@@ -25,6 +25,7 @@ MySQL 服务器管理
 备份和恢复
 - 备份和恢复类型：https://dev.mysql.com/doc/refman/8.0/en/backup-types.html
 - mysqldump 使用：https://dev.mysql.com/doc/refman/8.0/en/using-mysqldump.html
+- 防灾设计：https://mp.weixin.qq.com/s/ZLHbfFAbR78JE3qBXXZkqw
 
 优化相关
 - https://dev.mysql.com/doc/refman/8.0/en/optimization.html

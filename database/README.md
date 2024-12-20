@@ -65,6 +65,7 @@ LSM Tree
 - LSM 算法的原理是什么？https://www.zhihu.com/question/19887265
 - 深入理解什么是LSM-Tree https://mp.weixin.qq.com/s/UqpnHs7g5XZcQWDRXiyKyQ
 - LSM 日志结构合并树 https://juejin.cn/post/6931342483788070920
+- 从0到1构建一个db https://qiankunli.github.io/2024/12/07/db_01.html
 
 B-Tree vs LSM-Tree
 - https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/

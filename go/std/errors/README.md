@@ -65,6 +65,8 @@ Are all runtime errors recoverable in Go?
 - https://stackoverflow.com/questions/57486620/are-all-runtime-errors-recoverable-in-go
 
 ### Best Practice
+- Errors, Errors Everywhere: How We Centralized and Structured Error Handling https://olivernguyen.io/w/namespace.error/
+
 注意点：
 - 检查错误的类型
 - 检查错误的值

@@ -14,6 +14,7 @@
   - 上 http://zhangtielei.com/posts/blog-redlock-reasoning.html
   - 下 http://zhangtielei.com/posts/blog-redlock-reasoning-part2.html
 - 面试官：你真的了解Redis分布式锁吗？https://www.cnblogs.com/yeya/p/14274948.html
+- 如何1分钟实现一个分布式锁？https://mp.weixin.qq.com/s/BJ-8czCQLVgeSrIVr4JuIQ
 
 
 ## Third Lib

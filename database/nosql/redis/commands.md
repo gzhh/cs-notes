@@ -1,4 +1,5 @@
 # Redis commands
+- Redis是如何建立连接和处理命令的 https://mp.weixin.qq.com/s/FuroHE04BMpwbY0w9Pyfgw
 
 ## 单线程为什么执行命令这么快
 
