@@ -105,6 +105,7 @@ Mock 框架
 ### go test -cover 测试覆盖率
 - https://go.dev/blog/cover
 - https://go.dev/blog/integration-test-coverage
+- https://github.com/qiniu/goc
 
 当前目录及其子目录的测试覆盖率
 - `go test -cover ./...`

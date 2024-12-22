@@ -59,6 +59,7 @@ B-Tree
 - https://btree.app
 - https://bplustree.app
 - B-trees and database indexes https://planetscale.com/blog/btrees-and-database-indexes
+- https://github.com/google/btree
 
 LSM Tree
 - https://en.wikipedia.org/wiki/Log-structured_merge-tree

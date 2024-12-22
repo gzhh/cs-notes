@@ -7,6 +7,11 @@
 ### connection reset by peer
 - What does "connection reset by peer" mean? https://stackoverflow.com/questions/1434451/what-does-connection-reset-by-peer-mean
 
+可能原因
+- 1.timeout 超时了，http 连接被关闭
+
+
+
 ### 惊群问题
 - https://zh.wikipedia.org/wiki/惊群问题
 - https://www.cnblogs.com/paul-617/p/15690810.html

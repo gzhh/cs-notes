@@ -23,13 +23,24 @@ Docs
 Best Practice
 - 谷歌开源、高性能RPC框架：gRPC 使用体验 https://mp.weixin.qq.com/s/6XXJfbnIaKzSFtXyDDB72g
 - 深入浅出 gRPC https://time.geekbang.org/column/intro/100005601
+- gRPC 教程 https://www.liwenzhou.com/posts/Go/gRPC/
 - Blog https://grpc.io/blog/
 - Awesome gRPC
   - https://github.com/grpc-ecosystem/awesome-grpc
 - JetBrains Guide - Go
+  - https://github.com/heraldofsolace/go-grpc-demo
   - https://www.jetbrains.com/guide/go/tutorials/grpc_part_one/
   - https://www.jetbrains.com/guide/go/tutorials/grpc_part_two/
   - https://www.jetbrains.com/guide/go/tutorials/grpc_part_three/
+- gPRC Stream 最佳实践
+  - https://grpc.io/docs/languages/go/basics/
+    - Server-side streaming RPC
+    - Client-side streaming RPC
+    - Bidirectional streaming RPC
+  - gRPC Streaming https://eddycjy.com/posts/go/grpc/2018-09-24-stream-client-server/
+  - gRPC流式示例 https://www.liwenzhou.com/posts/Go/gRPC/#c-0-5-7
+  - gRPC(Go)教程(三)---Stream 推送流 https://www.lixueduan.com/posts/grpc/03-stream/
+  - go: 如何正确使用grpc stream https://www.superpig.win/blog/details/tppdvipf
 
 Name Resolution
 - https://grpc.io/docs/guides/custom-name-resolution/
