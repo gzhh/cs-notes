@@ -34,6 +34,8 @@ MySQL 服务器管理
 实现细节
 - 语言结构：https://dev.mysql.com/doc/refman/8.0/en/language-structure.html
 - 字符集：https://dev.mysql.com/doc/refman/8.0/en/charset.html
+  - https://dev.mysql.com/doc/refman/8.0/en/charset-mysql.html
+  - Collation：https://mp.weixin.qq.com/s/j8PxIA1zweoXb1CvNl-HAw
 - 数据类型：https://dev.mysql.com/doc/refman/8.0/en/data-types.html
 - 函数和操作符：https://dev.mysql.com/doc/refman/8.0/en/functions.html
 

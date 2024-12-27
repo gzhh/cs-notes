@@ -21,6 +21,13 @@ Go extension for VS Code
 - https://go.dev/blog/vscode-go
 - https://go.dev/blog/gopls-vscode-go
 
+配置
+- 安装 vscode go 官方扩展
+- 安装必要的工具
+  - 按 Ctrl+Shift+P (Windows/Linux) 或 Cmd+Shift+P (Mac)
+  - 输入 Go: Install/Update Tools
+  - 选择所有工具并安装，特别确保选中 gopls
+
 
 ### Usage
 How to switch between terminals in Visual Studio Code?
@@ -90,7 +97,7 @@ cmd + t
 
 `alt + f12` peek 定义处
 
-`shift + f12` 展示相关
+`shift + f12` 展示相关引用
 
 2. tab 切换和窗口切换
 
@@ -103,6 +110,8 @@ cmd + t
 `ctrl + shift + `` 新建终端窗口
 
 3. 其他
+
+F2 修改定义
 
 Ctrl + Shift + L	选择当前选择的所有出现 Select all occurrences of current selection
 
