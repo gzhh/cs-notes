@@ -1,10 +1,6 @@
 # JavaScript
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
-TypeScript
-- https://github.com/microsoft/TypeScript
-- https://www.typescriptlang.org
-
 Docs
 
 

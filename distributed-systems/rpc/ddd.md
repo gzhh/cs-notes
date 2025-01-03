@@ -16,6 +16,7 @@ Best Practice
 - 这些年背过的面试题——领域模型落地篇 https://mp.weixin.qq.com/s/8i3D-ppX5lYxpLO34L2eVw
 - 账号多租户架构升级与落地实践 https://mp.weixin.qq.com/s/7I6q07wVNMJ6UhFWzmKN_g
 - 一文详谈领域驱动设计实践 https://mp.weixin.qq.com/s/brbK62nty2cWBmjitvfgPQ
+- 八年实战经验，解读DDD思想内核 https://mp.weixin.qq.com/s/JQXeVpZ78tw5VfR1tdsAvA
 
 
 ## DDD Examples

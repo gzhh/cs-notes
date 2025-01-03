@@ -21,6 +21,7 @@ tailwindcss
 shadcn/ui
 - https://github.com/shadcn-ui/ui
 - https://ui.shadcn.com
+- Shadcn Theme Generator https://ipalettes.com/theme/shadcn
 
 ## Library
 
