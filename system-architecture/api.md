@@ -1,5 +1,8 @@
 # API 设计
 
+Best Practice
+- 这才叫 API 接口开发！https://mp.weixin.qq.com/s/gTr7AgLyVbag-S0m5FgnlQ
+
 ## 标准
 OpenAPI
 - https://www.openapis.org

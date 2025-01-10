@@ -3,6 +3,10 @@
 - https://pkg.go.dev/sync#Mutex
 - https://go.dev/src/sync/mutex.go
 
+Best Practice
+- 多线程读写锁产生死锁的故障解决方案 https://mp.weixin.qq.com/s/m6JPAkwUdNivsOGft-lR8w
+
+
 ### 临界区
 在并发编程中，如果程序中的一部分会被并发访问或修改，那么为了避免并发访问导致的意想不到的结果，这部分程序需要被保护起来，这部分被保护起来的程序，就叫做临界区。
 

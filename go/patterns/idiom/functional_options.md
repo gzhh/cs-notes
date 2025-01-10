@@ -8,3 +8,4 @@
 - https://www.liwenzhou.com/posts/Go/functional-options-pattern/
 - https://golang.cafe/blog/golang-functional-options-pattern.html
 - https://zhuanlan.zhihu.com/p/436468481
+- https://www.bytesizego.com/blog/10-years-functional-options-golang

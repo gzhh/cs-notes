@@ -51,6 +51,7 @@ Kubernetes Package Manager
 - https://github.com/helm/helm
 - https://helm.sh/
 - https://helm.sh/docs/intro/using_helm/
+- https://k8s-tutorials.pages.dev/helm.html
 
 Kubernetes Client
 - client-go - Go client for Kubernetes. https://github.com/kubernetes/client-go

@@ -2,6 +2,7 @@
 
 
 ## 高并发、高性能、高可用
+- 万字详解高可用架构设计 https://mp.weixin.qq.com/s/kRfZQMaUjAyO46sL8_L1Dg
 - 高并发的哲学原理 https://pphc.lvwenhan.com
 - 如何设计一个高并发系统 https://juejin.cn/post/7185736156573597756
 - 服务端开发必备：9大性能优化秘技 https://mp.weixin.qq.com/s/VQzmg31MkZbUJVnNfqXKkQ
