@@ -1,6 +1,7 @@
 # Distributed systems
 - Distributed computing https://en.wikipedia.org/wiki/Distributed_computing
 - What is a distributed system? https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
+- 分布式架构知识体系 https://mp.weixin.qq.com/s/pQqSzMuF_H_5OZsYKvRiuA
 
 
 ## Theory

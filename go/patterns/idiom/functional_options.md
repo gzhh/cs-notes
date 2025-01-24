@@ -3,9 +3,12 @@
 
 在 Go 中可以很好的代替 [生成器模式](https://zh.wikipedia.org/wiki/生成器模式)
 
+使用场景
+- 1.可选配置参数 (参考demo2)
+
 ### 参考
+- https://www.bytesizego.com/blog/10-years-functional-options-golang
 - https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md
 - https://www.liwenzhou.com/posts/Go/functional-options-pattern/
 - https://golang.cafe/blog/golang-functional-options-pattern.html
 - https://zhuanlan.zhihu.com/p/436468481
-- https://www.bytesizego.com/blog/10-years-functional-options-golang

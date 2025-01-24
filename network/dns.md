@@ -8,3 +8,12 @@ Tool
 DNS Lessons
 - Create a DNS Resolver with Golang https://domenicoluciani.com/2024/05/07/create-dns-resolver.html
 - Linux 智能DNS https://www.imooc.com/learn/768
+
+
+## DDNS 动态DNS
+- https://en.wikipedia.org/wiki/Dynamic_DNS
+- https://aws.amazon.com/cn/what-is/dynamic-dns/
+- https://www.cloudflare.com/zh-cn/learning/dns/glossary/dynamic-dns/
+
+Tool
+- https://github.com/jeessy2/ddns-go

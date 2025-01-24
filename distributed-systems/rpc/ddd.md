@@ -17,6 +17,7 @@ Best Practice
 - 账号多租户架构升级与落地实践 https://mp.weixin.qq.com/s/7I6q07wVNMJ6UhFWzmKN_g
 - 一文详谈领域驱动设计实践 https://mp.weixin.qq.com/s/brbK62nty2cWBmjitvfgPQ
 - 八年实战经验，解读DDD思想内核 https://mp.weixin.qq.com/s/JQXeVpZ78tw5VfR1tdsAvA
+- 5分钟迅速掌握领域驱动设计的40个关键概念 https://mp.weixin.qq.com/s/nd9YRQxniGGlzfolDVKmyg
 
 
 ## DDD Examples

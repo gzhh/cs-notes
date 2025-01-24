@@ -29,6 +29,7 @@ Programming Paradigm 编程范式
 - 鹅厂练习13年Coding后，我悟了 https://mp.weixin.qq.com/s/ZQ-ZN_oUm9TPlc7ZHkEY7Q
 - 腾讯工作13年之所思所想，那些优秀程序员的共性特征 https://mp.weixin.qq.com/s/XwcmvBbEFfpYUe-GL5FV-A
 - 欠一屁股技术债仍保住工作其实也并非完全不可能 https://mp.weixin.qq.com/s/DP49bnX_1_DebDNtuaytEw
+- 技术人核心竞争力：超越代码的思考 https://mp.weixin.qq.com/s/l3ugdo3rou9B7gHl1zmNhw
 
 ### Code Review
 ![the-code-review-pyramid.webp](images/the-code-review-pyramid.webp)

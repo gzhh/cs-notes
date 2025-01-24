@@ -1,6 +1,7 @@
 ## 断路器
 
-
+Best Pratice
+- Writing a circuit breaker in Go https://rednafi.com/go/circuit_breaker/
 
 ### 参考
 - Designing a distributed circuit breaker for disabling webhook endpoints in Golang https://getconvoy.io/blog/circuit-breaker-in-golang

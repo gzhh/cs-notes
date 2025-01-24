@@ -61,6 +61,8 @@ Golang的log.Fatal()和panic()函数的区别
 
 Recover is a built-in function that regains control of a panicking goroutine.
 
+在 Go 语言中，recover() 只能在 defer 函数中直接调用，并且只能捕获当前 goroutine 中的 panic。
+
 Are all runtime errors recoverable in Go?
 - https://stackoverflow.com/questions/57486620/are-all-runtime-errors-recoverable-in-go
 

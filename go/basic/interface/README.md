@@ -139,6 +139,7 @@ Ref
 - https://davidchan0519.github.io/2019/05/07/go-interface-implement/
 - https://pkg.go.dev/reflect#example-TypeOf
 - https://gfw.go101.org/article/reflection.html
+- Go Interfaces: Why, How and When https://nyadgar.com/posts/go-interfaces-why-how-and-when/
 
 ## Ref
 - https://github.com/golang/go/blob/go1.18/src/runtime/runtime2.go

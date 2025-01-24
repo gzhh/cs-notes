@@ -23,6 +23,13 @@ Usage
 - https://juejin.cn/post/6844904014505574408
 
 ### 快捷键
+复制模式
+- 进入复制模式：command + shift + c
+- 移动光标：vim 的 h/j/k/l 
+- 选中内容：space 空格键
+- 复制内容：command + c
+- 退出复制模式：esc
+
 标签
 - 新建标签：command + t
 - 关闭标签：command + w
@@ -36,9 +43,7 @@ Usage
 - 切换屏幕：command + option + 方向键 或者 command + `[` `]`
 - 查看历史命令：command + ;
 - 查看剪贴板历史：command + shift + h
-
-
-
+- 向上向下滚动一行：command + Up / Down
 
 命令
 - 查看剪贴板历史：command + shift + h
@@ -63,6 +68,8 @@ Usage
 
 
 ### 其他快捷键
+
+展示命令时间：command + shift + e
 
 清除当前行：ctrl + u
 

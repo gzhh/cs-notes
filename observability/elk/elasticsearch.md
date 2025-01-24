@@ -10,7 +10,7 @@
 ## 基本概念
 - 浅谈Elasticsearch的入门与实践 https://mp.weixin.qq.com/s/wlh2AHpNLrz9dHxPw9UrkQ
 
-### 索引
+### 索引 Index
 - Full text queries https://www.elastic.co/guide/en/elasticsearch/reference/current/full-text-queries.html
 
 - 正向索引
@@ -22,6 +22,13 @@
     词汇 → 在文档中的位置
     
     解释：被用来存储在全文搜索下某个单词在一个文档或者一组文档中的存储位置的映射。它是文档检索系统中最常用的数据结构。
+
+### 索引模版 Index Template
+- https://pdai.tech/md/db/nosql-es/elasticsearch-x-index-template.html
+
+概念：
+- 1.当更新模版后，不作用老的索引，只作用新的
+
 
 ## 最佳实践
 ### 查询
