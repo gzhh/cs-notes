@@ -24,7 +24,6 @@
 - https://etcd.io
 - https://etcd.io/docs/v3.5/learning/
 - https://github.com/evildecay/etcdkeeper
-- https://github.com/kelseyhightower/confd
 
 最佳实践
 - go操作etcd https://www.liwenzhou.com/posts/Go/etcd/

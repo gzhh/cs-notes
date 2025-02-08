@@ -29,6 +29,7 @@ Version control
 
 ## Git tutorial
 - https://www.atlassian.com/git/tutorials
+- Beej's Guide to Git https://beej.us/guide/bggit/html/split/index.html
 - https://backlog.com/git-tutorial/cn/
 - https://www.liaoxuefeng.com/wiki/896043488029600
 

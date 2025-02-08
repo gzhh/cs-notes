@@ -1,16 +1,14 @@
 # Clickhouse
+- https://clickhouse.com/docs/en/
 
-### 文档
+概念
+- 列式存储数据库 OLAP https://www.jianshu.com/p/a5bf490247ea
 
-[https://clickhouse.com/docs/en/](https://clickhouse.com/docs/en/)
 
-### 总结
+## Best Practice
 
-列式存储数据库 OLAP
 
-[https://www.jianshu.com/p/a5bf490247ea](https://www.jianshu.com/p/a5bf490247ea)
-
-### 常见操作
+## 常见操作
 
 1. 按 partition 删除iiiii
     

@@ -10,6 +10,7 @@
 - 关于“高性能、高并发、高可用”的问题解决方案 https://zhuanlan.zhihu.com/p/375847349
 - 程序员们的三高：高并发、高性能、高可用 https://juejin.cn/post/6844903944955625479
 - 架构师必备10大接口性能优化秘技，条条经典！https://mp.weixin.qq.com/s/CQ-ePndjTSqCZ9l6YdwUUA
+- 高并发编程知识体系 https://mp.weixin.qq.com/s/LomMztIlXCUASWi0nEsXvA
 
 
 ### 高可用

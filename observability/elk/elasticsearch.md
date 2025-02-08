@@ -49,6 +49,7 @@
   - 解锁滴滴ES的性能潜力：JDK 17和ZGC的升级之路 https://mp.weixin.qq.com/s/PNTP_S65pniYV9RWhtowOw
   - 如何让ES低成本、高性能？滴滴落地ZSTD压缩算法的实践分享 https://mp.weixin.qq.com/s/nxDrq6b-QY5oJ6WDNYAFAA
   - Elasticsearch 在滴滴的应用与实践 https://mp.weixin.qq.com/s/nIYbtjzraQ9s-Lni24x42g
+- 基于 Elasticsearch 的订单检索加速最佳实践 https://bp.aliyun.com/detail/216
 
 
 ### Go client
