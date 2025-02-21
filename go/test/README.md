@@ -2,6 +2,9 @@
 
 docs
 - https://pkg.go.dev/testing
+  - synctest
+    - https://pkg.go.dev/testing/synctest
+    - https://go.dev/blog/synctest
 - https://go.dev/doc/tutorial/add-a-test
 - https://gobyexample.com/testing
 

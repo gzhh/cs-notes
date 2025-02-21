@@ -5,6 +5,8 @@
 - https://github.com/prometheus/prometheus
 - https://prometheus.io
 - https://prometheus.io/docs/introduction/overview/
+- https://prometheus.io/docs/guides/node-exporter/
+- https://prometheus.io/docs/guides/go-application/
 
 Best Practice
 - https://yunlzheng.gitbook.io/prometheus-book
@@ -19,8 +21,10 @@ Best Practice
 - 李文周
   - Prometheus 介绍 https://www.liwenzhou.com/posts/Go/prometheus/
   - [译]查询 Prometheus https://www.liwenzhou.com/posts/Go/query-prometheus/
+- Go工程化实践：基于Prometheus和Grafana的监控系统 https://zhuanlan.zhihu.com/p/610121522
 
 Third Lib
+- https://github.com/prometheus/node_exporter
 - https://github.com/prometheus/client_golang
 - https://github.com/samber/awesome-prometheus-alerts
 - https://github.com/prometheus/alertmanager

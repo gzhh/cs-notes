@@ -9,6 +9,7 @@ Docs
   - https://grpc.io/docs/what-is-grpc/
   - https://grpc.io/docs/what-is-grpc/introduction/
   - https://grpc.io/docs/what-is-grpc/core-concepts/
+  - RPC life cycle https://grpc.io/docs/what-is-grpc/core-concepts/#rpc-life-cycle
   - https://github.com/grpc/grpc/blob/master/CONCEPTS.md
   - https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md
 - Lnaguages
@@ -41,6 +42,23 @@ Best Practice
   - gRPC流式示例 https://www.liwenzhou.com/posts/Go/gRPC/#c-0-5-7
   - gRPC(Go)教程(三)---Stream 推送流 https://www.lixueduan.com/posts/grpc/03-stream/
   - go: 如何正确使用grpc stream https://www.superpig.win/blog/details/tppdvipf
+
+
+## 关键特性
+- 基于 HTTP2
+  - 支持更高效的流控制、数据分片、头部压缩等特性
+- 跨语言支持
+- 使用 Protobuf 作为接口定义语言和消息传输格式，二进制协议
+- 多种通信模式
+  - Unary RPC
+  - Server streaming RPC
+  - Client streaming RPC
+  - Bidirectional streaming RPC
+- 超时和取消
+- 强大的工具和生态系统
+  - 性能分析工具、错误追踪、调试
+- 内置身份验证、错误处理
+- 支持服务发现、负载均衡
 
 Name Resolution
 - https://grpc.io/docs/guides/custom-name-resolution/
