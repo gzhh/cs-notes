@@ -6,6 +6,7 @@ Lib
   - https://github.com/golang/protobuf（旧）
     - https://pkg.go.dev/github.com/golang/protobuf
   - https://github.com/gogo/protobuf（Third Party）
+  - https://github.com/jhump/protoreflect (Third Party)
 
 Sub Lib
 - https://pkg.go.dev/google.golang.org/protobuf/encoding

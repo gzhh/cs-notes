@@ -3,6 +3,17 @@
 - https://github.com/grpc
 - https://github.com/grpc/grpc
 
+Why gRPC
+- gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment.
+- It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication.
+- It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.
+
+Advantage
+- Simple service definition: Define your service using Protocol Buffers
+- Start quickly and scale: dev & deply
+- Works across languages and platforms
+- Bi-directional streaming and integrated
+
 Docs
 - https://grpc.io/docs/
 - Concepts
@@ -16,7 +27,7 @@ Docs
   - https://grpc.io/docs/languages/
   - https://grpc.io/docs/languages/go/
   - https://grpc.io/docs/languages/go/quickstart/
-  - https://grpc.io/docs/languages/go/basics/
+  - gRPC 完整特性 demo 示例 https://grpc.io/docs/languages/go/basics/
 - Guides
   - https://grpc.io/docs/guides/
   - https://grpc.io/docs/guides/auth/
