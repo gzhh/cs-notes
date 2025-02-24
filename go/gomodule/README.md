@@ -1,5 +1,10 @@
 # Go Modules
 
+## Tool dependencies
+1.24 tool dependencies
+- https://go.dev/doc/modules/managing-dependencies#tools
+- https://www.alexedwards.net/blog/how-to-manage-tool-dependencies-in-go-1.24-plus
+
 
 ## 实用命令
 remove the entire module download cache

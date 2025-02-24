@@ -10,6 +10,9 @@
 ## 原理
 源码
 - https://go.dev/src/runtime/map.go
+- Go 1.24 - a new builtin map implementation based on Swiss Tables
+  - more efficient memory allocation of small objects, and a new runtime-internal mutex implementation.
+  - https://abseil.io/about/design/swisstables
 
 深入理解
 - 解剖Go语言map底层实现 https://i6448038.github.io/2018/08/26/map-secret/

@@ -2,6 +2,9 @@
 - define methods on types
 - a method is just a function with a receiver argument.
 
+## 函数式编程
+- iter.Seq in practice https://blog.vertigrated.com/iterseq-in-practice
+
 ## 函数传参
 - https://go.dev/doc/faq#pass_by_value
 

@@ -140,6 +140,7 @@ Third Party
   - Go语言之禅 https://mp.weixin.qq.com/s/mKe0w3urHJEe9iYJ7svCuA
 - Go 语言实战: 编写可维护 Go 语言代码建议 https://github.com/llitfkitfk/go-best-practice
 - TOP 20 Go最佳实践 https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/
+- Zero-Allocation in Go https://dev.to/saleh_rahimzadeh/zero-allocation-in-go-golang-237k
 - 腾讯
   - Golang 编程思维和工程实战 https://mp.weixin.qq.com/s/llmE9QpnrvA02AtvfHtqJQ
   - Go 语言中各式各样的优化手段 https://zhuanlan.zhihu.com/p/403417640

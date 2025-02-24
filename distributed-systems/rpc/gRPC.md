@@ -22,6 +22,8 @@ Docs
   - https://grpc.io/docs/guides/auth/
 
 Best Practice
+- 部署
+  - Scaling gRPC With Kubernetes (Using Go) https://nyadgar.com/posts/scaling-grpc-with-kubernetes-using-go/
 - 谷歌开源、高性能RPC框架：gRPC 使用体验 https://mp.weixin.qq.com/s/6XXJfbnIaKzSFtXyDDB72g
 - 深入浅出 gRPC https://time.geekbang.org/column/intro/100005601
 - gRPC 教程 https://www.liwenzhou.com/posts/Go/gRPC/
