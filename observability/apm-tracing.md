@@ -44,6 +44,7 @@ Best Practice
   - GORM配置链路追踪 https://www.liwenzhou.com/posts/Go/gorm-otel/
   - go-redis配置链路追踪 https://www.liwenzhou.com/posts/Go/redis-otel/
   - zap日志库配置链路追踪 https://www.liwenzhou.com/posts/Go/zap-otel/
+- OpenTelemetry: A Guide to Observability with Go https://www.lucavall.in/blog/opentelemetry-a-guide-to-observability-with-go
 - OTel 数据库查询分析：开发者的性能优化神器 https://mp.weixin.qq.com/s/RJxSx2ICEw2OJrD5q6SnDg
 - Practical Tracing for Go Apps with OpenTelemetry (Beginner's Guide) https://betterstack.com/community/guides/observability/opentelemetry-go/
 

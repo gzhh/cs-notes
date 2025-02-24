@@ -10,6 +10,9 @@ Docs
 
 Best Practice
 - https://jimmysong.io/book/kubernetes-handbook/
+- Kubernetes 学习笔记 https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1394839706508148737
+  - https://github.com/kevinyan815/LearningKubernetes
+  - https://github.com/kevinyan815/kevinyan815/blob/master/portfolio/k8s/README.md
 
 Courses 
 - Kubernetes Crash Course for Absolute Beginners https://www.youtube.com/watch?v=s_o8dwzRlu4
