@@ -160,6 +160,7 @@ Style
 - The Uber Go Style Guide https://github.com/uber-go/guide
   - https://github.com/uber-go/guide/blob/master/style.md
 - The Ultimate Go Study Guide https://github.com/hoanhan101/ultimate-go
+- Idiomatic Go https://dmitri.shuralyov.com/idiomatic-go
 
 Lint
 - golangci-lint https://github.com/golangci/golangci-lint

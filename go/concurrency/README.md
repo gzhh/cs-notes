@@ -20,6 +20,7 @@ Actor model
 - Golang异步编程方式和技巧 https://mp.weixin.qq.com/s/PuNu65ggHyB6jxRqhbN_VQ
 - 一个例子，给你讲透典型的Go并发控制 https://mp.weixin.qq.com/s/qxs6ikRy_Km5JlJesYmH4w
 - 20种不同并发模型示例，带你深入理解并发模型 https://mp.weixin.qq.com/s/aTYie9PHcoXRYYmmIGaOXA
+- Goroutines in Go: A Practical Guide to Concurrency https://getstream.io/blog/goroutines-go-concurrency-guide/
 
 ### Concurrent Servers
 - https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
