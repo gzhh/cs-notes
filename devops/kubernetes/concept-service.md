@@ -113,6 +113,7 @@ spec:
 - 课程实录 | Ingress Controller 的工作原理（上）https://mp.weixin.qq.com/s/VN-CfvRza3k1IHVxvoUwtg
 - Ingress Controller 的工作原理 | K8s Ingress Controller 技术细节探讨 —— 陶辉 https://www.bilibili.com/video/BV1r64y1m72f
 - https://github.com/projectcontour/contour
+- nginx 官方实现 https://github.com/nginx/kubernetes-ingress
 
 Ingress 介绍
 

@@ -1,9 +1,19 @@
 # Nginx 
 - https://nginx.org
 
+Tool
+- NGINX configuration generator
+  - https://github.com/digitalocean/nginxconfig.io
+  - https://www.digitalocean.com/community/tools/nginx
+- Nginx Proxy Manager
+  - https://github.com/NginxProxyManager/nginx-proxy-manager
+  - https://nginxproxymanager.com
+- nginx-proxy
+  - https://github.com/nginx-proxy/nginx-proxy
+
+
 Best Practice
-- https://github.com/NginxProxyManager/nginx-proxy-manager
-- https://nginxproxymanager.com
+- Nginx开发从入门到精通 https://github.com/taobao/nginx-book
 
 
 ## 原理
