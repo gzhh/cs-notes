@@ -30,6 +30,7 @@ vet 工具变量覆盖检查
 
 ### DevOps tools
 - UPX https://github.com/upx/upx
+- psutil for golang https://github.com/shirou/gopsutil
 
 ### Service tools
 - Php2Golang https://www.php2golang.com

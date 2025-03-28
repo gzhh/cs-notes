@@ -172,3 +172,5 @@ WebSocket
 - [System Design Interview](https://book.douban.com/subject/35246417/)
 - [轮询、长轮询、Websocket 的区别](https://www.cnblogs.com/huchong/p/8595644.html)
 - [WebSockets vs Long Polling](https://dev.to/kevburnsjr/websockets-vs-long-polling-3a0o)
+- 微博网页端通过轮询收发消息，凭什么没有延时 https://mp.weixin.qq.com/s/-iVrf899zOjw0o2J2NEwgg
+- 我们绝不存储用户聊天记录 https://mp.weixin.qq.com/s/Q-M86pLlav8TjfbryAchnA
