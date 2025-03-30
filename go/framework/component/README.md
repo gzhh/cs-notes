@@ -11,6 +11,7 @@
 - https://pkg.go.dev/log/slog
   - https://go.dev/blog/slog
   - https://go.dev/wiki/Resources-for-slog
+  - A Guide to Writing slog Handlers https://github.com/golang/example/blob/master/slog-handler-guide/README.md
   - slog 终极指南 https://colobu.com/2024/03/10/slog-the-ultimate-guide/
   - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
   - 万字解析 Go 官方结构体化日志包 slog https://mp.weixin.qq.com/s/54SOne_qEOO49QffF59EGQ

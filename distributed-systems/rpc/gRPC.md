@@ -16,6 +16,11 @@ Advantage
 
 Docs
 - https://grpc.io/docs/
+- Technical Docs
+  - https://github.com/grpc/grpc/tree/master/doc
+  - https://github.com/grpc/grpc/blob/master/doc/statuscodes.md
+  - https://github.com/grpc/grpc/blob/master/doc/http-grpc-status-mapping.md
+  -
 - Concepts
   - https://grpc.io/docs/what-is-grpc/
   - https://grpc.io/docs/what-is-grpc/introduction/

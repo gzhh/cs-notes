@@ -61,3 +61,7 @@ URL 短链服务
 ## 参考
 - [System Design Interview](https://book.douban.com/subject/35246417/)
 - Base62: https://en.wikipedia.org/wiki/Base62
+- 最佳实践
+  - https://github.com/dubinc/dub
+  - https://github.com/ccbikai/Sink
+  - https://github.com/yourselfhosted/slash
