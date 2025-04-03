@@ -8,6 +8,7 @@
 
 Best Practice
 - MySQL能不能双主？有没有一致性问题？https://mp.weixin.qq.com/s/YyesQbZzPqG2QuwFPgZIKw
+- MySQL主从，一定会不一致！https://mp.weixin.qq.com/s/14tbZtdJOldxLyd68dbMjw
 
 
 ### Docker MySQL master-slave replication

@@ -106,6 +106,7 @@ B-Tree vs LSM-Tree
 - 数据库第一二三范式到底在说什么？https://zhuanlan.zhihu.com/p/20028672
 - 如何理解关系型数据库的常见设计范式？https://www.zhihu.com/question/24696366
 - MySQL数据库设计三大范式 https://cloud.tencent.com/developer/article/1753218
+  - 为什么不按照教材上的3NF来设计数据库？https://mp.weixin.qq.com/s/-sfcJ3i5j12KdSvPPyaVUg
 
 
 ### MySQL
