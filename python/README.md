@@ -58,3 +58,9 @@ Example
 Ref
 - https://stackoverflow.com/questions/5226311/installing-specific-package-version-with-pip
 
+
+## uv (Python version and package management)
+- https://github.com/astral-sh/uv
+
+Best Practice
+- https://www.bilibili.com/video/BV1Stwfe1E7s
