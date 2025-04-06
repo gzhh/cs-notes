@@ -54,6 +54,9 @@ ClashX Pro
     - kubectl-autocomplete
 - vim
   - nvim
+- Nvm & Node
+- pyenv & python
+  - pip3 install pynvim（Neovim 使用 pynvim 包作为 Python3 提供者）
 
 
 ## 开发工具
@@ -62,7 +65,16 @@ ClashX Pro
   - Docker Desktop
 
 
-## 其他软件安装
-- 微信
-- MacTex 的 BasicTex 版本
+## 工作学习工具
+- Raycast
+- MacTeX 的 BasicTex 版本（LaTeX）
 
+
+## 软件安装
+- 微信
+- 网易云
+- Telegram
+- Spotify
+
+
+## 其他软件安装

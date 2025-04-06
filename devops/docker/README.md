@@ -31,6 +31,17 @@ Cheat Sheet
 - https://www.docker.com/products/docker-desktop/
 - https://docs.docker.com/desktop/
 - https://orbstack.dev/
+    ```
+1. 配置国内镜像源 ~/.orbstack/config/docker.json
+{
+  "registry-mirrors" : [
+    "https://docker.m.daocloud.io"
+  ]
+}
+
+2. 配置全局代理 https://docs.orbstack.dev/docker/network#proxies
+orb config set network_proxy socks5://127.0.0.1:7890
+    ```
 - https://github.com/abiosoft/colima
 - image tool
  - A tool for exploring each layer in a docker image https://github.com/wagoodman/dive

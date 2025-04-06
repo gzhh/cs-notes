@@ -65,3 +65,4 @@ URL 短链服务
   - https://github.com/dubinc/dub
   - https://github.com/ccbikai/Sink
   - https://github.com/yourselfhosted/slash
+  - https://github.com/yetone/shorturl

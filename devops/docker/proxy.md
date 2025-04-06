@@ -1,4 +1,6 @@
 ## 镜像仓库&代理
+- DockerHub 国内加速镜像列表 https://github.com/dongyubin/DockerHub
+- https://github.com/DaoCloud/public-image-mirror
 
 ### 配置国内镜像仓库
 Docker 服务安装好后，默认 registry 指向 hub.docker.com

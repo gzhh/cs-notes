@@ -126,6 +126,7 @@ Third Party
   - https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/
 - https://github.com/bxcodec/go-clean-arch
 - https://github.com/evrone/go-clean-template
+- https://github.com/go-kratos/kratos-layout
 - Golang 简洁架构实战 https://mp.weixin.qq.com/s/Xzlt_WcdcfLWhofafY3c6g
 - Golang 整洁架构实践 https://mp.weixin.qq.com/s/I2Fx2TIrwXV2kfLj_T5g5g
 - 11 tips for structuring your Go projects https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects

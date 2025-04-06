@@ -40,7 +40,7 @@ macOS 版 VSCode Code Helper(Plugin) CPU 占用高怎么解决
 
 Mac系统下visual studio code 使用 vim插件 hjkl键不能连续移动光标？
 - https://www.zhihu.com/question/276409909
-
+- https://stackoverflow.com/questions/39972335/how-do-i-press-and-hold-a-key-and-have-it-repeat-in-vscode
 
 ### Usage Notes
 ```
