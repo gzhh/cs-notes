@@ -174,3 +174,4 @@ WebSocket
 - [WebSockets vs Long Polling](https://dev.to/kevburnsjr/websockets-vs-long-polling-3a0o)
 - 微博网页端通过轮询收发消息，凭什么没有延时 https://mp.weixin.qq.com/s/-iVrf899zOjw0o2J2NEwgg
 - 我们绝不存储用户聊天记录 https://mp.weixin.qq.com/s/Q-M86pLlav8TjfbryAchnA
+- 微信：我绝不丢离线消息！https://mp.weixin.qq.com/s/XWUUGN0_atwEp1G1NpIa-g
