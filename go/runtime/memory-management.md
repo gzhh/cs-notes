@@ -20,6 +20,7 @@ Ref
 - Go Memory Model https://blog.laisky.com/p/gmm/?lang=zh
 - Go 内存模型：happens-before 原则 https://eddycjy.com/posts/go/memory-model/
 - 关于 golang 官网一段代码的疑惑 https://v2ex.com/t/1031075
+- 一站式Golang内存管理洗髓经 https://www.yuque.com/aceld/golang/qzyivn#EaWZp
 
 
 Go Race Detector

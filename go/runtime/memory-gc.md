@@ -8,6 +8,7 @@
 实现原理
 - A Guide to the Go Garbage Collector https://go.dev/doc/gc-guide
 - Getting to Go: The Journey of Go's Garbage Collector https://go.dev/blog/ismmkeynote
+- Golang三色标记混合写屏障GC模式全分析 https://www.yuque.com/aceld/golang/zhzanb
 - Why is Go's Garbage Collection so criticized? https://www.reddit.com/r/golang/comments/z1o2oe/why_is_gos_garbage_collection_so_criticized/
 - An overview of memory management in Go https://medium.com/safetycultureengineering/an-overview-of-memory-management-in-go-9a72ec7c76a8
 - Go 语言垃圾收集器的实现原理 | Go 语言设计与实现 https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-garbage-collector/

@@ -22,6 +22,7 @@ Golang实现－《研磨设计模式》
 - https://github.com/senghoo/golang-design-pattern
 - https://github.com/tmrts/go-patterns
 - 一文读懂10种最经典的设计模式 https://mp.weixin.qq.com/s/Vo8IKRZ3RTHclI21x28bSw
+- Easy 搞定 Golang设计模式 https://www.yuque.com/aceld/lfhu8y
 
 
 ## OOP Design Pattern

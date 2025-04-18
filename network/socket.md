@@ -31,12 +31,16 @@ Best Practice
 - IO - 同步，异步，阻塞，非阻塞 （亡羊补牢篇）https://blog.csdn.net/historyasamirror/article/details/5778378
 - 100%弄明白5种IO模型 https://zhuanlan.zhihu.com/p/115912936
 - 五种IO模型 https://blog.csdn.net/ZWE7616175/article/details/80591587
+- Linux五种IO模型和三种多路复用技术大详解 https://mp.weixin.qq.com/s/26BkzSBHUZTVdgPF8IJRMQ
 - Select、poll、Epoll、KQueue区别 https://blog.csdn.net/GJQI12/article/details/105118354
 - 异步网络模型 https://tech.youzan.com/yi-bu-wang-luo-mo-xing/
 - 基于事件驱动的异步编程 https://juejin.cn/post/6844903449130221582
 - 两种高效的服务器设计模型：Reactor和Proactor模型 https://blog.csdn.net/u013074465/article/details/46276967
 - 高性能IO之Reactor模式 https://www.cnblogs.com/doit8791/p/7461479.html
 - 单线程多路复用和多线程加锁的区别 https://segmentfault.com/q/1010000004026316
+- Golang修养之路
+  - 流？I/O操作？阻塞？epoll? https://www.yuque.com/aceld/golang/sdgfgu
+  - Linux网络Server的N种并发模型 https://www.yuque.com/aceld/golang/pup96w
 
 ### 阻塞式IO
 

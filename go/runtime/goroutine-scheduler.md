@@ -14,6 +14,7 @@ src/runtime 源码
 - https://go.dev/src/runtime/runtime2.go
 
 原理总结
+- Golang的协程调度器原理及GMP设计思想 https://www.yuque.com/aceld/golang/srxd6d
 - 详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？https://mp.weixin.qq.com/s/YK-TD3bZGEgqC0j-8U6VkQ
 - g0 特殊的goroutine https://blog.haohtml.com/archives/22353/
 - Go 调度模型 GPM https://segmentfault.com/a/1190000022871460
