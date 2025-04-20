@@ -179,3 +179,4 @@ database 用来记录一些元数据信息
 
 ## 参考
 - [System Design Interview](https://book.douban.com/subject/35246417/)
+- 大文件分块上传 https://zhuanlan.zhihu.com/p/666360928

@@ -14,6 +14,8 @@ blog
 - [Working with Errors in Go 1.13](https://go.dev/blog/go1.13-errors)
 - https://earthly.dev/blog/golang-errors/
 
+Best Practice
+- Golang channel 三大坑 panic/deadlock/oom，你踩过了嘛？https://zhuanlan.zhihu.com/p/532344541
 
 
 ### Error

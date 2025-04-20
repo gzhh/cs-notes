@@ -118,6 +118,9 @@ Mock 框架
 当前目录及其子目录的测试覆盖率
 - `go test -cover ./...`
 
+参考
+- Go建立测试覆盖率 https://zhuanlan.zhihu.com/p/489218988
+
 ### go test -bench
 
 压力测试

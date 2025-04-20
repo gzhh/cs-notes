@@ -16,6 +16,7 @@ Actor model
   - 深入理解Go并发编程 https://book.douban.com/subject/36667173/
 - Concurrency in Go https://book.douban.com/subject/26994591/
   - Concurrency in Go 中文笔记 https://www.kancloud.cn/mutouzhang/go/596804
+- Go并发编程 https://zhuanlan.zhihu.com/p/493208600
 - Go 语言设计与实现 - 6.2 同步原语与锁 https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-sync-primitives/
 - Golang异步编程方式和技巧 https://mp.weixin.qq.com/s/PuNu65ggHyB6jxRqhbN_VQ
 - 一个例子，给你讲透典型的Go并发控制 https://mp.weixin.qq.com/s/qxs6ikRy_Km5JlJesYmH4w

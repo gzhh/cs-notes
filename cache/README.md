@@ -20,6 +20,7 @@
 - go-zero微服务实战系列（六、缓存一致性保证）https://mp.weixin.qq.com/s/422ZHs81y7nN9Sgb_ESsgg
 - 奇怪的缓存一致性问题 https://mp.weixin.qq.com/s/hcmRh493yWJUJTJl0tlZWw
 - 所以延迟双删有啥用 https://www.dtstack.com/bbs/article/9477
+- 缓存一致性的探讨 https://zhuanlan.zhihu.com/p/606249255
 
 缓存策略
 - 缓存更新的四种策略及选取建议 https://www.cnblogs.com/reim/p/17414244.html
@@ -41,6 +42,7 @@
 - [singleflight](https://pkg.go.dev/golang.org/x/sync/singleflight)
   - singleflight 使用 https://www.liwenzhou.com/posts/Go/singleflight/
   - Go 并发控制：singleflight 详解 https://mp.weixin.qq.com/s/3BJObWvlzsetMHb7cSR8jg
+  - 利用singleflight应对缓存击穿 https://zhuanlan.zhihu.com/p/487059758
 - Go并发编程 —— I/O聚合优化（动画讲解）https://mp.weixin.qq.com/s/DBjO5jKnQHy0m2gIWVdgdw
 
 ### 缓存穿透

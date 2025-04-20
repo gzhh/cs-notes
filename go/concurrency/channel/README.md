@@ -31,6 +31,7 @@ Channels are the pipes that connect concurrent goroutines.
 - https://kingjcy.github.io/post/golang/go-channel/
 - 深度解密Go语言之channel https://zhuanlan.zhihu.com/p/74613114
 - 【Golang】channel 数据结构 阻塞、非阻塞操作 多路select https://www.bilibili.com/video/BV1kh411n79h
+- Go channel设计原理 https://zhuanlan.zhihu.com/p/608385243
 
 深入理解 channel 特性
 - https://clavinjune.dev/blog/buffered-vs-unbuffered-channel-in-golang-dc97bf/

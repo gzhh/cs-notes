@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func main() {
+	// 只能捕捉同一个 goroutine 中的 panic
+	// 跨协程异常处理参考：https://taoshu.in/go/goroutine-panic.html
 	defer func() {
 		if r := recover(); r != nil {
 			fmt.Printf("panic error: %v\n", r)
@@ -32,4 +34,13 @@ func testPanic() {
 	// key := m["key"].(string)
 	// value := m["value"].(string)
 	// fmt.Printf("key=%v value=%v\n", key, value)
+
+	// panic: invalid memory address or nil pointer dereference
+	// var p *int
+	// fmt.Println(*p)
+
+	// panic: send on closed channel
+	// ch := make(chan int)
+	// close(ch)
+	// ch <- 1
 }

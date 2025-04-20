@@ -42,6 +42,7 @@ GDB：The GNU Debugger
 - https://www.sourceware.org/gdb/
 - GDB中应该知道的几个调试方法 https://coolshell.cn/articles/3643.html
 - 用GDB调试程序 https://blog.csdn.net/haoel/article/details/2879
+- gdb调试应知应会 https://zhuanlan.zhihu.com/p/573974365
 
 GDB and Go
 - Debugging Go Code with GDB https://go.dev/doc/gdb

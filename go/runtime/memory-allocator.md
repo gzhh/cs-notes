@@ -27,6 +27,7 @@ Memory Allocation
 Go Memory Allocation
 - 图解Go语言内存分配 https://zhuanlan.zhihu.com/p/59125443
 - Memory Allocations https://go101.org/optimizations/0.3-memory-allocations.html
+- Go的内存管理 https://zhuanlan.zhihu.com/p/576056746
 
 
 src/runtime 源码

@@ -85,3 +85,4 @@
 - 网关层 Nginx 限流讨论
   - https://x.com/vikingmute/status/1853606107874464067
   - https://nginx.org/en/docs/http/ngx_http_limit_req_module.html
+- Go工程化实践：基于Redis实现一个分布式限流器 https://zhuanlan.zhihu.com/p/619530958

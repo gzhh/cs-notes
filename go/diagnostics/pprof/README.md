@@ -42,6 +42,7 @@ pprof tool
 - pprof - 在现网场景怎么用 https://www.cnblogs.com/yjf512/p/18120513
 - 从真实事故出发：golang 内存问题排查指北 https://mp.weixin.qq.com/s/HdSIC93HMbqvbQisCr186Q
 - 万字长文讲透Go程序性能优化 (pprof & trace) https://mp.weixin.qq.com/s/wLPfiJ0wKH3DrBJS4yxeHw
+- Go pprof性能分 https://zhuanlan.zhihu.com/p/492378357
 
 pprof 和火焰图
 - 如何阅读火焰图 https://www.kawabangga.com/posts/5861
