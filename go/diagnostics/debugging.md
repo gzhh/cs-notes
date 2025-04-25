@@ -21,6 +21,11 @@ Golang Troubleshooting 快速定位问题方法
   - GDB 或 Delve 都不行的话可以摘掉一个问题 pod，进到 pod 中通过 gdb 或者 dlv 打断点慢慢定位。
 
 
+## GODEBUG
+gctrace
+- `GODEBUG='gctrace=1' go run main.go`
+
+
 ## vscode-go
 Go for Visual Studio Code
 - https://github.com/golang/vscode-go

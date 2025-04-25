@@ -1,9 +1,11 @@
 # Go interview
 1. new 和 make 的区别
-    
+
+    它们均在堆空间分配内存
+
     make 一般用来初始化 slice、map、channel（内建类型）
     
-    new 一般用来初始化对象、struct，返回指针（自建类型）
+    new 一般用来类型的内存分配、初始化对象、struct，返回指针（自建类型）
     
 2. slice的底层原理
     

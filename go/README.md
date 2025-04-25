@@ -131,6 +131,7 @@ Third Party
 - Golang 整洁架构实践 https://mp.weixin.qq.com/s/I2Fx2TIrwXV2kfLj_T5g5g
 - 11 tips for structuring your Go projects https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects
 - Building a Simple Backend with Modular Monolith Architecture in Go https://medium.com/@hocineelhadj/building-a-simple-backend-with-modular-monolith-architecture-in-go-e2ec7b59bc58
+- No nonsense guide to Go projects layout https://laurentsv.com/blog/2024/10/19/no-nonsense-go-package-layout.html
 
 ### Best Practice
 - 如何写出优雅的 Go 语言代码 https://draveness.me/golang-101/

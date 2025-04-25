@@ -1,6 +1,8 @@
 # Distributed transaction
 - https://en.wikipedia.org/wiki/Distributed_transaction
 
+事务特性 ACID，本地可以实现；但是因为有 CAP 理论约束，分布式事务不能实现ACID。
+
 
 ## 最佳实践
 - 再有人问你分布式事务，把这篇扔给他 https://juejin.cn/post/6844903647197806605

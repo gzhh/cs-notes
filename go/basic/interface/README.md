@@ -12,6 +12,16 @@
 - 深入研究 Go interface 底层实现 https://halfrost.com/go_interface/
 - 接口原理 https://weread.qq.com/web/reader/a1632e70718ff5dba16e4abk977321c02529778d5d2116b
 
+空接口和非空接口
+- 空接口 `var MyInterface interface{}`
+  - 底层结构 eface
+    - `_type *_type`
+    - `data unsafe.Pointer`
+- 非空接口 `var MyInterface interface{ function() }`
+  - 底层结构 iface
+    - `itab *itab`
+    - `data unsafe.Pointer`
+
 ## Duck typing
 - https://en.wikipedia.org/wiki/Duck_typing
 - https://stackoverflow.com/questions/4205130/what-is-duck-typing

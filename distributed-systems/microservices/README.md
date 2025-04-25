@@ -23,6 +23,7 @@
   - （三）——服务限流 https://mp.weixin.qq.com/s/em2-gWgYq2JwH9XiWSHkIg
   - （四）——服务安全 https://mp.weixin.qq.com/s/yT16s3GnGLRvL_pyo5v77w
 - 万字长文分享腾讯云原生微服务治理实践及企业落地建议 https://mp.weixin.qq.com/s/TKbYv_yGga7cDqLMt12dYw
+- 深入微服务核心：从架构设计到规模化 https://mp.weixin.qq.com/s/M9hfVaMPeLjER4l3Mi3Eww
 - 微服务与分布式系统设计 https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw
 - 微服务高可用容灾架构设计 https://mp.weixin.qq.com/s/WLO4JI46JkaXYK1cqTDnLg
 - 业务系统架构实践总结 https://mp.weixin.qq.com/s/pNfC7klCZTKhXwC4t5V7BA

@@ -9,10 +9,26 @@ Best Practice
 
 
 ## Escape analysis
+概念：
+- 编译器在编译的过程中就能够确定程序的预知和对该变量的声明周期的预知，编译器的这个分析过程就称之是逃逸分析。Go语言编译器会自动决定把一个变量放在栈还是放在堆，编译器会做逃逸分析(Escape Analysis)，当发现变量的作用域没有超出函数范围时，就可以放在栈上，反之则必须分配在堆。
+- 一般在给一个引用类对象中的引用类成员进行赋值时可能出现逃逸现象。可以理解为，访问一个引用对象实际上是底层通过一个指针来间接地访问，但如果再访问里面的引用成员，则会有第二次间接访问，这样操作这部分对象时极大可能会出现逃逸的现象。
+  - Go语言中的引用类型有func(函数类型)、interface(接口类型)、slice(切片类型)、 map(字典类型)、channel(管道类型)和∗(指针类型)等。
+
+参考
 - https://go.dev/wiki/CompilerOptimizations#escape-analysis
 - https://tip.golang.org/src/cmd/compile/internal/escape/escape.go
 - 通过实例理解 Go 逃逸分析 https://mp.weixin.qq.com/s/wNIX6LeHnBsl1UQuRtmC1g
 - golang 逃逸分析详解 https://zhuanlan.zhihu.com/p/91559562
+
+案例
+- 如果变量是[]interface{}数据类型，则通过[]赋值必定会出现逃逸
+- 如果变量是map[string]interface{}类型且尝试通过赋值，则必定会出现逃逸
+- 如果map[interface{}]interface{}类型尝试通过赋值，则会导致key和value的赋值出现逃逸
+- 如果变量是map[string][]string数据类型，则赋值会发生[]string逃逸
+- 如果变量是[]∗int数据类型，则赋值的右值会发生逃逸现象
+- 如果变量是func(∗int)函数类型，则进行函数赋值，会使传递的形参出现逃逸现象
+- 如果变量是func([]string)函数类型，则进行[]string{"value"}赋值时会使传递的参数出现逃逸现象
+- 如果变量是chan[]string数据类型，则向当前channel中传输[]string{"value"}时会发生逃逸现象
 
 变量的生命周期
 - 包级变量：存在于整个程序的运行过程，程序终止，包变量才会被回收。
@@ -29,6 +45,7 @@ go build 时可以用如下命令查看是否发生内存逃逸
 `go build -gcflags "-m -m" test.go`
 
 `go build -gcflags "-m -l" test.go`
+
 
 ### Third Party
 goleak - Goroutine leak detector

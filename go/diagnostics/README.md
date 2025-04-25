@@ -8,6 +8,12 @@
 - 每个程序员都应该掌握的Golang性能优化秘技 https://mp.weixin.qq.com/s/8LdG26ZWxzoyAwymH2UmUg
 
 
+## Tools
+Linux time
+- `time go run main.go`
+- `/usr/bin/time go run main.go`
+
+
 ## Go Telemetry
 Go Telemetry is a way for Go toolchain programs to collect data about their performance and usage.
 - https://telemetry.go.dev

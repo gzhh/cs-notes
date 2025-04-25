@@ -10,6 +10,7 @@ runtime Environment Variables
 runtime Functions
 - https://pkg.go.dev/runtime#pkg-functions
   - https://pkg.go.dev/runtime#NumGoroutine
+  - https://pkg.go.dev/runtime#MemStats
   - https://pkg.go.dev/runtime#ReadMemStats
   - https://pkg.go.dev/runtime/debug#ReadGCStats
   - https://pkg.go.dev/runtime/debug#Stack

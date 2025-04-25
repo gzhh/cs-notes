@@ -27,6 +27,7 @@ Third Lib
 - https://github.com/prometheus/node_exporter
 - https://github.com/prometheus/client_golang
   - Go工程化实践：基于Prometheus和Grafana的监控系统 https://zhuanlan.zhihu.com/p/610121522
+  - Monitoring Go Applications Using Prometheus, Grafana, and Docker https://dev.to/pradumnasaraf/monitoring-go-applications-using-prometheus-grafana-and-docker-33i5
 - https://github.com/samber/awesome-prometheus-alerts
 - https://github.com/prometheus/alertmanager
 - https://github.com/prometheus-community/elasticsearch_exporter

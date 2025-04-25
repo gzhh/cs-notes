@@ -1,5 +1,14 @@
 # Basic types
 
+### 引用类型
+- func(函数类型)
+- interface(接口类型)
+- slice(切片类型)
+- map(字典类型)
+- channel(管道类型)
+- ∗(指针类型)
+
+
 ### 基础类型
 
 ```
