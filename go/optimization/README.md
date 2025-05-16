@@ -50,8 +50,9 @@ go build 时可以用如下命令查看是否发生内存逃逸
 ### Third Party
 goleak - Goroutine leak detector
 - https://github.com/uber-go/goleak
-- 跟面试官聊 Goroutine 泄露的 6 种方法，真刺激！ https://eddycjy.com/posts/go/goroutine-leak/
-- Goroutine泄露的危害、成因、检测与防治 https://juejin.cn/post/7128665615383920677
+- 跟面试官聊 Goroutine 泄漏的 6 种方法，真刺激！ https://eddycjy.com/posts/go/goroutine-leak/
+- Goroutine泄漏的危害、成因、检测与防治 https://juejin.cn/post/7128665615383920677
+- Deep Dive into Go Memory Leak Debugging: A Practical Guide https://dev.to/jones_charles_ad50858dbc0/deep-dive-into-go-memory-leak-debugging-a-practical-guide-1ojm
 
 
 ## PGO

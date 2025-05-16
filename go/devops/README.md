@@ -46,6 +46,7 @@
 - endless 如何实现不停机重启 Go 程序？https://www.luozhiyun.com/archives/584
 - Graceful restart or stop https://gin-gonic.com/docs/examples/graceful-restart-or-stop/
 - gRPC的平滑关闭和在Kubernetes上的服务摘流方案总结 https://mp.weixin.qq.com/s/lCTyZgSK3b-rJtV9l6PNYA
+- Graceful Shutdown in Go: Practical Patterns https://victoriametrics.com/blog/go-graceful-shutdown/index.html
 
 
 ## Trace ID

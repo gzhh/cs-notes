@@ -24,6 +24,7 @@
 
 缓存策略
 - 缓存更新的四种策略及选取建议 https://www.cnblogs.com/reim/p/17414244.html
+- Go开发者必知：五大缓存策略详解与选型指南 :bhttps://mp.weixin.qq.com/s/aPiWDFInEXQjqosvGB-IUg
 - 缓存 从策略到实践概览 https://zhuanlan.zhihu.com/p/352325821
 - 不知道这四种缓存模式，敢说懂缓存吗？https://www.51cto.com/article/713035.html
 - 3种常用的缓存读写策略详解 https://javaguide.cn/database/redis/3-commonly-used-cache-read-and-write-strategies.html
@@ -50,5 +51,6 @@
 - [布隆过滤器使用](https://juejin.cn/post/7038779056996745224)
 - [经典论文解读——布隆过滤器](https://mp.weixin.qq.com/s/IWq0GHbHspAwIuQJ9epCMA)
 - https://pages.cs.wisc.edu/~cao/papers/summary-cache/node8.html
+- https://eli.thegreenplace.net/2025/bloom-filters/
 
 

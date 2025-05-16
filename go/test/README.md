@@ -16,6 +16,11 @@ Learn Go with Tests (TDD)
 - https://github.com/quii/learn-go-with-tests
 - https://quii.gitbook.io/learn-go-with-tests
 
+Best Practical
+- Differential Coverage for Debugging https://research.swtch.com/diffcover
+- 代码覆盖率新玩法：Russ Cox教你用差异化分析加速Go调试 https://mp.weixin.qq.com/s/hwK7kXI5xSez2iQTgs5EpQ
+
+
 测试框架
 - https://github.com/stretchr/testify
 - https://github.com/onsi/ginkgo
