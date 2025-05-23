@@ -12,6 +12,11 @@
 - https://github.com/fatih/pool
 
 MySQL 连接池
+- 标准库 database/sql 配置参数
+  - SetMaxOpenConns
+  - SetMaxIdleConns
+  - SetConnMaxLifetime
+  - SetConnMaxIdleTime
 - Golang连接池的几种实现案例 https://juejin.cn/post/6844904077386596366
 - Configuring sql.DB for Better Performance
   - https://www.alexedwards.net/blog/configuring-sqldb

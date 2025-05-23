@@ -16,13 +16,13 @@
   - slog 终极指南 https://colobu.com/2024/03/10/slog-the-ultimate-guide/
   - Logging in Go with Slog: The Ultimate Guide https://betterstack.com/community/guides/logging/logging-in-go/
   - 万字解析 Go 官方结构体化日志包 slog https://mp.weixin.qq.com/s/54SOne_qEOO49QffF59EGQ
+- lumberjack https://github.com/natefinch/lumberjack
 - zap https://github.com/uber-go/zap
   - go中使用三方库zap管理日志，并使用 lumberjack 文件切割 https://juejin.cn/post/7313979344561242162
   - 在Go语言项目中使用Zap日志库 https://www.liwenzhou.com/posts/Go/zap/
   - https://github.com/gin-contrib/zap
 - Logrus https://github.com/sirupsen/logrus
 - Zerolog https://github.com/rs/zerolog
-- lumberjack https://github.com/natefinch/lumberjack
 
 对比
 - https://dev.to/sumuduliyanage/insights-into-go-logging-2egh

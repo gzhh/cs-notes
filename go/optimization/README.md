@@ -6,6 +6,7 @@ Best Practice
 - 我是如何实现Go性能5倍提升的？https://mp.weixin.qq.com/s/SlPdSoMs1po1l19uaNMrIQ
 - Go函数指针是如何让你的程序变慢的？https://mp.weixin.qq.com/s/bcmvPbWV7nBi7wIfr-MR8w
 - 高德Go生态的服务稳定性建设｜性能优化的实战总结 https://mp.weixin.qq.com/s/UHaCLhiIyLYVrba-nEUONA
+- 深入浅出 Go 性能优化：从原理到实践 https://mp.weixin.qq.com/s/BSWtifFJTIvaW4HNe603uw
 
 
 ## Escape analysis

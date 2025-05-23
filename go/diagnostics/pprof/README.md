@@ -31,6 +31,11 @@ pprof tool
 
 
 ## 最佳实践
+- golang pprof practice
+  - https://github.com/wolfogre/go-pprof-practice
+  - https://blog.wolfogre.com/posts/go-ppof-practice/
+  - https://farmerchillax.github.io/2023/07/04/Go性能分析工具/
+  - Golang pprof 案例实战与原理解析 https://mp.weixin.qq.com/s/Qwmo9FHCF010-0rMUbyuww
 - Go 语言编程之旅 - 6.1 Go 大杀器之性能剖析 PProf（上）https://golang2.eddycjy.com/posts/ch6/01-pprof-1/
 - golang 性能优化分析工具 pprof (上) - 基础使用介绍 https://www.cnblogs.com/jiujuan/p/14588185.html
 - Profiling Go programs with pprof https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/
