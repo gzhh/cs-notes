@@ -3,6 +3,9 @@
 
 架构设计
 - Redis基础知识典藏版：架构设计 https://mp.weixin.qq.com/s/H6cGiahUreVFh34wbkFF8g
+- 一条Redis命令是如何执行的
+  - https://mp.weixin.qq.com/s/DZGAeA_LPS5RzxvmtqXawQ
+  - https://mp.weixin.qq.com/s/PsRA9kB6KE9EB17-G-kOlA
 
 
 ## 版本特性

@@ -11,6 +11,13 @@ Docker Official Image
 Explore Official Image
 - https://hub.docker.com/search?image_filter=official&q=&type=image
 
+
+## BuildKit
+Docker BuildKit 是 Docker 的下一代构建引擎，它提供了更高效、更灵活的容器镜像构建能力。
+- https://github.com/moby/buildkit
+
+
+
 ## Docker build
 - https://docs.docker.com/build/
 - https://docs.docker.com/reference/cli/docker/image/build/

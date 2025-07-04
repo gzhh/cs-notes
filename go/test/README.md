@@ -5,6 +5,8 @@ docs
   - synctest
     - https://pkg.go.dev/testing/synctest
     - https://go.dev/blog/synctest
+    - 征服Go并发测试
+      - https://mp.weixin.qq.com/s/rbDwmLnHoybvoiB63gI-Pw
 - https://go.dev/doc/tutorial/add-a-test
 - https://gobyexample.com/testing
 
