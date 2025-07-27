@@ -10,6 +10,9 @@ Best Practice
 ### 临界区
 在并发编程中，如果程序中的一部分会被并发访问或修改，那么为了避免并发访问导致的意想不到的结果，这部分程序需要被保护起来，这部分被保护起来的程序，就叫做临界区。
 
+Race condition
+- Gist of Go: Race conditions https://antonz.org/go-concurrency/race-conditions/
+
 ### 互斥锁 Mutex
 
 我们可以使用互斥锁，限定临界区只能同时由一个线程持有。

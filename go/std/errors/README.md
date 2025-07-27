@@ -17,6 +17,31 @@ blog
 Best Practice
 - Golang channel 三大坑 panic/deadlock/oom，你踩过了嘛？https://zhuanlan.zhihu.com/p/532344541
 
+Error Handling Syntac
+```
+func printSum(a, b string) error {
+	x, err1 := strconv.Atoi(a)
+	if err1 != nil {
+		return err1
+	}
+	y, err2 := strconv.Atoi(b)
+	if err2 != nil {
+		return err2
+	}
+	fmt.Println("result:", x+y)
+	return nil
+}
+
+func printSum(a, b string) error {
+	x, err1 := strconv.Atoi(a)
+	y, err2 := strconv.Atoi(b)
+	if err := cmp.Or(err1, err2); err != nil {
+		return err
+	}
+	fmt.Println("result:", x+y)
+	return nil
+}
+```
 
 ### Error
 error type

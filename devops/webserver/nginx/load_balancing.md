@@ -6,6 +6,7 @@
 - Nginx负载均衡配置 https://blog.csdn.net/xyang81/article/details/51702900
 
 ## Example
+- https://hackernoon.com/this-150-line-go-script-is-actually-a-full-on-load-balancer
 
 ### Implement Load Balancer with Go.
 

@@ -97,6 +97,7 @@ Kubernetes Monitor
 架构了解：
 - https://www.youtube.com/watch?v=s_o8dwzRlu4
 - https://mp.weixin.qq.com/s/qlx6aio53CTBXXBXYjHhVw
+- https://pbs.twimg.com/media/GuTKNv0aYAAxj2g?format=png&name=4096x4096
 
 - master 主节点
     - API Server

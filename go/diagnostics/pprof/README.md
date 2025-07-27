@@ -31,6 +31,11 @@ pprof tool
 
 
 ## 最佳实践
+- golang pprof practice
+  - https://github.com/wolfogre/go-pprof-practice
+  - https://blog.wolfogre.com/posts/go-ppof-practice/
+  - https://farmerchillax.github.io/2023/07/04/Go性能分析工具/
+  - Golang pprof 案例实战与原理解析 https://mp.weixin.qq.com/s/Qwmo9FHCF010-0rMUbyuww
 - Go 语言编程之旅 - 6.1 Go 大杀器之性能剖析 PProf（上）https://golang2.eddycjy.com/posts/ch6/01-pprof-1/
 - golang 性能优化分析工具 pprof (上) - 基础使用介绍 https://www.cnblogs.com/jiujuan/p/14588185.html
 - Profiling Go programs with pprof https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/
@@ -38,7 +43,7 @@ pprof tool
 - Go 中的性能分析和执行跟踪 https://mp.weixin.qq.com/s/7_b1NnoLxyE-kp7mnfXj4w
 - 通过pprof定位groutine泄漏 https://mp.weixin.qq.com/s/UcOwzNHqhPE0ZjKR1maWBw
 - 修复go tool pprof存在的“bug” https://mp.weixin.qq.com/s/WSfDnlXzX36NQNs1t3M-Bg
-- 生产环境Go程序内存泄露，用pprof如何快速定位 https://mp.weixin.qq.com/s/PEpvCqpi9TPhVuPdn3nyAg
+- 生产环境Go程序内存泄漏，用pprof如何快速定位 https://mp.weixin.qq.com/s/PEpvCqpi9TPhVuPdn3nyAg
 - pprof - 在现网场景怎么用 https://www.cnblogs.com/yjf512/p/18120513
 - 从真实事故出发：golang 内存问题排查指北 https://mp.weixin.qq.com/s/HdSIC93HMbqvbQisCr186Q
 - 万字长文讲透Go程序性能优化 (pprof & trace) https://mp.weixin.qq.com/s/wLPfiJ0wKH3DrBJS4yxeHw

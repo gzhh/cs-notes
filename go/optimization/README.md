@@ -6,6 +6,7 @@ Best Practice
 - 我是如何实现Go性能5倍提升的？https://mp.weixin.qq.com/s/SlPdSoMs1po1l19uaNMrIQ
 - Go函数指针是如何让你的程序变慢的？https://mp.weixin.qq.com/s/bcmvPbWV7nBi7wIfr-MR8w
 - 高德Go生态的服务稳定性建设｜性能优化的实战总结 https://mp.weixin.qq.com/s/UHaCLhiIyLYVrba-nEUONA
+- 深入浅出 Go 性能优化：从原理到实践 https://mp.weixin.qq.com/s/BSWtifFJTIvaW4HNe603uw
 
 
 ## Escape analysis
@@ -50,8 +51,9 @@ go build 时可以用如下命令查看是否发生内存逃逸
 ### Third Party
 goleak - Goroutine leak detector
 - https://github.com/uber-go/goleak
-- 跟面试官聊 Goroutine 泄露的 6 种方法，真刺激！ https://eddycjy.com/posts/go/goroutine-leak/
-- Goroutine泄露的危害、成因、检测与防治 https://juejin.cn/post/7128665615383920677
+- 跟面试官聊 Goroutine 泄漏的 6 种方法，真刺激！ https://eddycjy.com/posts/go/goroutine-leak/
+- Goroutine泄漏的危害、成因、检测与防治 https://juejin.cn/post/7128665615383920677
+- Deep Dive into Go Memory Leak Debugging: A Practical Guide https://dev.to/jones_charles_ad50858dbc0/deep-dive-into-go-memory-leak-debugging-a-practical-guide-1ojm
 
 
 ## PGO
