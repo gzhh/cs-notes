@@ -3,6 +3,7 @@
 - https://avinetworks.com/glossary/service-discovery/
 
 介绍
+- 深入了解服务注册与发现 https://zhuanlan.zhihu.com/p/161277955
 - 服务发现有哪些要素？https://mp.weixin.qq.com/s/kMemCDpXJbo9v46AKK3IIA
 - In-Depth Comparison of Distributed Coordination Tools: Consul, etcd, ZooKeeper, and Nacos https://medium.com/@karim.albakry/in-depth-comparison-of-distributed-coordination-tools-consul-etcd-zookeeper-and-nacos-a6f8e5d612a6
 - Service Discovery: Zookeeper vs etcd vs Consul https://technologyconversations.com/2015/09/08/service-discovery-zookeeper-vs-etcd-vs-consul/

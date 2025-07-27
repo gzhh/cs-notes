@@ -1,6 +1,13 @@
 ## pod
 
 ### 创建、日志、暴露端口
+创建流程
+- kubectl `POST /pods`
+- API Server
+- etcd `add pod`
+- scheduler `select node`
+- etcd `bind node and pod`
+- cri `run cri, etc Docker`
 
 检查现有 pod 的 YAML 描述文件
 

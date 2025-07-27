@@ -37,6 +37,18 @@ Docs
   - https://grpc.io/docs/guides/
   - https://grpc.io/docs/guides/auth/
 
+客户端与服务器通信流程
+- 服务端
+  - 实现 RPC 接口
+  - 监听 TCP 端口
+  - 注册服务
+  - 启动服务
+- 客户端
+  - 建立 TCP 连接
+  - 创建 Client
+  - 执行 RPC 调用
+  - 得到返回消息
+
 Best Practice
 - 部署
   - Scaling gRPC With Kubernetes (Using Go) https://nyadgar.com/posts/scaling-grpc-with-kubernetes-using-go/
@@ -87,6 +99,7 @@ Service Config
 - https://github.com/grpc/grpc/blob/master/doc/service_config.md
 
 Load Balancing
+  - 问题：由于 gRPC 是基于 HTTP2.0 实现的，导致使用 k8s 部署时负载均衡失效，所有请求都复用一个 http2.0 连接，导致请求没有负载均衡。所以需要引入客户端负载均衡。
   - https://grpc.io/blog/grpc-load-balancing/
   - https://grpc.io/docs/guides/custom-load-balancing/
   - https://github.com/grpc/grpc/blob/master/doc/load-balancing.md

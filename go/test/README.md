@@ -74,8 +74,12 @@ Mock 框架
 
 
 ## Go 压力测试
+HTTP
 - ab https://httpd.apache.org/docs/2.4/programs/ab.html
 - wrk https://github.com/wg/wrk
+
+gRPC
+- ghz https://github.com/bojand/ghz
 
 
 ## go test 命令

@@ -36,6 +36,8 @@ Kubernetes cluster install (prod)
   - minikube https://github.com/kubernetes/minikube
   - kubeadm https://github.com/kubernetes/kubeadm
   - Rancher https://github.com/rancher/rancher
+  - kubespray https://github.com/kubernetes-sigs/kubespray
+  - KubeSphere https://github.com/kubesphere/kubesphere
   - Sealos https://github.com/labring/sealos
 - 轻量化（生产还是慎用，相对坑多）
   - K3s https://github.com/k3s-io/k3s
