@@ -180,3 +180,4 @@ database 用来记录一些元数据信息
 ## 参考
 - [System Design Interview](https://book.douban.com/subject/35246417/)
 - 大文件分块上传 https://zhuanlan.zhihu.com/p/666360928
+- GFS经典设计，给了我们哪些架构启示？https://mp.weixin.qq.com/s/oUSLglfoVYfoup94gNqs_Q

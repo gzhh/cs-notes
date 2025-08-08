@@ -5,6 +5,7 @@
 ## 使用
 - Interfaces https://go.dev/tour/methods/9
 - https://gobyexample.com/interfaces
+- https://go.dev/blog/generic-interfaces
 
 ## 原理
 - JSON-RPC: a tale of interfaces https://go.dev/blog/json-rpc

@@ -19,6 +19,7 @@ WebSocket
 - Hertz https://github.com/cloudwego/hertz
   - 字节跳动开源 Go HTTP 框架 Hertz 设计实践 https://mp.weixin.qq.com/s/1rBn8yAT0FvgmcuxnSdTPg
 - Martini https://github.com/go-martini/martini
+- Huma https://github.com/danielgtaylor/huma
 
 Admin Framework
 - GoAdmin https://github.com/GoAdminGroup/go-admin

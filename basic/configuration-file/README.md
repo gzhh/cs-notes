@@ -4,6 +4,10 @@
 TOML vs YAML
 - https://gist.github.com/oconnor663/9aeb4ed56394cb013a20
 
+## INI file
+- https://en.wikipedia.org/wiki/INI_file
+
+
 ## XML
 - https://en.wikipedia.org/wiki/XML
 
