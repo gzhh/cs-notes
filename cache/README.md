@@ -12,25 +12,25 @@
 ## 缓存策略
 缓存策略
 - 缓存更新的四种策略及选取建议 https://www.cnblogs.com/reim/p/17414244.html
-- Go开发者必知：五大缓存策略详解与选型指南 :bhttps://mp.weixin.qq.com/s/aPiWDFInEXQjqosvGB-IUg
+- Go开发者必知：五大缓存策略详解与选型指南 https://mp.weixin.qq.com/s/aPiWDFInEXQjqosvGB-IUg
+- 浅谈缓存最终一致性的解决方案 https://mp.weixin.qq.com/s/Y9S89MT0uAobzRKgYVrI9Q
 - 缓存 从策略到实践概览 https://zhuanlan.zhihu.com/p/352325821
 - 不知道这四种缓存模式，敢说懂缓存吗？https://www.51cto.com/article/713035.html
 - 3种常用的缓存读写策略详解 https://javaguide.cn/database/redis/3-commonly-used-cache-read-and-write-strategies.html
 
 ### 缓存一致性
 - 一文讲透数据库缓存一致性问题 https://mp.weixin.qq.com/s/HilTpiLm5VKp5pbhd-K9uQ
-- 浅谈缓存最终一致性的解决方案 https://mp.weixin.qq.com/s/Y9S89MT0uAobzRKgYVrI9Q
 - 干货 | 分布式缓存与DB秒级一致设计实践 https://mp.weixin.qq.com/s/_RlOAvjfTINJrhwHUogs7Q
 - 干货 | 携程最终一致和强一致性缓存实践 https://mp.weixin.qq.com/s/E-chAZyHtaZOdA19mW59-Q
-- 美团面试题：缓存一致性，我是这么回答的！https://mp.weixin.qq.com/s/esXWVZvgf74DPeDL7xbi1Q
+- 美团：缓存一致性，我是这么回答的！https://mp.weixin.qq.com/s/esXWVZvgf74DPeDL7xbi1Q
 - 并发环境下，先操作数据库还是先操作缓存？https://mp.weixin.qq.com/s/nCOaSbwgERAZDofWgRlyKg
 - go-zero微服务实战系列（六、缓存一致性保证）https://mp.weixin.qq.com/s/422ZHs81y7nN9Sgb_ESsgg
 - 奇怪的缓存一致性问题 https://mp.weixin.qq.com/s/hcmRh493yWJUJTJl0tlZWw
 - 缓存一致性的探讨 https://zhuanlan.zhihu.com/p/606249255
 - 延迟双删
-  - 字节一面：延迟双删，要延迟多久呢？https://mp.weixin.qq.com/s/ETez1xeTecnBd_BWkq3I_A
+  - 延迟双删，要延迟多久呢？https://mp.weixin.qq.com/s/ETez1xeTecnBd_BWkq3I_A
   - 延时双删（redis-mysql）数据一致性思考 https://zhuanlan.zhihu.com/p/467410359
-  - 所以延迟双删有啥用 https://www.dtstack.com/bbs/article/9477
+  - 所以延迟双删有啥用 https://blog.csdn.net/Aqting/article/details/131880734
 
 
 ## 缓存问题

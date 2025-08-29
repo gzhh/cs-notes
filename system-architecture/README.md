@@ -1,5 +1,7 @@
 # System Architecture
 
+- MapReduce
+  - MapReduce经典设计，给了我们哪些架构启示？https://mp.weixin.qq.com/s/4oomCsbA1oyMhy1kNvPWAQ
 
 ## 高并发、高性能、高可用
 - 万字详解高可用架构设计 https://mp.weixin.qq.com/s/kRfZQMaUjAyO46sL8_L1Dg

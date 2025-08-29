@@ -7,6 +7,7 @@
 ### 示例
 - https://go.dev/doc/tutorial/generics
 - https://gobyexample.com/generics
+- Generics in Go — From Basics to Advanced for Senior Developers https://medium.com/@sogol.hedayatmanesh/generics-in-go-from-basics-to-advanced-for-senior-developers-887790b018d0
 
 ### 设计
 - https://go.dev/blog/why-generics

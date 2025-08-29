@@ -23,6 +23,7 @@ Package context defines the Context type, which carries deadlines, cancellation 
 - Context 是怎么在 Go 语言中发挥关键作用的 https://mp.weixin.qq.com/s/8hR-TNhJ_N5NfaGhHZAdEQ
 - Go语言实战笔记（二十）| Go Context https://www.flysnow.org/2017/05/12/go-in-action-go-context
 - Go 语言设计与实现 - 6.1 上下文 Context https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/
+- Go’s Context in Distributed Systems https://medium.com/@sogol.hedayatmanesh/gos-context-in-distributed-systems-ccdec75d5868
 
 ### 问题分析
 - 面试官：Context携带数据是线程安全的吗？https://mp.weixin.qq.com/s/EQOLlJ2VSPd2-0Ey4rfZVw

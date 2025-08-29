@@ -48,6 +48,7 @@ pprof tool
 - 从真实事故出发：golang 内存问题排查指北 https://mp.weixin.qq.com/s/HdSIC93HMbqvbQisCr186Q
 - 万字长文讲透Go程序性能优化 (pprof & trace) https://mp.weixin.qq.com/s/wLPfiJ0wKH3DrBJS4yxeHw
 - Go pprof性能分 https://zhuanlan.zhihu.com/p/492378357
+- Go Performance Tuning Quick Start: Metrics, Profiling & Beyond https://www.p99conf.io/2025/08/20/go-performance-tuning-quick-start/
 
 pprof 和火焰图
 - 如何阅读火焰图 https://www.kawabangga.com/posts/5861
@@ -110,6 +111,7 @@ gin pprof middleware
 ## Flame Graphs 火焰图
 - https://www.brendangregg.com/flamegraphs.html
 - https://github.com/brendangregg/FlameGraph
+- https://github.com/flamegraph-rs/flamegraph
 - Graphviz https://www.graphviz.org
 - go-torch https://github.com/uber-archive/go-torch
 - 6. Callgrind: a call-graph generating cache and branch prediction profiler https://valgrind.org/docs/manual/cl-manual.html
