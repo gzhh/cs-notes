@@ -66,3 +66,7 @@ Best Practice
 - https://docs.astral.sh/uv/guides/scripts/
 - uv ：新一代的 Python 包管理工具 https://liujiacai.net/blog/2025/08/03/uv-intro/
 - https://www.bilibili.com/video/BV1Stwfe1E7s
+
+
+## gunicorn
+- gunicorn https://github.com/benoitc/gunicorn

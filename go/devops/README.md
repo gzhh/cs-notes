@@ -47,6 +47,7 @@
 - Graceful restart or stop https://gin-gonic.com/docs/examples/graceful-restart-or-stop/
 - gRPC的平滑关闭和在Kubernetes上的服务摘流方案总结 https://mp.weixin.qq.com/s/lCTyZgSK3b-rJtV9l6PNYA
 - Graceful Shutdown in Go: Practical Patterns https://victoriametrics.com/blog/go-graceful-shutdown/index.html
+- Terminating elegantly: a guide to graceful shutdowns https://packagemain.tech/p/graceful-shutdowns-k8s-go
 
 
 ## Trace ID
