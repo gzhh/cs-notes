@@ -27,7 +27,11 @@
 - 任务调度系统
 - 抢红包
 - [排行榜](leaderboard.md)
-- 点赞功能
+- 评论系统
+- 点赞系统
+  - https://mp.weixin.qq.com/s/5oVvM25RqD_WPc_XRG6F9Q
+  - https://www.51cto.com/article/800352.html
+  - https://zhuanlan.zhihu.com/p/1956370947159357339
 - 在线文档系统
 - [Notification System 通知系统](notification-system.md)
 - [News Feed System 新闻流系统](news-feed-system.md)

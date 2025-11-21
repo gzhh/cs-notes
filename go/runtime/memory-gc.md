@@ -102,3 +102,23 @@ GC 改进进程
     - c. 堆删除引⽤，成为堆下游
     - d. 栈删除引⽤，成为堆下游
     - PS：混合写屏障的延迟问题，在⼀定概率情况下，为了去掉STW会有⼀些内存延迟1个周期被回收。等到下一轮GC，对象如果没有外界添加，它们终将会成为⽩⾊垃圾内存⽽被回收。
+
+
+## GC - Green Tea
+- https://go.dev/blog/greenteagc
+- https://mp.weixin.qq.com/s/W75ulkZU06-zLdfj3F_a-w
+
+对比老的算法
+- 相同，都是标记清除
+  - 都是标记阶段比清除阶段更耗时的多
+- 不同
+  - 老的work-list 对象遍历顺序 dfs -> lifo(stack)
+  - 新的work-list 对象遍历顺序 bfs -> fifo(queue)
+
+优化方向
+- 标记阶段，减少对象扫描次数
+  - 老的算法基本概念是扫描页中的对象，但是碰到跳页的情况会显著增大扫描时间
+  - 新的算法基本概念是扫描整个页，相对来说后者更能触发CPU缓存，减少内存访问次数。
+- per-page metadata is more likely to be in cache. Tracking pages instead of objects means work lists are smaller, and less pressure on work lists means less contention and fewer CPU stalls.
+
+

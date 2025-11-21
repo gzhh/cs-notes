@@ -78,9 +78,11 @@ N+1 Problem in REST API
   - 使用cursor 进行分页，不使用 page，page_size 模式
 - 参考：https://www.zhihu.com/question/432910565
 
-问题2: 滑动分页，新增数据导致丢失
+问题2: 滑动分页，新增数据导致重复/丢失
 - 解决方案：查询带 query_time，下拉翻页查询 query_time 不变，上拉刷新页面 query_time 重置。
-- 参考：https://juejin.cn/post/7073519311213559822
+- 参考：
+  - https://juejin.cn/post/6938220313838616589
+  - https://juejin.cn/post/7073519311213559822
 
 问题3: 分页场景下，SQL 查询得到数据后，业务代码排除了部分内容，导致不足一页。
 - 解决方案：
@@ -98,6 +100,7 @@ N+1 Problem in REST API
 - 参考：
   - https://www.cnblogs.com/makemylife/p/17425593.html
   - https://developer.aliyun.com/article/620529
+  -
 
 
 ## 工具

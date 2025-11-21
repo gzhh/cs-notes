@@ -111,3 +111,5 @@
 - [System Design Interview](https://book.douban.com/subject/35246417/)
 - [Feed 流系统的架构设计方案](https://mp.weixin.qq.com/s/CyXO13C3zQLoa-p7N2qPMg)
 - 腾讯频道Feed流系统架构设计 https://mp.weixin.qq.com/s/XVgdfRz3fkuEM0wFCvljqA
+- 高并发微博架构设计实现和落地 https://juejin.cn/post/7032512073502294053
+- 好友关系，百亿关系链，架构要如何设计 https://mp.weixin.qq.com/s/0aDMbkz6qUa_n51IATNXIg
