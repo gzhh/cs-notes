@@ -69,6 +69,8 @@ LSM Tree
 - 从0到1构建一个db https://qiankunli.github.io/2024/12/07/db_01.html
 
 B-Tree vs LSM-Tree
+- B-trees are optimized for read-intensive workloads, offering fast reads and predictable performance by updating data in place, while LSM-trees are optimized for write-heavy workloads, providing fast writes through sequential appends to immutable logs. The main trade-off is that B-trees have slower writes due to random access, and LSM-trees have slower reads because they may need to query multiple sorted segments to find the latest version of the data.
+![](images/b-tree-vs-lsm-tree.png)
 - https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/
 ![](images/b-tree-vs-lsm-tree.jpeg)
 

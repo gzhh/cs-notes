@@ -77,6 +77,34 @@ Delve: 类似于 GDB 的 Debugger，但是只针对 Go 程序，功能比 GDB �
 - go delve - The Golang Debugger https://earthly.dev/blog/golang-dlv/
 - Debugging Go Code with Delve https://blog.devgenius.io/debugging-go-code-with-delve-22fe9de7e380
 
+调试 Dockerfile
+
+```
+FROM golang:1.24-alpine
+
+# 工作目录
+WORKDIR /app
+
+# 先复制 go.mod/go.sum 以利用构建缓存
+COPY go.mod ./
+COPY go.sum ./
+RUN go mod download
+
+# 安装 delve（调试器）并确保 /go/bin 在 PATH 中
+RUN go install github.com/go-delve/delve/cmd/dlv@v1.25.2
+ENV PATH="/go/bin:${PATH}"
+
+# 复制其余源代码并构建可调试二进制（禁用内联和优化）
+COPY . .
+RUN go build -gcflags="all=-N -l" -o /app/main ./main.go
+
+# 暴露应用端口（如有）和 dlv 端口
+EXPOSE 8080 2345
+
+# 启动 dlv headless 模式，监听 2345 端口，使用 exec 运行编译好的二进制
+CMD ["dlv", "--listen=:2345", "--headless=true", "--api-version=2", "exec", "/app/main"]
+```
+
 
 ## Core dump
 - https://en.wikipedia.org/wiki/Core_dump

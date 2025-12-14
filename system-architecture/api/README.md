@@ -2,6 +2,7 @@
 
 Best Practice
 - 这才叫 API 接口开发！https://mp.weixin.qq.com/s/gTr7AgLyVbag-S0m5FgnlQ
+- Good API design  https://www.seangoedecke.com/good-api-design/
 
 ## 标准
 OpenAPI

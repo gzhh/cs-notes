@@ -1,6 +1,7 @@
 ## System Design
 
 最佳实践
+- Everything I know about good system design https://www.seangoedecke.com/good-system-design/
 - 业务建模、业务用例图、系统用例图都是啥？一文读懂《软件方法》https://mp.weixin.qq.com/s/CDP3_KqvLfusqwszhgmkGg
 
 
