@@ -21,6 +21,7 @@ Ref
 - Go 内存模型：happens-before 原则 https://eddycjy.com/posts/go/memory-model/
 - 关于 golang 官网一段代码的疑惑 https://v2ex.com/t/1031075
 - 一站式Golang内存管理洗髓经 https://www.yuque.com/aceld/golang/qzyivn#EaWZp
+- Golang 运行时是这样高效为你分配的内存 https://mp.weixin.qq.com/s/ZTe9rCK8bU1ttbj4WD2tTQ
 
 
 Go Race Detector

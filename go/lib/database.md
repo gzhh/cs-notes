@@ -90,6 +90,7 @@ GORM Gen
 
 ## SQL migration
 - migrate https://github.com/golang-migrate/migrate
+- goose https://github.com/pressly/goose
 - sql-migrate https://github.com/rubenv/sql-migrate
 
 
