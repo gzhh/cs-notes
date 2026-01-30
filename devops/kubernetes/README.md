@@ -75,6 +75,12 @@ Kubernetes Monitor
   - https://www.redhat.com/sysadmin/podman-auto-updates-rollbacks
 - nerdctl: Docker-compatible CLI for containerd https://github.com/containerd/nerdctl
 
+Kubernetes workflows
+- https://argoproj.github.io
+- https://github.com/argoproj/argo-cd
+- https://github.com/argoproj/argo-workflows
+- https://github.com/argoproj/argo-rollouts
+
 
 ## 概念
 数据平面（Data Plane）和控制平面（Control Plane）

@@ -8,15 +8,19 @@ Best Practice
 - 矢量数据库与图形数据库：了解两者之间的差异 https://www.elastic.co/cn/blog/vector-database-vs-graph-database
 
 
-## Qdrant
-- https://github.com/qdrant/qdrant
-- https://qdrant.tech/
-- https://cloud.qdrant.io/login
+## Pinecone
+- https://www.pinecone.io
 
 
 ## Milvus
 - https://github.com/milvus-io/milvus
 - https://milvus.io/
+
+
+## Qdrant
+- https://github.com/qdrant/qdrant
+- https://qdrant.tech/
+- https://cloud.qdrant.io/login
 
 
 ## Weaviate

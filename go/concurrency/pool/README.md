@@ -10,6 +10,7 @@
 - https://github.com/panjf2000/ants
   - 慢聊Golang协程池Ants实现原理 https://mp.weixin.qq.com/s/fZpPkG-C0wZ5Z45H2aUxAA
 - https://github.com/fatih/pool
+- Let's dive: a tour of sync.Pool internals https://unskilled.blog/posts/lets-dive-a-tour-of-sync.pool-internals/
 
 MySQL 连接池
 - 标准库 database/sql 配置参数

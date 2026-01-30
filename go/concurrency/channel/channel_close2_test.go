@@ -16,6 +16,7 @@ func isCancelled(cancelChan chan struct{}) bool {
 }
 
 func cancel_1(cancelChan chan struct{}) {
+	// unicast
 	cancelChan <- struct{}{}
 }
 
