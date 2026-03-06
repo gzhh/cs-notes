@@ -32,7 +32,10 @@ Uber Go Style Guide
 
 Go linter 代码格式化及错误校验工具
 - go fmt command: https://go.dev/blog/gofmt
-- go vet command: https://pkg.go.dev/cmd/vet
+- go vet command:
+  - https://pkg.go.dev/cmd/vet
+  - https://go.dev/blog/gofix
+- go fix command: https://pkg.go.dev/cmd/fix
 - golint: https://github.com/golang/lint
 - golangci-lint: https://github.com/golangci/golangci-lint
 - vscode 或 goland 代码格式化插件

@@ -15,6 +15,7 @@ Best Practice
 ## Milvus
 - https://github.com/milvus-io/milvus
 - https://milvus.io/
+- 向量数据库 https://guangzhengli.com/blog/zh/vector-database
 
 
 ## Qdrant

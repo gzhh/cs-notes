@@ -6,6 +6,7 @@
 - https://research.swtch.com
 - go runtime 简析 https://zhuanlan.zhihu.com/p/111370792
 - 说说Golang的runtime https://zhuanlan.zhihu.com/p/27328476
+- Understanding the Go Runtime: The Bootstrap https://internals-for-interns.com/posts/understanding-go-runtime
 
 包
 - https://pkg.go.dev/std

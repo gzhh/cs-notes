@@ -1,6 +1,7 @@
 # Distributed Identifier
 - UUID https://en.wikipedia.org/wiki/Universally_unique_identifier
 - Snowflake ID https://en.wikipedia.org/wiki/Snowflake_ID
+- Go package for UUIDs https://github.com/google/uuid
 
 
 ## 最佳实践
