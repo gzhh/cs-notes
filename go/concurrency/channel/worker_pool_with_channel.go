@@ -2,57 +2,35 @@ package main
 
 import (
 	"fmt"
-	"sync"
 	"time"
 )
 
-type Rows struct {
-	ID int `json:"id"`
+func worker(id int, jobs <-chan int, results chan<- int) {
+	for j := range jobs {
+		fmt.Printf("worker:%d 正在处理任务:%d\n", id, j)
+		results <- j * 2 // 返回结果
+		time.Sleep(time.Second)
+	}
 }
 
-func handle(rows []*Rows) error {
-	numWorkers := 10
-	workerCh := make(chan *Rows, numWorkers)
-
-	var wg sync.WaitGroup
-	for i := 0; i < numWorkers; i++ {
-		fmt.Println("Start worker ", i)
-		wg.Add(1)
-		go func(i int, workerCh chan *Rows) {
-			defer wg.Done()
-
-			for row := range workerCh {
-				if row.ID%5 == 0 {
-					continue
-				}
-
-				fmt.Println("Executing task", row.ID)
-
-				// sleep for simulation
-				time.Sleep(time.Second * 1)
-			}
-
-			fmt.Println("End worker", i)
-		}(i, workerCh)
-	}
-
-	for _, row := range rows {
-		workerCh <- row
-	}
-	close(workerCh)
-
-	wg.Wait()
-
-	return nil
-}
-
+// Worker Pool 用于限制并发数并复用 Goroutine。
 func main() {
-	size := 105
-	rows := make([]*Rows, 0, size)
-	for i := 0; i < size; i++ {
-		rows = append(rows, &Rows{
-			ID: i,
-		})
+	jobs := make(chan int, 100)
+	results := make(chan int, 100)
+
+	// 1. 启动 3 个固定数量的 worker
+	for w := 1; w <= 3; w++ {
+		go worker(w, jobs, results)
 	}
-	handle(rows)
+
+	// 2. 发送 10 个任务
+	for j := 1; j <= 10; j++ {
+		jobs <- j
+	}
+	close(jobs) // 发送完毕，通知 worker 退出循环
+
+	// 3. 收集结果
+	for a := 1; a <= 10; a++ {
+		<-results
+	}
 }

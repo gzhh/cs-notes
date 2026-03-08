@@ -20,6 +20,10 @@ func dataProducer(ch chan int, wg *sync.WaitGroup) {
 
 func dataReceiver(ch chan int, wg *sync.WaitGroup) {
 	go func() {
+		// for data := range ch { // 自动处理 close 情况
+		// fmt.Println(data)
+		// }
+
 		for {
 			if data, ok := <-ch; ok {
 				fmt.Println(data)
