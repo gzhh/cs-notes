@@ -55,5 +55,6 @@
 - [经典论文解读——布隆过滤器](https://mp.weixin.qq.com/s/IWq0GHbHspAwIuQJ9epCMA)
 - https://pages.cs.wisc.edu/~cao/papers/summary-cache/node8.html
 - https://eli.thegreenplace.net/2025/bloom-filters/
+- https://gestrada.dev/posts/bloom-filter/
 
 

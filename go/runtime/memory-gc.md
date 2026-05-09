@@ -3,6 +3,7 @@
 ## 介绍
 - 一文搞懂七种基本的GC垃圾回收算法 https://mp.weixin.qq.com/s/M8R4QPidlCrr6vix4JUWmg
 - 垃圾回收的算法与实现 https://book.douban.com/subject/26821357/
+- 从 1960 到 2026：一文看透 Java、Go、Python 垃圾回收器的原理与演进 https://tonybai.com/2026/04/07/garbage-collectors-deep-dive/
 
 ## 原理
 实现原理
